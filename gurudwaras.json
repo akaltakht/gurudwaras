@@ -1,0 +1,312 @@
+[
+  {
+    "country": "US",
+    "name": "United States of America",
+    "states": [
+      {
+        "name": "Alabama",
+        "abbreviation": "AL",
+        "gurudwaras":[
+          {
+            "name":"",
+            "address":"",
+            "phone number":"",
+          },
+          {}
+
+
+        ]
+      },
+      {
+        "name": "Alaska",
+        "abbreviation": "AK",
+        "gurudwaras":[]
+      },
+      {
+        "name": "American Samoa",
+        "abbreviation": "AS",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Arizona",
+        "abbreviation": "AZ",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Arkansas",
+        "abbreviation": "AR",
+        "gurudwaras":[]
+      },
+      {
+        "name": "California",
+        "abbreviation": "CA",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Colorado",
+        "abbreviation": "CO",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Connecticut",
+        "abbreviation": "CT",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Delaware",
+        "abbreviation": "DE",
+        "gurudwaras":[]
+      },
+      {
+        "name": "District Of Columbia",
+        "abbreviation": "DC",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Federated States Of Micronesia",
+        "abbreviation": "FM",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Florida",
+        "abbreviation": "FL",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Georgia",
+        "abbreviation": "GA",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Guam",
+        "abbreviation": "GU",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Hawaii",
+        "abbreviation": "HI",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Idaho",
+        "abbreviation": "ID",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Illinois",
+        "abbreviation": "IL",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Indiana",
+        "abbreviation": "IN",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Iowa",
+        "abbreviation": "IA",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Kansas",
+        "abbreviation": "KS",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Kentucky",
+        "abbreviation": "KY",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Louisiana",
+        "abbreviation": "LA",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Maine",
+        "abbreviation": "ME",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Marshall Islands",
+        "abbreviation": "MH",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Maryland",
+        "abbreviation": "MD",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Massachusetts",
+        "abbreviation": "MA",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Michigan",
+        "abbreviation": "MI",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Minnesota",
+        "abbreviation": "MN",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Mississippi",
+        "abbreviation": "MS",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Missouri",
+        "abbreviation": "MO",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Montana",
+        "abbreviation": "MT",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Nebraska",
+        "abbreviation": "NE",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Nevada",
+        "abbreviation": "NV",
+        "gurudwaras":[]
+      },
+      {
+        "name": "New Hampshire",
+        "abbreviation": "NH",
+        "gurudwaras":[]
+      },
+      {
+        "name": "New Jersey",
+        "abbreviation": "NJ",
+        "gurudwaras":[]
+      },
+      {
+        "name": "New Mexico",
+        "abbreviation": "NM",
+        "gurudwaras":[]
+      },
+      {
+        "name": "New York",
+        "abbreviation": "NY",
+        "gurudwaras":[]
+      },
+      {
+        "name": "North Carolina",
+        "abbreviation": "NC",
+        "gurudwaras":[]
+      },
+      {
+        "name": "North Dakota",
+        "abbreviation": "ND",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Northern Mariana Islands",
+        "abbreviation": "MP",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Ohio",
+        "abbreviation": "OH",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Oklahoma",
+        "abbreviation": "OK",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Oregon",
+        "abbreviation": "OR",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Palau",
+        "abbreviation": "PW",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Pennsylvania",
+        "abbreviation": "PA",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Puerto Rico",
+        "abbreviation": "PR",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Rhode Island",
+        "abbreviation": "RI",
+        "gurudwaras":[]
+      },
+      {
+        "name": "South Carolina",
+        "abbreviation": "SC",
+        "gurudwaras":[]
+      },
+      {
+        "name": "South Dakota",
+        "abbreviation": "SD",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Tennessee",
+        "abbreviation": "TN",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Texas",
+        "abbreviation": "TX",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Utah",
+        "abbreviation": "UT",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Vermont",
+        "abbreviation": "VT",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Virgin Islands",
+        "abbreviation": "VI",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Virginia",
+        "abbreviation": "VA",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Washington",
+        "abbreviation": "WA",
+        "gurudwaras":[]
+      },
+      {
+        "name": "West Virginia",
+        "abbreviation": "WV",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Wisconsin",
+        "abbreviation": "WI",
+        "gurudwaras":[]
+      },
+      {
+        "name": "Wyoming",
+        "abbreviation": "WY",
+        "gurudwaras":[]
+      }
+    ]
+  }
+]
