@@ -1,7 +1,7 @@
 #Alabama
 
-Sikh Sangat of Alabama	Huntsville		904 San Ramon Avenue, Huntsville, Alabama 35802	
-Sikh Temple of Alabama	Bessemer	http://sikhtempleofalabama.com/	3335 Morgan Rd Bessemer, AL 35022	205-426-5566
+- Sikh Sangat of Alabama	Huntsville		904 San Ramon Avenue, Huntsville, Alabama 35802
+- Sikh Temple of Alabama	Bessemer	http://sikhtempleofalabama.com/	3335 Morgan Rd Bessemer, AL 35022	205-426-5566
 
 #Alaska
 Sikh Society of Alaska	Anchorage	
