@@ -300,6 +300,28 @@
         "abbreviation": "WI",
         "gurudwaras": [
           {
+            "name": "Sikh Society of Wisconsin - Madison",
+            "info": {
+              "website": "http://www.madisonwigurudwara.com/",
+              "address": {
+                "street": "6970 Century Ave",
+                "city": "Middleton",
+                "state": "WI",
+                "zipcode":"53562"
+              },
+              "contact": {
+                "phone": "608-831-4401",
+                "email": "info@madisonwigurudwara.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
             "name": "Sikh Temple of Wisconsin - Oak Creek",
             "info": {
               "website": "http://sikhtempleofwisconsin.com/",
