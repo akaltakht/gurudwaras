@@ -322,6 +322,28 @@
             }
           },
           {
+            "name": "Sikh Religious Society of Wisconsin	Brookfield",
+            "info": {
+              "website": "http://www.srsofwi.com/",
+              "address": {
+                "street": "3675 N. Calhoun Road",
+                "city": "Brookfield",
+                "state": "WI",
+                "zipcode":"53005"
+              },
+              "contact": {
+                "phone": "(262) 790-1600",
+                "email": "secretary@srsofwi.org"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
             "name": "Sikh Temple of Wisconsin - Oak Creek",
             "info": {
               "website": "http://sikhtempleofwisconsin.com/",
