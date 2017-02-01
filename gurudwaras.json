@@ -6,306 +6,327 @@
       {
         "name": "Alabama",
         "abbreviation": "AL",
-        "gurudwaras":[
+        "gurudwaras": [
           {
-            "name":"",
-            "address":"",
-            "phone number":"",
+            "name": "",
+            "address": "",
+            "phone number": "",
           },
           {}
-
-
         ]
       },
       {
         "name": "Alaska",
         "abbreviation": "AK",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "American Samoa",
         "abbreviation": "AS",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Arizona",
         "abbreviation": "AZ",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Arkansas",
         "abbreviation": "AR",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "California",
         "abbreviation": "CA",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Colorado",
         "abbreviation": "CO",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Connecticut",
         "abbreviation": "CT",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Delaware",
         "abbreviation": "DE",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "District Of Columbia",
         "abbreviation": "DC",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Federated States Of Micronesia",
         "abbreviation": "FM",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Florida",
         "abbreviation": "FL",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Georgia",
         "abbreviation": "GA",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Guam",
         "abbreviation": "GU",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Hawaii",
         "abbreviation": "HI",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Idaho",
         "abbreviation": "ID",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Illinois",
         "abbreviation": "IL",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Indiana",
         "abbreviation": "IN",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Iowa",
         "abbreviation": "IA",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Kansas",
         "abbreviation": "KS",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Kentucky",
         "abbreviation": "KY",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Louisiana",
         "abbreviation": "LA",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Maine",
         "abbreviation": "ME",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Marshall Islands",
         "abbreviation": "MH",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Maryland",
         "abbreviation": "MD",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Massachusetts",
         "abbreviation": "MA",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Michigan",
         "abbreviation": "MI",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Minnesota",
         "abbreviation": "MN",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Mississippi",
         "abbreviation": "MS",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Missouri",
         "abbreviation": "MO",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Montana",
         "abbreviation": "MT",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Nebraska",
         "abbreviation": "NE",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Nevada",
         "abbreviation": "NV",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "New Hampshire",
         "abbreviation": "NH",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "New Jersey",
         "abbreviation": "NJ",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "New Mexico",
         "abbreviation": "NM",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "New York",
         "abbreviation": "NY",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "North Carolina",
         "abbreviation": "NC",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "North Dakota",
         "abbreviation": "ND",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Northern Mariana Islands",
         "abbreviation": "MP",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Ohio",
         "abbreviation": "OH",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Oklahoma",
         "abbreviation": "OK",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Oregon",
         "abbreviation": "OR",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Palau",
         "abbreviation": "PW",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Pennsylvania",
         "abbreviation": "PA",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Puerto Rico",
         "abbreviation": "PR",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Rhode Island",
         "abbreviation": "RI",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "South Carolina",
         "abbreviation": "SC",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "South Dakota",
         "abbreviation": "SD",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Tennessee",
         "abbreviation": "TN",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Texas",
         "abbreviation": "TX",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Utah",
         "abbreviation": "UT",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Vermont",
         "abbreviation": "VT",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Virgin Islands",
         "abbreviation": "VI",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Virginia",
         "abbreviation": "VA",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Washington",
         "abbreviation": "WA",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "West Virginia",
         "abbreviation": "WV",
-        "gurudwaras":[]
+        "gurudwaras": []
       },
       {
         "name": "Wisconsin",
         "abbreviation": "WI",
-        "gurudwaras":[]
+        "gurudwaras": [
+          {
+            "name": "Sikh Temple of Wisconsin - Oak Creek",
+            "info": {
+              "website": "http://sikhtempleofwisconsin.com/",
+              "address": {
+                "street": "7512 South Howell St",
+                "city": "Oak Creek",
+                "state": "WI",
+                "zipcode": 53154
+              },
+              "contact": {
+                "phone": "414-764-SIKH(7454)",
+                "email": "sikhtempleofwi@gmail.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": "",
+              }
+            }
+          }
+        ]
       },
       {
         "name": "Wyoming",
         "abbreviation": "WY",
-        "gurudwaras":[]
+        "gurudwaras": []
       }
     ]
   }
