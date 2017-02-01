@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "info": {
+    "website": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zipcode":""
+    },
+    "contact": {
+      "phone": "",
+      "email": ""
+    },
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "google": ""
+    }
+  }
+}
