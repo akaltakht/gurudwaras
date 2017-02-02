@@ -322,7 +322,7 @@
             }
           },
           {
-            "name": "Sikh Religious Society of Wisconsin	Brookfield",
+            "name": "Sikh Religious Society of Wisconsin -Brookfield",
             "info": {
               "website": "http://www.srsofwi.com/",
               "address": {
@@ -344,6 +344,28 @@
             }
           },
           {
+            "name": "`",
+            "info": {
+              "website": "http://sikhtempleoffoxvalley.org/",
+              "address": {
+                "street": "1304 Midway Road",
+                "city": "Menasha",
+                "state": "WI",
+                "zipcode":"54952"
+              },
+              "contact": {
+                "phone": "920-221-2945",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
             "name": "Sikh Temple of Wisconsin - Oak Creek",
             "info": {
               "website": "http://sikhtempleofwisconsin.com/",
@@ -351,7 +373,7 @@
                 "street": "7512 South Howell St",
                 "city": "Oak Creek",
                 "state": "WI",
-                "zipcode": 53154
+                "zipcode": "53154"
               },
               "contact": {
                 "phone": "414-764-SIKH(7454)",
