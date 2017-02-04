@@ -78,24 +78,64 @@ Gurdwara Prabh Milne Ka Chao	Sacramento
 
 #Colorado
 
-Colorado Singh Sabha	Commerce City	http://ww1.coloradosinghsabha.org/	20555 E 120th Ave, Commerce City, CO 80022
-Guru Ghar Colorado Springs	Colorado Springs	http://gurughar.herokuapp.com/	4330 Iron Horse Trail, Colorado Springs, CO 80917
-Guru Amar Das Niwas Boulder	Boulder		3840 Baseline Rd, Boulder, CO 80303
-Guru Ram Das Ashram Colorado	Louisville	http://www.worldgurudwara.com/V4/352.asp	
+-   Colorado Singh Sabha	Commerce City	
+    Not working -http://ww1.coloradosinghsabha.org/	
+    20555 E 120th Ave, Commerce City, CO 80022
+    https://www.facebook.com/CSS.CO
+    (303) 659-4150
+
+
+-   Guru Ghar Colorado Springs	Colorado Springs	
+    http://www.gurugharcoloradosprings.org/
+    4330 Iron Horse Trail, Colorado Springs, CO 
+    https://www.facebook.com/pages/Gurughar-Colorado-Springs/322331441178806
+
+
+
+-   Guru Amar Das Niwas Boulder	Boulder		
+    3840 Baseline Rd, Boulder, CO 80303
+    Telephone(303) 494-6806
+
+
+-   Guru Ram Das Ashram Colorado	Louisville
+    277 S Carter Ave, Louisville, Colorado, United States Of America, 80027
+	http://www.worldgurudwara.com/V4/352.asp	
+    (303) 655-6170
 
 
 #Connecticut
 
-Gurdwara Sachkhand Darbar	Hamden	http://www.ctgurdwara.com/index.php	336 Welton Street, Hamden, CT 06517
-Gurdwara Guru Nanak Darbar	Southington		1610 West St Southington, Connecticut 06489
+-   Gurdwara Sachkhand Darbar	Hamden	
+    http://wwww.clufoir.com/Gurdwara/
+    336 Welton Street, Hamden, CT 06517
+    Email: SachkhandMail@gmail.com
+
+
+
+
+
+Gurdwara Guru Nanak Darbar	Southington		
+1610 West St Southington, Connecticut 06489
+https://www.facebook.com/Southington-Gurdwara-Sikh-Temple-Guru-Nanak-Darbar-CT-119383284787455/
+
 Guru Nanak Darbar	Ansonia
+
 Guru Tegh Bahadur Ji Foundation	Norwalk	http://www.gtbf.org/	
-Guru Ramdas Darbar	Windsor		564 Park Avenue, Windsor, CT 06095	
+
+-Guru Ramdas Darbar	Windsor		
+    564 Park Avenue, Windsor, CT 06095	
+    https://www.facebook.com/SriGuruRamdasDarbar
+
 
 #Delaware
 
-Gurdwara of Delaware	Newark	http://www.gurdwaraofdelaware.com	18 Shea Way Suite 108-109 Newark, DE 19713
-Sikh Center of Delaware	New Castle	http://www.sikhcenterofdelaware.org/	1107 S Dupont Hwy New Castle, DE 19720
+Gurdwara of Delaware	Newark	
+http://www.gurdwaraofdelaware.com	
+18 Shea Way Suite 108-109 Newark, DE 19713
+
+Sikh Center of Delaware	New Castle	
+http://www.sikhcenterofdelaware.org/	
+1107 S Dupont Hwy New Castle, DE 19720
 
 #District of Columbia
 The National Gurdwara	District of Columbia
@@ -119,23 +159,60 @@ Sadh Sangat of Georgia	Tucker		2135 Northlake Pkwy # 200, Tucker, GA, 30075
 
 #Hawaii
 
-Guru Ram Das Ashram	Kaneohe
+**Guru Ram Das Ashram	Kaneohe**
+    couldnot find more information
+    
 
 #Illinois
+-   Gurdwara Gurjot Parkash Sahib	Island Lake	
+    http://www.gurudwaragurjotprakashsahibchicago.com/	
+    217 W. State Road. (Route 176) Island Lake, Illinois 60042
+    ggpschicago@gmail.com
 
-Gurdwara Gurjot Parkash Sahib	Island Lake	http://www.gurudwaragurjotprakashsahibchicago.com/	217 W. State Road. (Route 176) Island Lake, Illinois 60042
-Gurdwara Sahib of Chicago	Chicago	[17]	2341 West Devon Avenue, Chicago, Illinois 60645
-Wheaton Gurdwara	Wheaton	http://ilscc.com/	2131 Creekside Drive, Wheaton, Illinois 60187
-Sikh Religious Society of Chicago	Palatine	http://www.srschicago.com/	1280 Winnetka Ave Palatine, IL 60067
-Nanaksar Gurudwara	Rockford		714 3rd Ave, Rockford, IL 61104
+-   Gurdwara Sahib of Chicago	Chicago	
+    2341 West Devon Avenue, Chicago, Illinois 60645
+    http://www.srsofchicago.com/
+    (773) 274-3133
+    https://www.facebook.com/pages/Gurdwara-Sahib-of-Chicago/108131335895909
+
+-   Wheaton Gurdwara	Wheaton	
+    http://ilscc.com/	
+    2131 Creekside Drive, Wheaton, Illinois 60187
+    (630) 510-9700
+    https://www.facebook.com/pages/Wheaton-Gurdwara/197215253648341
+
+-   Sikh Religious Society of Chicago	Palatine	
+    http://www.srschicago.com/	
+    1280 Winnetka Ave Palatine, IL 60067
+    (847) 358-1117
+    https://www.facebook.com/SRSChicago/?fref=ts
+
+**Nanaksar Gurudwara	Rockford		714 3rd Ave, Rockford, IL 61104**
+
 
 #Indiana
 
-Gurdwara Guru Nanak Darbar	Fishers	http://www.gurdwarasahibfishers.com 12200 E 131 Street
-Fishers, IN 46037
+-   Gurdwara Guru Nanak Darbar	Fishers	
+    http://www.gurdwarasahibfishers.com 
+    12200 E 131 Street
+    Fishers, IN 46037
+    (317) 773-8446
+    gurdwarafishers@gmail.com
 
-Gurdwara Jot Amrit Prakash	McCordsville	14880 E 96th St McCordsville, IN 46055
-Sikh Satsang of Indianapolis	Indianapolis	http://www.indianapolisgurdwara.org/community/
+    
+
+-   Gurdwara Jot Amrit Prakash	McCordsville	
+    14880 E 96th St McCordsville, IN 46055
+    (317) 714-8896
+    
+-   Sikh Satsang of Indianapolis	
+    http://indianapolisgurdwara.org/sikh/
+    https://www.facebook.com/Sikh-Satsang-of-Indianapolis-118146991642010/
+    10950 Southeastern Ave
+    Indianapolis, Indiana
+    (317) 862-7454
+
+
 Guru Nanak Sikh Society Indiana	Indianapolis	http://www.indygurdwara.com/
 Gurdwara Gur Shabd Parkash of Indianapolis 425 S High School Rd, Indianapolis, IN 4624
 Gurdwara Sri Hargobind Ji	Greenwood
@@ -353,13 +430,40 @@ Sikh Spirit Foundation	San Antonio	http://www.sikhspiritfoundation.org/index.php
 Sikh Temple of Utah	Taylorsville	http://www.sikhtempleofutah.com/
 
 #Virginia
-Guru Nanak Foundation of Tidewater	Chesapeake	http://www.vagurudwara.com/
-Sikh Center of Virginia	Manassas	http://www.sikhcenterofvirginia.org//
-Sikh Foundation of Virginia	Fairfax Station	http://www.sfova.org/
-Singh Sabha Gurdwara	Fairfax	http://ssgva.com/
-Richmond Gurdwara	Richmond	http://www.richmondgurdwara.org/
-Gurdwara Singh Sabha	Richmond	http://www.ricgurudwara.org/
-Roanoke Gurudwara	Salem	http://roanokegurudwara.org/
+
+- Guru Nanak Foundation of Tidewater	Chesapeake	http://www.vagurudwara.com/
+  780 Finck Ln, Chesapeake, VA 23320
+  757.548.8008
+  vagurudwara@gmail.com
+
+
+
+
+- Sikh Center of Virginia	Manassas	
+  8015 Buckhall Road, Manassas, VA 20111
+  Tel: 703-368-1300
+    http://www.sikhcenterofvirginia.org/
+    https://www.facebook.com/sikhcenterva
+    https://twitter.com/scvgurdwara
+
+
+
+
+- Sikh Foundation of Virginia	Fairfax Station	
+    http://www.sfova.org/
+
+
+Singh Sabha Gurdwara	Fairfax	
+Site not working : http://ssgva.com/
+
+Richmond Gurdwara	Richmond	
+http://www.richmondgurdwara.org/
+
+Gurdwara Singh Sabha	Richmond	
+http://www.ricgurudwara.org/
+
+Roanoke Gurudwara	Salem	
+http://roanokegurudwara.org/
 
 
 
