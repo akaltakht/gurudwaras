@@ -1,13 +1,35 @@
 #Alabama
 
-- Sikh Sangat of Alabama	Huntsville		904 San Ramon Avenue, Huntsville, Alabama 35802
-- Sikh Temple of Alabama	Bessemer	http://sikhtempleofalabama.com/	3335 Morgan Rd Bessemer, AL 35022	205-426-5566
+- Sikh Sangat of Alabama	Huntsville		
+    904 San Ramon Avenue, Huntsville, Alabama 35802
+    https://www.facebook.com/hsvsikhsangat/
+    
+- Sikh Temple of Alabama	Bessemer		
+    3335 Morgan Rd Bessemer, AL 35022	
+    205-426-5566
+    https://www.facebook.com/pg/sikhtempleofalabamaatbirmingham
+    http://sikhtempleofalabama.com/ 
+    
 
 #Alaska
-Sikh Society of Alaska	Anchorage	
+    Sikh Society of Alaska	Anchorage	
 
 #Arizona
-Guru Nanak Dwara	Phoenix	http://www.gurunanakdwara.com	9th St and Oak St, Phoenix, AZ 85006	602-810-0745	Arizona Sikh Gurdwara
+Guru Nanak Dwara	Phoenix	http://www.gurunanakdwara.com	
+
+    address:{
+    "street":"9th St and Oak St",
+     "city": "Phoenix",
+     "state":"AZ",
+      "zipcode": 85006	
+      }
+     "contact": "602-810-0745",	
+    "social": {
+    "facebook": "https://www.facebook.com/gurunanakdwara/"
+    "instagram": "https://www.instagram.com/gurunanakdwara/"
+    "twitter": "https://twitter.com/gurunanakdwara"
+    "google": "https://plus.google.com/+GuruNanakDwaraIncPhoenix"
+    }
 Arizona Sikh Gurdwara	Phoenix	http://www.arizonasikhgurdwara.com/	1129 E Sheridan, Phoenix, AZ 85006	602-716-0408
 Sikh Missionary Centre	Phoenix
 Sikh Religious Society of Phoenix	Scottsdale			
@@ -256,9 +278,38 @@ Sikh Gurdwara of Oklahoma	Oklahoma City	http://www.okcgurdwara.com/index.htm
 
 #Oregon
 SIKH CENTER OF OREGON	BEAVERTON	http://www.sikhcenteroforegon.com/	17514 SW Scholls Ferry Rd Beaverton OR 97007
+
+
+
+
+
 Sikh Gurdwara of Eugene	Eugene		
+Sikh Gurdwara of Eugene, Eugene, OR
+3635 Hilyard Street
+Eugene, OR 97405
+Phone: 541-686-0432
+
+
+
+
+
 Dashmesh Darbar Sikh Temple	Salem	http://salemgurdwara.org/	
+Dashmesh Darbar Sikh Temple, Salem, OR
+860 Oakhill Ave SE
+Salem, OR 97302
+Phone: 503-391-7031
+Web: www.salemgurdwara.com
+
+
+
+
 SRI GURU AMAR DAS JI SIKH GURDWARA	Salem	http://www.salemsikhgurdwara.org/	3012 Wiltsey Street SE, Salem, OR 97317
+
+
+
+
+
+
 
 #Pennsylvania
 Erie Sikh Gurudwara	Erie, Pennsylvania		1144 W 8TH Street, Erie, PA 196510
@@ -310,21 +361,74 @@ Richmond Gurdwara	Richmond	http://www.richmondgurdwara.org/
 Gurdwara Singh Sabha	Richmond	http://www.ricgurudwara.org/
 Roanoke Gurudwara	Salem	http://roanokegurudwara.org/
 
+
+
+
+
+
+
 #Washington
-Gurudwara Sikh Centre of Seattle	Bothell	http://www.sikhcentreofseattle.org/
-Guru Ram Dass Sikh Community in Vancouver	Vancouver	
-Guru Ramdass Gurdwara Sahib	Vancouver	http://www.portlandsikhs.com/ http://www.gururamdassgurudwara.org/
+
+Gurudwara Sikh Centre of Seattle	
+http://www.sikhcentreofseattle.org/
+20412 Bothell Everett Highway
+Bothell, WA 98012
+(425) 487-4878
+info@sikhcentreofseattle.org
+
+
+Guru Ramdass Gurdwara Sahib	Vancouver	 http://www.gururamdassgurudwara.org/
+3600 O Street
+Vancouver, WA 98663
+Phone: 360-696-5568
+vangurudwara@gmail.com
+
+
 Gurudwara Singh Sabha of Washington	Renton	http://www.gssrenton.com/
-Gurudwara Guru Teg Bahadur Sahib Ji	Kent	http://gurdwarasahibkent.com
+Gurdwara Singh Sabha of Washington, 
+Renton, WA
+5200 Talbot Road South
+Renton, WA 98055
+Phone: 425-226-2277
+Web: www.seattlegurdwara.com
+
+
+
+Gurudwara Guru Teg Bahadur Sahib Ji	Kent	
+site not working -- http://gurdwarasahibkent.com
+
 Gurudwara Sacha Marg	Place Kent	
-Guru Nanak Sikh Temple	Marysville	http://www.worldgurudwara.com/V4/559.asp
-Spokane Gurdwara Sahib	Spokane	http://www.spokanegurudwara.org
+https://www.facebook.com/pg/gurudwarasachamaragsahib/about/?ref=page_internal
+
+
+Guru Nanak Sikh Temple	Marysville
+https://www.facebook.com/sikhtemplewa/
+
+
+Spokane Gurdwara Sahib	Spokane	
+site not working    http://www.spokanegurudwara.org
+https://www.facebook.com/pages/Sikh-Temple-of-Spokane-Inc/116105868411485
+
+
+
+
 Guru Nanak Gursikh Gurudwara	Lynden
 
+https://www.facebook.com/tsikh76
+
+
 #Wisconsin
-Sikh Society of Wisconsin-Madison	Middleton	http://www.madisonwigurudwara.com/
-Guru Ram Das Ashram	Madison
-Sikh Religious Society of Wisconsin	Brookfield	http://www.srsofwi.com/
-Sikh Temple of Fox Valley	Appleton	http://sikhtempleoffoxvalley.org/
-Sikh Religious Society Of The Midwest Inc	Mt Horeb	
-Sikh Temple of Wisconsin	Oak Creek	
+- Sikh Society of Wisconsin-Madison	
+- **Guru Ram Das Ashram	Madison**
+- Sikh Religious Society of Wisconsin - Brookfield	
+- Sikh Temple of Fox Valley	Appleton	
+- **Sikh Religious Society Of The Midwest Inc	Mt Horeb**	
+- Sikh Temple of Wisconsin	Oak Creek	
+    
+
+
+
+
+
+
+ 
