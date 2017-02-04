@@ -171,23 +171,23 @@ Sadh Sangat of Georgia	Tucker		2135 Northlake Pkwy # 200, Tucker, GA, 30075
 
     ggpschicago@gmail.com
 
--   Gurdwara Sahib of Chicago	Chicago	
-    2341 West Devon Avenue, Chicago, Illinois 60645
-    http://www.srsofchicago.com/
-    (773) 274-3133
-    https://www.facebook.com/pages/Gurdwara-Sahib-of-Chicago/108131335895909
+-   Gurdwara Sahib of Chicago	Chicago  
+    2341 West Devon Avenue, Chicago, Illinois 60645  
+    http://www.srsofchicago.com/  
+    (773) 274-3133  
+    https://www.facebook.com/pages/Gurdwara-Sahib-of-Chicago/108131335895909  
 
--   Wheaton Gurdwara	Wheaton	
-    http://ilscc.com/	
-    2131 Creekside Drive, Wheaton, Illinois 60187
-    (630) 510-9700
-    https://www.facebook.com/pages/Wheaton-Gurdwara/197215253648341
+-   Wheaton Gurdwara	Wheaton	  
+    http://ilscc.com/	  
+    2131 Creekside Drive, Wheaton, Illinois 60187  
+    (630) 510-9700  
+    https://www.facebook.com/pages/Wheaton-Gurdwara/197215253648341  
 
--   Sikh Religious Society of Chicago	Palatine	
-    http://www.srschicago.com/	
-    1280 Winnetka Ave Palatine, IL 60067
-    (847) 358-1117
-    https://www.facebook.com/SRSChicago/?fref=ts
+-   Sikh Religious Society of Chicago	Palatine	  
+    http://www.srschicago.com/	  
+    1280 Winnetka Ave Palatine, IL 60067  
+    (847) 358-1117  
+    https://www.facebook.com/SRSChicago/?fref=ts  
 
 **Nanaksar Gurudwara	Rockford		714 3rd Ave, Rockford, IL 61104**
 
