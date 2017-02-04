@@ -166,9 +166,7 @@ Sadh Sangat of Georgia	Tucker		2135 Northlake Pkwy # 200, Tucker, GA, 30075
 #Illinois
 
 -   Gurdwara Gurjot Parkash Sahib	Island Lake
-
     http://www.gurudwaragurjotprakashsahibchicago.com/
-
     217 W. State Road. (Route 176) Island Lake, Illinois 60042
 
     ggpschicago@gmail.com
