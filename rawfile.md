@@ -1,40 +1,18 @@
 #Alabama
 
-- Sikh Sangat of Alabama	Huntsville		
-    904 San Ramon Avenue, Huntsville, Alabama 35802
-    https://www.facebook.com/hsvsikhsangat/
-
-- Sikh Temple of Alabama	Bessemer		
-    3335 Morgan Rd Bessemer, AL 35022
-    205-426-5566 		
-    https://www.facebook.com/pg/sikhtempleofalabamaatbirmingham		
-    http://sikhtempleofalabama.com/ 		
-
+- Sikh Sangat of Alabama - Huntsville
+- Sikh Temple of Alabama - Bessemer
 
 #Alaska  
--  **Sikh Society of Alaska	Anchorage**
+  -  **Sikh Society of Alaska	Anchorage**   
 
 #Arizona
 
--   Guru Nanak Dwara - Phoenix
-    http://www.gurunanakdwara.com			
-    9th St and Oak St Phoenix, AZ - 85006			
-    602-810-0745			
-    https://www.facebook.com/gurunanakdwara		
-    https://www.instagram.com/gurunanakdwara		
-    https://twitter.com/gurunanakdwara		
-    https://plus.google.com/+GuruNanakDwaraIncPhoenix		
-
-
--   Arizona Sikh Gurdwara	Phoenix
-    http://www.arizonasikhgurdwara.com/
-    1129 E Sheridan, Phoenix, AZ 85006			
-    602-716-0408		
-
--   Sikh Missionary Centre	Phoenix
+-   Guru Nanak Dwara - Phoenix  
+-   Arizona Sikh Gurdwara	Phoenix  
+-   Sikh Missionary Centre	Phoenix  
     http://sikhmissionary.net/
-
-**Sikh Religious Society of Phoenix	Scottsdale**
+- **Sikh Religious Society of Phoenix	Scottsdale**
 
 -   Siri Guru Singh Sabha Gurudwara of Tempe Arizona	Tempe
     http://www.gurdwara.20m.com/			

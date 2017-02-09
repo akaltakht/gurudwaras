@@ -6,7 +6,52 @@
       {
         "name": "Alabama",
         "abbreviation": "AL",
-        "gurudwaras": []
+        "gurudwaras": [
+          {
+            "name": "Sikh Sangat of Alabama- Huntsville",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "904 San Ramon Avenue",
+                "city": "Huntsville",
+                "state": "AL",
+                "zipcode": "35802"
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/hsvsikhsangat/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Temple of Alabama - Bessemer",
+            "info": {
+              "website": "http://sikhtempleofalabama.com/",
+              "address": {
+                "street": "3335 Morgan Rd",
+                "city": "Bessemer",
+                "state": "AL",
+                "zipcode": "35022"
+              },
+              "contact": {
+                "phone": "205-426-5566",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pg/sikhtempleofalabamaatbirmingham",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
+        ]
       },
       {
         "name": "Alaska",
