@@ -138,7 +138,52 @@
       {
         "name": "Arkansas",
         "abbreviation": "AR",
-        "gurudwaras": []
+        "gurudwaras": [
+          {
+            "name": "Guru Nanak Sikh Temple - Rogers",
+            "info": {
+              "website": "http://www.gnstnwa.org/",
+              "address": {
+                "street": "1515 West Hudson Road",
+                "city": "Rogers",
+                "state": "AR",
+                "zipcode": "72756"
+              },
+              "contact": {
+                "phone": "479-270-1620",
+                "email": "gnstnwa@gmail.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Religious Society of Little Rock",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "333 Newman Dr",
+                "city": "North Little Rock",
+                "state": "AR",
+                "zipcode": ""
+              },
+              "contact": {
+                "phone": "501-945-3333",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/GurudwaraLR/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
+        ]
       },
       {
         "name": "California",

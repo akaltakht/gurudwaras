@@ -7,7 +7,6 @@
 -  **Sikh Society of Alaska	Anchorage**
 
 #Arizona
-
 -   Guru Nanak Dwara - Phoenix  
 -   Arizona Sikh Gurdwara	Phoenix  
 - **Sikh Religious Society of Phoenix	Scottsdale**
@@ -16,16 +15,7 @@
 
 #Arkansas
 -   Guru Nanak Sikh Temple	Rogers
-    http://www.gnstnwa.org/		
-    gnstnwa@gmail.com
-    1515 West Hudson Road, Rogers, AR 72756
-    (479) 270-1620
-
 -   Sikh Religious Society of Little Rock		
-    333 Newman Dr
-    North Little Rock, Arkansas
-    (501) 945-3333
-    https://www.facebook.com/GurudwaraLR/
 
 
 #California
