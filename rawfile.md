@@ -3,19 +3,19 @@
 - Sikh Sangat of Alabama	Huntsville		
     904 San Ramon Avenue, Huntsville, Alabama 35802
     https://www.facebook.com/hsvsikhsangat/
-    
+
 - Sikh Temple of Alabama	Bessemer		
-    3335 Morgan Rd Bessemer, AL 35022	
+    3335 Morgan Rd Bessemer, AL 35022
     205-426-5566 		
     https://www.facebook.com/pg/sikhtempleofalabamaatbirmingham		
     http://sikhtempleofalabama.com/ 		
-    
 
-#Alaska
-    Sikh Society of Alaska	Anchorage	
+
+#Alaska  
+-  **Sikh Society of Alaska	Anchorage**
 
 #Arizona
-    
+
 -   Guru Nanak Dwara - Phoenix
     http://www.gurunanakdwara.com			
     9th St and Oak St Phoenix, AZ - 85006			
@@ -24,64 +24,104 @@
     https://www.instagram.com/gurunanakdwara		
     https://twitter.com/gurunanakdwara		
     https://plus.google.com/+GuruNanakDwaraIncPhoenix		
-    		
-		
+
+
 -   Arizona Sikh Gurdwara	Phoenix
-    http://www.arizonasikhgurdwara.com/	
+    http://www.arizonasikhgurdwara.com/
     1129 E Sheridan, Phoenix, AZ 85006			
     602-716-0408		
-    
--    Sikh Missionary Centre	Phoenix
-    	http://sikhmissionary.net/
-    
+
+-   Sikh Missionary Centre	Phoenix
+    http://sikhmissionary.net/
+
 **Sikh Religious Society of Phoenix	Scottsdale**
-    
+
 -   Siri Guru Singh Sabha Gurudwara of Tempe Arizona	Tempe
     http://www.gurdwara.20m.com/			
     820 W Tulane Drive Tempe, Arizona 85282
     480-777-1340				
-    
+
 
 #Arkansas
-    Guru Nanak Sikh Temple	Rogers	http://www.worldgurudwara.com/V4/401914.asp		
-    
-    Sikh Religious Society of Little Rock	North Little Rock, AR	https://www.facebook.com/GurudwaraLR/
+-   Guru Nanak Sikh Temple	Rogers
+    http://www.gnstnwa.org/		
+    gnstnwa@gmail.com
+    1515 West Hudson Road, Rogers, AR 72756
+    (479) 270-1620
+
+-   Sikh Religious Society of Little Rock		
+    333 Newman Dr
+    North Little Rock, Arkansas
+    (501) 945-3333
+    https://www.facebook.com/GurudwaraLR/
 
 
 #California
-    Tri-Valley Sikh Center - Livermore Gurdwara
+    -Tri-Valley Sikh Center - Livermore Gurdwara
+    2089 N Livermore Ave, Livermore, CA 94551
     City Livermore			 
-    trivalleysikhcenter.org		
+    http://trivalleysikhcenter.org		
+    trivalleysikhcenter@gmail.com
+    https://twitter.com/TriValleySikhs
+    https://www.facebook.com/TriValleySikhCenter
 
-    Sikh Gurdwara of Buena Park	Buena Park	
-    http://www.gurdwarabuenapark.com/		
+
+    -Sikh Gurdwara of Buena Park	Buena Park
+    http://www.gurdwarabuenapark.com/
+    6911 Stanton Avenue, Buena Park CA 90624
+    (714) 670-8843
+    https://www.facebook.com/pages/Buena-Park-Gurdwara/145981025447351
 
     Guru Ram Das Gurdwara	Los Angeles			
-    http://www.gururamdasashram.org/gurdwara		
-    
+    http://www.gururamdasashram.org/gurdwara
+    		1620 Preuss Road
+            Los Angeles, California 90035
+            (310) 858-7691
+            coordinator@gururamdasashram.org
+
+
     Sikh Gurdwara of Los Angeles	North Hollywood			
-    http://www.lankershimgurdwara.com/		
-    
+        http://www.lankershimgurdwara.com/		
+        7640 Lankershim Blvd N. Hollywood blvd CA 91605 US
+        +1.(818) 765—9399
+
     Hollywood Sikh Temple (Gurdwara Vermont)	Los Angeles
-    http://hollywoodsikhtemple.com/
+        http://hollywoodsikhtemple.com/
+        hollywoodsikhtemple@gmail.com
+        323-665-7707
+
+
 
     Guru Nanak Sikh Temple of USA	Buena Park	http://www.buenaparkgurdwara.org/index.html
 
     Sikh Gurdwara of San Francisco	San Mateo	http://www.sfgurdwara.com
+    P.O. Box 25493
+    San Mateo, CA 94402
+    ph: 650-520-5797
+    admin@sfgurdwara.com
 
     Gurdwara of Milpitas	Milpitas	http://www.gurdwaraofmilpitas.com/
+    1180 Cadillac Court Milpitas CA 95035
+    408-946-1399
 
     Gurudwara Gurnanak Prakash Damdami Taksal	Tracy
+    Not working :http://www.tracygurdwara.com/
+    16101 W Grant Line Rd
+    Tracy, California
+    (209) 346-4270
 
-    Gurdwara Gurnanak Parkash (Lincoln)	Fresno	http://www.gurdwaragurnanakprakash.com/
+    Gurdwara Gurnanak Parkash (Lincoln)	Fresno
+    http://www.gurdwaragurnanakprakash.com/
 
     Guru Nanak Sikh Society (Beechwood)	Fresno
 
-    Nanaksar Satsang Sabha (Cornelia)	Fresno	http://www.gurdwarananaksar.com/
+    Nanaksar Satsang Sabha (Cornelia)	Fresno
+    http://www.gurdwarananaksar.com/
 
     Gurdwara Anandgarh Sahib	Kerman
 
-    Gurdwara of Norco	Norco, CA	http://www.norcogurdwara.org/
+    Gurdwara of Norco	Norco, CA
+    http://www.norcogurdwara.org/
 
     Sikh Center of Pacific Coast	Selma
 
@@ -91,49 +131,58 @@
 
     Guru Nanak Sikh Temple	San Joaquin
 
-    Sikh Center of San Francisco Bay Area	El Sobrante	http://www.mygurdwara.com/Default.aspx/
+    Sikh Center of San Francisco Bay Area	El Sobrante
+    http://www.mygurdwara.com/Default.aspx/
 
-    Gurdwara Sahib Fremont	Fremont	http://www.fremontgurdwara.org/
+    Gurdwara Sahib Fremont	Fremont
+    http://www.fremontgurdwara.org/
 
     Riverside Gurdwara	Riverside
 
     The Sikh Foundation of the North Bay/Santa Rosa Gurdwara Sahib	Santa Rosa
 
-    Gurdwara Sahib of San Jose	San Jose	http://www.sikhgurudwarasj.org/
+    Gurdwara Sahib of San Jose	San Jose
+    http://www.sikhgurudwarasj.org/
 
     Shri Guru Ravidass Sabha Pittsburg	Pittsburg
 
-    Sikh Gurdwara Sahib Stockton	Stockton	http://www.stocktongurdwarasahib.com/
+    Sikh Gurdwara Sahib Stockton	Stockton
+    http://www.stocktongurdwarasahib.com/
 
-    Sikh Foundation San Diego (SFSD)	San Diego	http://www.sdsikhs.org
+    Sikh Foundation San Diego (SFSD)	San Diego
+    http://www.sdsikhs.org
 
-    Gurdwara Sahib Hayward	Hayward	http://www.haywardgurdwara.com/bin/
+    Gurdwara Sahib Hayward	Hayward
+    http://www.haywardgurdwara.com/bin/
 
-    Guru Ravidass Temple Sacramento	Sacramento	http://www.gururavidasstemplesacramento.com
+    Guru Ravidass Temple Sacramento	Sacramento
+    http://www.gururavidasstemplesacramento.com
 
     Gurdwara Singh Sahiba Milpitas	Milpitas
 
-    Shri Guru Singh Sabha Walnut	Walnut	http://sikhtemplewalnut.tripod.com/
+    Shri Guru Singh Sabha Walnut	Walnut
+    http://sikhtemplewalnut.tripod.com/
 
-    Capital Sikh Center*	Sacramento	//website pending/
+    Capital Sikh Center*	Sacramento
 
-    Sacramento Sikh Society	Sacramento	http://sacsikhsociety.org/
+    Sacramento Sikh Society	Sacramento
+    http://sacsikhsociety.org/
 
     Gurdwara Prabh Milne Ka Chao	Sacramento
 
 
 #Colorado
 
--   Colorado Singh Sabha	Commerce City	
-    Not working -http://ww1.coloradosinghsabha.org/	
+-   Colorado Singh Sabha	Commerce City
+    Not working -http://ww1.coloradosinghsabha.org/
     20555 E 120th Ave, Commerce City, CO 80022
     https://www.facebook.com/CSS.CO
     (303) 659-4150
 
 
--   Guru Ghar Colorado Springs	Colorado Springs	
+-   Guru Ghar Colorado Springs	Colorado Springs
     http://www.gurugharcoloradosprings.org/
-    4330 Iron Horse Trail, Colorado Springs, CO 
+    4330 Iron Horse Trail, Colorado Springs, CO
     https://www.facebook.com/pages/Gurughar-Colorado-Springs/322331441178806
 
 
@@ -145,7 +194,7 @@
 
 -   Guru Ram Das Ashram Colorado	Louisville
     277 S Carter Ave, Louisville, Colorado, United States Of America, 80027
-	http://www.worldgurudwara.com/V4/352.asp	
+	http://www.worldgurudwara.com/V4/352.asp
     (303) 655-6170
 
 
@@ -165,7 +214,7 @@
     Guru Tegh Bahadur Ji Foundation	Norwalk	http://www.gtbf.org/
 
 -   Guru Ramdas Darbar	Windsor
-    564 Park Avenue, Windsor, CT 06095	
+    564 Park Avenue, Windsor, CT 06095
     https://www.facebook.com/SriGuruRamdasDarbar
 
 
@@ -187,23 +236,58 @@
     Govind Sukh Sagar	Clermont
     Govind Sukh Sagar	Orlando
     Nanaksar Thath Isher Darbar	Kissimmee	http://www.gurdwarananaksarflorida.com/
+        2480 N Hoagland Blvd
+        Kissimmee, FL 34741
+        407-846-1291
+        info@gurdwarananaksarflorida.com
+
+
+
     Tampa Gurdwara	Thonotosassa	http://www.tampagurdwara.com/
-    Sikh Society of Central Florida	Oviedo	http://www.orlandogurdwara.com/
-    Sikh Society of Florida	Ft Lauderdale	http://southfloridagurudwara.org/
-    Sikh Society of North East Florida	Jacksonville	http://www.jaxgurudwara.org
+    15302 Morris Bridge Road, Thonotosassa FL 33592
+    Phone 813-986-6205
+
+
+    Sikh Society of Central Florida	Oviedo   	
+    http://www.orlandogurdwara.com/   
+    2527 W STATE ROAD 426, OVIEDO, FL 32765,    
+    PH: 407-366-3136   
+
+
+
+    Sikh Society of Florida	Ft Lauderdale
+    http://southfloridagurudwara.org/   
+
+
+    Sikh Society of North East Florida	Jacksonville
+    http://www.jaxgurudwara.org   
+    6019 Morrow Street East, Jacksonville FL 32217
+    904-620-0777
+    https://www.facebook.com/jaxgurudwara
+
 
 #Georgia
-    Atlanta Sikh Gurdwara	Stone Mountain	1821 S Hairston Rd Stone Mountain, GA 30088
-    Guru Nanak Darbar	Augusta		2252 Nellie Dr., Augusta, GA 30906
-    Guru Singh Sabha Augusta	Evans
-    Sewa Gurudwara Sahib	Roswell	http://www.sewageorgia.org/	10590, WoodStock Rd, Roswell GA 30075
-    Sadh Sangat of Georgia	Tucker		2135 Northlake Pkwy # 200, Tucker, GA, 30075
+
+    Atlanta Sikh Gurdwara - Stone Mountain
+    1821 S Hairston Rd Stone Mountain, GA 30088
+
+    Guru Nanak Darbar - Augusta		2252 Nellie Dr., Augusta, GA 30906
+
+    Guru Singh Sabha Augusta - Evans
+
+    Sewa Gurudwara Sahib	Roswell
+    http://www.sewageorgia.org/	10590,
+    WoodStock Rd, Roswell GA 30075   
+
+    Sadh Sangat of Georgia	Tucker		   
+    2135 Northlake Pkwy # 200, Tucker, GA, 30075   
+
 
 #Hawaii
 
 **Guru Ram Das Ashram	Kaneohe**
     couldnot find more information
-    
+
 
 #Illinois
 
@@ -236,20 +320,20 @@
 
 #Indiana
 
--   Gurdwara Guru Nanak Darbar	Fishers	
-    http://www.gurdwarasahibfishers.com 
+-   Gurdwara Guru Nanak Darbar	Fishers
+    http://www.gurdwarasahibfishers.com
     12200 E 131 Street
     Fishers, IN 46037
     (317) 773-8446
     gurdwarafishers@gmail.com
 
-    
 
--   Gurdwara Jot Amrit Prakash	McCordsville	
+
+-   Gurdwara Jot Amrit Prakash	McCordsville
     14880 E 96th St McCordsville, IN 46055
     (317) 714-8896
-    
--   Sikh Satsang of Indianapolis	
+
+-   Sikh Satsang of Indianapolis
     http://indianapolisgurdwara.org/sikh/
     https://www.facebook.com/Sikh-Satsang-of-Indianapolis-118146991642010/
     10950 Southeastern Ave
@@ -570,7 +654,7 @@
 
 
 
-- Sikh Center of Virginia	Manassas	
+- Sikh Center of Virginia	Manassas
   8015 Buckhall Road, Manassas, VA 20111
   Tel: 703-368-1300
     http://www.sikhcenterofvirginia.org/
@@ -580,31 +664,27 @@
 
 
 
-- Sikh Foundation of Virginia	Fairfax Station	
+- Sikh Foundation of Virginia	Fairfax Station
     http://www.sfova.org/
 
 
-Singh Sabha Gurdwara	Fairfax	
+Singh Sabha Gurdwara	Fairfax
 Site not working : http://ssgva.com/
 
-Richmond Gurdwara	Richmond	
+Richmond Gurdwara	Richmond
 http://www.richmondgurdwara.org/
 
-Gurdwara Singh Sabha	Richmond	
+Gurdwara Singh Sabha	Richmond
 http://www.ricgurudwara.org/
 
-Roanoke Gurudwara	Salem	
+Roanoke Gurudwara	Salem
 http://roanokegurudwara.org/
-
-
-
-
 
 
 
 #Washington
 
-Gurudwara Sikh Centre of Seattle	
+Gurudwara Sikh Centre of Seattle
 http://www.sikhcentreofseattle.org/
 20412 Bothell Everett Highway
 Bothell, WA 98012
@@ -620,7 +700,7 @@ vangurudwara@gmail.com
 
 
 Gurudwara Singh Sabha of Washington	Renton	http://www.gssrenton.com/
-Gurdwara Singh Sabha of Washington, 
+Gurdwara Singh Sabha of Washington,
 Renton, WA
 5200 Talbot Road South
 Renton, WA 98055
@@ -629,10 +709,10 @@ Web: www.seattlegurdwara.com
 
 
 
-Gurudwara Guru Teg Bahadur Sahib Ji	Kent	
+Gurudwara Guru Teg Bahadur Sahib Ji	Kent
 site not working -- http://gurdwarasahibkent.com
 
-Gurudwara Sacha Marg	Place Kent	
+Gurudwara Sacha Marg	Place Kent
 https://www.facebook.com/pg/gurudwarasachamaragsahib/about/?ref=page_internal
 
 
@@ -640,7 +720,7 @@ Guru Nanak Sikh Temple	Marysville
 https://www.facebook.com/sikhtemplewa/
 
 
-Spokane Gurdwara Sahib	Spokane	
+Spokane Gurdwara Sahib	Spokane
 site not working    http://www.spokanegurudwara.org
 https://www.facebook.com/pages/Sikh-Temple-of-Spokane-Inc/116105868411485
 
@@ -648,22 +728,13 @@ https://www.facebook.com/pages/Sikh-Temple-of-Spokane-Inc/116105868411485
 
 
 Guru Nanak Gursikh Gurudwara	Lynden
-
 https://www.facebook.com/tsikh76
 
 
 #Wisconsin
-- Sikh Society of Wisconsin-Madison	
+- Sikh Society of Wisconsin-Madison
 - **Guru Ram Das Ashram	Madison**
-- Sikh Religious Society of Wisconsin - Brookfield	
-- Sikh Temple of Fox Valley	Appleton	
-- **Sikh Religious Society Of The Midwest Inc	Mt Horeb**	
-- Sikh Temple of Wisconsin	Oak Creek	
-    
-
-
-
-
-
-
- 
+- Sikh Religious Society of Wisconsin - Brookfield
+- Sikh Temple of Fox Valley	Appleton
+- **Sikh Religious Society Of The Midwest Inc	Mt Horeb**
+- Sikh Temple of Wisconsin	Oak Creek

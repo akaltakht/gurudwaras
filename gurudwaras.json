@@ -6,14 +6,7 @@
       {
         "name": "Alabama",
         "abbreviation": "AL",
-        "gurudwaras": [
-          {
-            "name": "",
-            "address": "",
-            "phone number": "",
-          },
-          {}
-        ]
+        "gurudwaras": []
       },
       {
         "name": "Alaska",
@@ -28,7 +21,74 @@
       {
         "name": "Arizona",
         "abbreviation": "AZ",
-        "gurudwaras": []
+        "gurudwaras": [
+          {
+            "name": "Guru Nanak Dwara - Phoenix",
+            "info": {
+              "website": "http://www.gurunanakdwara.com",
+              "address": {
+                "street": "9th St and Oak St",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zipcode": "85006"
+              },
+              "contact": {
+                "phone": "602-810-0745",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/gurunanakdwara",
+                "instagram": "https://www.instagram.com/gurunanakdwara",
+                "twitter": "https://twitter.com/gurunanakdwara",
+                "google": "https://plus.google.com/+GuruNanakDwaraIncPhoenix"
+              }
+            }
+          },
+          {
+            "name": "Arizona Sikh Gurdwara	Phoenix",
+            "info": {
+              "website": "http://www.arizonasikhgurdwara.com/",
+              "address": {
+                "street": "1129 E Sheridan",
+                "city": "Phoenix",
+                "state": "AZ",
+                "zipcode": "85006"
+              },
+              "contact": {
+                "phone": "602-716-0408",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "",
+                "city": "",
+                "state": "",
+                "zipcode": ""
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
+        ]
       },
       {
         "name": "Arkansas",
@@ -307,7 +367,7 @@
                 "street": "6970 Century Ave",
                 "city": "Middleton",
                 "state": "WI",
-                "zipcode":"53562"
+                "zipcode": "53562"
               },
               "contact": {
                 "phone": "608-831-4401",
@@ -329,7 +389,7 @@
                 "street": "3675 N. Calhoun Road",
                 "city": "Brookfield",
                 "state": "WI",
-                "zipcode":"53005"
+                "zipcode": "53005"
               },
               "contact": {
                 "phone": "(262) 790-1600",
@@ -351,7 +411,7 @@
                 "street": "1304 Midway Road",
                 "city": "Menasha",
                 "state": "WI",
-                "zipcode":"54952"
+                "zipcode": "54952"
               },
               "contact": {
                 "phone": "920-221-2945",
