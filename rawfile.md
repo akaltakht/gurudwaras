@@ -4,20 +4,14 @@
 - Sikh Temple of Alabama - Bessemer
 
 #Alaska  
-  -  **Sikh Society of Alaska	Anchorage**   
+-  **Sikh Society of Alaska	Anchorage**
 
 #Arizona
 
 -   Guru Nanak Dwara - Phoenix  
 -   Arizona Sikh Gurdwara	Phoenix  
--   Sikh Missionary Centre	Phoenix  
-    http://sikhmissionary.net/
 - **Sikh Religious Society of Phoenix	Scottsdale**
-
--   Siri Guru Singh Sabha Gurudwara of Tempe Arizona	Tempe
-    http://www.gurdwara.20m.com/			
-    820 W Tulane Drive Tempe, Arizona 85282
-    480-777-1340				
+-   Siri Guru Singh Sabha Gurudwara of Tempe
 
 
 #Arkansas
