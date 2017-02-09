@@ -5,11 +5,11 @@
     https://www.worldgurudwaras.com/ not being open source, and there is no data for the same purpose.
 
 ###Tasks
-- Coverting the list here https://en.wikipedia.org/wiki/List_of_gurdwaras_in_the_United_States into JSON format
----
+    Coverting the list here https://en.wikipedia.org/wiki/List_of_gurdwaras_in_the_United_States into JSON format
+
 
 #Contribute
-You can contribute by - 
+You can contribute by -   
 1. Cleaning up rawfile.md and putting data into json file  
 2. Finding more data for authenticity of the data  
     - Adding social network information  
