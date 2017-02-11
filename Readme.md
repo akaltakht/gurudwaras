@@ -11,7 +11,7 @@
 #Contribute
 You can contribute by -   
 1. Cleaning up rawfile.md and putting data into json file  
-2. Finding more data for authenticity of the data  
+2. Finding more data or verify authenticity of the current data  
     - Adding social network information  
     - Adding contact information of the place.  
   
