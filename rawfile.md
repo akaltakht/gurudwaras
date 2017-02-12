@@ -1,7 +1,7 @@
 #Alabama
 
-- Sikh Sangat of Alabama - Huntsville
-- Sikh Temple of Alabama - Bessemer
+-   Sikh Sangat of Alabama - Huntsville
+-   Sikh Temple of Alabama - Bessemer
 
 #Alaska  
 -  **Sikh Society of Alaska	Anchorage**
@@ -19,119 +19,36 @@
 
 
 #California
-    -Tri-Valley Sikh Center - Livermore Gurdwara
-    2089 N Livermore Ave, Livermore, CA 94551
-    City Livermore			 
-    http://trivalleysikhcenter.org		
-    trivalleysikhcenter@gmail.com
-    https://twitter.com/TriValleySikhs
-    https://www.facebook.com/TriValleySikhCenter
-
-
-    -Sikh Gurdwara of Buena Park	Buena Park
-    http://www.gurdwarabuenapark.com/
-    6911 Stanton Avenue, Buena Park CA 90624
-    (714) 670-8843
-    https://www.facebook.com/pages/Buena-Park-Gurdwara/145981025447351
-
-    Guru Ram Das Gurdwara	Los Angeles			
-    http://www.gururamdasashram.org/gurdwara
-    		1620 Preuss Road
-            Los Angeles, California 90035
-            (310) 858-7691
-            coordinator@gururamdasashram.org
-
-
-    Sikh Gurdwara of Los Angeles	North Hollywood			
-        http://www.lankershimgurdwara.com/		
-        7640 Lankershim Blvd N. Hollywood blvd CA 91605 US
-        +1.(818) 765—9399
-
-    Hollywood Sikh Temple (Gurdwara Vermont)	Los Angeles
-        http://hollywoodsikhtemple.com/
-        hollywoodsikhtemple@gmail.com
-        323-665-7707
-
-
-
-    Guru Nanak Sikh Temple of USA	Buena Park	http://www.buenaparkgurdwara.org/index.html
-
-    Sikh Gurdwara of San Francisco	San Mateo	http://www.sfgurdwara.com
-    P.O. Box 25493
-    San Mateo, CA 94402
-    ph: 650-520-5797
-    admin@sfgurdwara.com
-
-    Gurdwara of Milpitas	Milpitas	http://www.gurdwaraofmilpitas.com/
-    1180 Cadillac Court Milpitas CA 95035
-    408-946-1399
-
-    Gurudwara Gurnanak Prakash Damdami Taksal	Tracy
-    Not working :http://www.tracygurdwara.com/
-    16101 W Grant Line Rd
-    Tracy, California
-    (209) 346-4270
-
-    Gurdwara Gurnanak Parkash (Lincoln)	Fresno
-    http://www.gurdwaragurnanakprakash.com/
-
-    Guru Nanak Sikh Society (Beechwood)	Fresno
-
-    Nanaksar Satsang Sabha (Cornelia)	Fresno
-    http://www.gurdwarananaksar.com/
-
-    Gurdwara Anandgarh Sahib	Kerman
-
-    Gurdwara of Norco	Norco, CA
-    http://www.norcogurdwara.org/
-
-    Sikh Center of Pacific Coast	Selma
-
-    Sikh Gurdwara Selma	Selma
-
-    Pacific Coast Diwan Society	Caruthers
-
-    Guru Nanak Sikh Temple	San Joaquin
-
-    Sikh Center of San Francisco Bay Area	El Sobrante
-    http://www.mygurdwara.com/Default.aspx/
-
-    Gurdwara Sahib Fremont	Fremont
-    http://www.fremontgurdwara.org/
-
-    Riverside Gurdwara	Riverside
-
-    The Sikh Foundation of the North Bay/Santa Rosa Gurdwara Sahib	Santa Rosa
-
-    Gurdwara Sahib of San Jose	San Jose
-    http://www.sikhgurudwarasj.org/
-
-    Shri Guru Ravidass Sabha Pittsburg	Pittsburg
-
-    Sikh Gurdwara Sahib Stockton	Stockton
-    http://www.stocktongurdwarasahib.com/
-
-    Sikh Foundation San Diego (SFSD)	San Diego
-    http://www.sdsikhs.org
-
-    Gurdwara Sahib Hayward	Hayward
-    http://www.haywardgurdwara.com/bin/
-
-    Guru Ravidass Temple Sacramento	Sacramento
-    http://www.gururavidasstemplesacramento.com
-
-    Gurdwara Singh Sahiba Milpitas	Milpitas
-
-    Shri Guru Singh Sabha Walnut	Walnut
-    http://sikhtemplewalnut.tripod.com/
-
-    Capital Sikh Center*	Sacramento
-
-    Sacramento Sikh Society	Sacramento
-    http://sacsikhsociety.org/
-
-    Gurdwara Prabh Milne Ka Chao	Sacramento
-
+-   Tri-Valley Sikh Center - Livermore Gurdwara
+-   Sikh Gurdwara of Buena Park
+-   Guru Ram Das Gurdwara - Los Angeles
+-   Sikh Gurdwara of Los Angeles - North Hollywood
+-   Hollywood Sikh Temple (Gurdwara Vermont)	
+-   Guru Nanak Sikh Temple of USA	Buena Park
+-   Sikh Gurdwara of San Francisco	San Mateo
+-   Gurdwara of Milpitas		
+-   Gurudwara Gurnanak Prakash Damdami Taksal
+-   Gurdwara Gurnanak Parkash - Fresno
+-   Guru Nanak Sikh Society (Beechwood)	Fresno
+-   Nanaksar Satsang Sabha (Cornelia)	Fresno
+-   Gurdwara Anandgarh Sahib - Kerman
+-   Gurdwara of Norco
+-   Sikh Center of Pacific Coast - Selma
+-   Pacific Coast Diwan Society	Caruthers
+-   Guru Nanak Sikh Temple	San Joaquin
+-   Sikh Center of San Francisco Bay Area - El Sobrante
+-   Gurdwara Sahib Fremont
+-   Riverside Gurdwara	
+-   Gurdwara Sahib of San Jose
+-   Shri Guru Ravidass Sabha Pittsburg
+-   Sikh Gurdwara Sahib Stockton
+-   Sikh Foundation San Diego
+-   Gurdwara Sahib Hayward
+-   Guru Ravidass Temple Sacramento
+-   Shri Guru Singh Sabha Walnut
+-   Capital Sikh Center	Sacramento
+-   Sacramento Sikh Society	Sacramento
+-   Gurdwara Prabh Milne Ka Chao
 
 #Colorado
 
