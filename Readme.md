@@ -23,3 +23,6 @@ You can learn a bit more here how to create a pull request -
 ###Resources
 - List of States copied from : https://gist.github.com/mshafrir/2646763
 - Country code standard like this http://www.worldatlas.com/aatlas/ctycodes.htm
+
+list of gurdwaras on facebook
+https://www.facebook.com/search/str/Sikh%2BTemple/keywords_pages/
