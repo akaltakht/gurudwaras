@@ -53,33 +53,13 @@
 #Colorado
 
 -   Colorado Singh Sabha - Commerce City
-    http://www.coloradosinghsabha.com/
-    20555 E 120th Ave, Commerce City, CO 80022
-    https://www.facebook.com/CSS.CO
-    303-659-4150
-
-
--   Guru Ghar Colorado Springs	Colorado Springs
-    http://www.gurugharcoloradosprings.org/
-    4330 Iron Horse Trail, Colorado Springs, CO
-    https://www.facebook.com/pages/Gurughar-Colorado-Springs/322331441178806
-
-
-
--   Guru Amar Das Niwas Boulder	Boulder		
-    3840 Baseline Rd, Boulder, CO 80303
-    Telephone(303) 494-6806
-
-
--   Guru Ram Das Ashram Colorado	Louisville
-    277 S Carter Ave, Louisville, Colorado, United States Of America, 80027
-	http://www.worldgurudwara.com/V4/352.asp
-    (303) 655-6170
-
+-   Guru Ghar - Colorado Springs
+-   Guru Amar Das Niwas Boulder			
+-   Guru Ram Das Ashram Colorado Louisville
 
 #Connecticut
 
--   Gurdwara Sachkhand Darbar	Hamden
+-   Gurdwara Sachkhand Darbar - Hamden
     http://wwww.clufoir.com/Gurdwara/
     336 Welton Street, Hamden, CT 06517
     Email: SachkhandMail@gmail.com

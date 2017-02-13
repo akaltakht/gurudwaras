@@ -832,7 +832,96 @@
       {
         "name": "Colorado",
         "abbreviation": "CO",
-        "gurudwaras": []
+        "gurudwaras": [
+          {
+            "name": "Colorado Singh Sabha - Commerce City",
+            "info": {
+              "website": "http://www.coloradosinghsabha.com/",
+              "address": {
+                "street": "20555 E 120th Ave",
+                "city": "Commerce City",
+                "state": "CO",
+                "zipcode": "80022"
+              },
+              "contact": {
+                "phone": "303-659-4150",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/CSS.CO",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Ghar - Colorado Springs",
+            "info": {
+              "website": "http://www.gurugharcoloradosprings.org/",
+              "address": {
+                "street": "4330 Iron Horse Trail",
+                "city": "Colorado Springs",
+                "state": "CO",
+                "zipcode": "80917"
+              },
+              "contact": {
+                "phone": "719-574-8261",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Gurughar-Colorado-Springs/322331441178806",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Amar Das Niwas Boulder",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "3840 Baseline Rd",
+                "city": "Boulder",
+                "state": "CO",
+                "zipcode": "80303"
+              },
+              "contact": {
+                "phone": "303-494-6806",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Ram Das Ashram - Louisville",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "277 S Carter Ave",
+                "city": "Louisville",
+                "state": "CO",
+                "zipcode": "80027"
+              },
+              "contact": {
+                "phone": "303-655-6170",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
+        ]
       },
       {
         "name": "Connecticut",
@@ -902,28 +991,29 @@
       {
         "name": "Florida",
         "abbreviation": "FL",
-        "gurudwaras": [{
-          "name": "Nanaksar Thath Isher Darbar	Kissimmee",
-          "info": {
-            "website": "http://www.gurdwarananaksarflorida.com/",
-            "address": {
-              "street": "2480 N Hoagland Blvd",
-              "city": "Kissimmee",
-              "state": "FL",
-              "zipcode": "34741"
-            },
-            "contact": {
-              "phone": "407-846-1291",
-              "email": "info@gurdwarananaksarflorida.com"
-            },
-            "social": {
-              "facebook": "https://www.facebook.com/pages/Nanaksar-Thath-Isher-Darbar-Orlando-Inc/119251518088341",
-              "instagram": "",
-              "twitter": "",
-              "google": ""
+        "gurudwaras": [
+          {
+            "name": "Nanaksar Thath Isher Darbar	Kissimmee",
+            "info": {
+              "website": "http://www.gurdwarananaksarflorida.com/",
+              "address": {
+                "street": "2480 N Hoagland Blvd",
+                "city": "Kissimmee",
+                "state": "FL",
+                "zipcode": "34741"
+              },
+              "contact": {
+                "phone": "407-846-1291",
+                "email": "info@gurdwarananaksarflorida.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Nanaksar-Thath-Isher-Darbar-Orlando-Inc/119251518088341",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
             }
-          }
-        },
+          },
           {
             "name": "Tampa Gurdwara - Thonotosassa",
             "info": {
