@@ -82,25 +82,15 @@
     http://southfloridagurudwara.org/   
 -   Sikh Society of North East Florida	Jacksonville
 
-
-
 #Georgia
 
-    Atlanta Sikh Gurdwara - Stone Mountain
-    1821 S Hairston Rd Stone Mountain, GA 30088
+-   Atlanta Sikh Gurdwara - Stone Mountain
+-   Guru Nanak Darbar - Augusta		
+-   Guru Singh Sabha Augusta - Evans
+-   Sewa Gurudwara Sahib	Roswell
+-   Sadh Sangat of Georgia	Tucker		   
 
-    Guru Nanak Darbar - Augusta		2252 Nellie Dr., Augusta, GA 30906
-
-    Guru Singh Sabha Augusta - Evans
-
-    Sewa Gurudwara Sahib	Roswell
-    http://www.sewageorgia.org/	10590,
-    WoodStock Rd, Roswell GA 30075   
-
-    Sadh Sangat of Georgia	Tucker		   
-    2135 Northlake Pkwy # 200, Tucker, GA, 30075   
-
-
+ 
 #Hawaii
 
 **Guru Ram Das Ashram	Kaneohe**
@@ -531,7 +521,7 @@ Gurudwara Guru Teg Bahadur Sahib Ji	Kent
 site not working -- http://gurdwarasahibkent.com
 
 Gurudwara Sacha Marg	Place Kent
-https://www.facebook.com/pg/gurudwarasachamaragsahib/about/?ref=page_internal
+https://www.facebook.com/pg/gurudwarasachamaragsahib
 
 
 Guru Nanak Sikh Temple	Marysville

@@ -1174,7 +1174,118 @@
       {
         "name": "Georgia",
         "abbreviation": "GA",
-        "gurudwaras": []
+        "gurudwaras": [
+          {
+            "name": "Atlanta Sikh Gurdwara - Stone Mountain",
+            "info": {
+              "website": "http://www.sikh-atlanta.org/",
+              "address": {
+                "street": "1821 S Hairston Rd",
+                "city": "Stone Mountain",
+                "state": "GA",
+                "zipcode": "30088"
+              },
+              "contact": {
+                "phone": "770-808-6320",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Gurdwara-SahibSikh-Study-Circle/142255435820245",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Nanak Darbar - Augusta",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "2252 Nellie Dr.",
+                "city": "Augusta",
+                "state": "GA",
+                "zipcode": "30906"
+              },
+              "contact": {
+                "phone": "706-592-6050",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Guru-Nanak-Darbar-Sikh/194725534204754",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Singh Sabha Augusta - Evans",
+            "info": {
+              "website": "http://pluralism.org/profile/guru-singh-sabha-augusta/",
+              "address": {
+                "street": "4031 Evans to Lock Road",
+                "city": "Evans",
+                "state": "GA",
+                "zipcode": "30809"
+              },
+              "contact": {
+                "phone": "706-863-7391",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sewa Gurudwara Sahib	Roswell",
+            "info": {
+              "website": "http://www.sewageorgia.org/	",
+              "address": {
+                "street": "10590, WoodStock Rd",
+                "city": "Roswell",
+                "state": "GA",
+                "zipcode": "30075"
+              },
+              "contact": {
+                "phone": "678-819-2990",
+                "email": "info@sewageorgia.org"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/sewagurdwara/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sadh Sangat of Georgia	Tucker",
+            "info": {
+              "website": "http://sadhsangatga.org",
+              "address": {
+                "street": "2135 Northlake Pkwy # 200",
+                "city": "Tucker",
+                "state": "GA",
+                "zipcode": "30075"
+              },
+              "contact": {
+                "phone": "770-414-9096",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Sadh-Sangat-of-Georgia/168440533170496",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
+        ]
       },
       {
         "name": "Guam",
