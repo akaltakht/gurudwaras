@@ -24,5 +24,9 @@ You can learn a bit more here how to create a pull request -
 - List of States copied from : https://gist.github.com/mshafrir/2646763
 - Country code standard like this http://www.worldatlas.com/aatlas/ctycodes.htm
 
-list of gurdwaras on facebook
-https://www.facebook.com/search/str/Sikh%2BTemple/keywords_pages/
+list of gurdwaras on facebook  
+-   https://www.facebook.com/search/str/Sikh%2BTemple/keywords_pages/  
+
+
+Also Not sure why all websites are having copyrights as most of data is public information and there is no content to be copyrighted !!  
+- To be read https://www.sitepoint.com/what-it-means-to-copyright-a-website/
