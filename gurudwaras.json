@@ -902,7 +902,95 @@
       {
         "name": "Florida",
         "abbreviation": "FL",
-        "gurudwaras": []
+        "gurudwaras": [{
+          "name": "Nanaksar Thath Isher Darbar	Kissimmee",
+          "info": {
+            "website": "http://www.gurdwarananaksarflorida.com/",
+            "address": {
+              "street": "2480 N Hoagland Blvd",
+              "city": "Kissimmee",
+              "state": "FL",
+              "zipcode": "34741"
+            },
+            "contact": {
+              "phone": "407-846-1291",
+              "email": "info@gurdwarananaksarflorida.com"
+            },
+            "social": {
+              "facebook": "https://www.facebook.com/pages/Nanaksar-Thath-Isher-Darbar-Orlando-Inc/119251518088341",
+              "instagram": "",
+              "twitter": "",
+              "google": ""
+            }
+          }
+        },
+          {
+            "name": "Tampa Gurdwara - Thonotosassa",
+            "info": {
+              "website": "http://www.tampagurdwara.com/",
+              "address": {
+                "street": "15302 Morris Bridge Road",
+                "city": "Thonotosassa",
+                "state": "FL",
+                "zipcode": "33592"
+              },
+              "contact": {
+                "phone": "813-986-6205",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Tampa-Gurdwara-479465128731380/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Society of Central Florida - Oviedo ",
+            "info": {
+              "website": "http://www.orlandogurdwara.com/",
+              "address": {
+                "street": "2527 W STATE ROAD 426",
+                "city": "OVIEDO",
+                "state": "FL",
+                "zipcode": "32765"
+              },
+              "contact": {
+                "phone": "407-366-3136",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Orlando-Gurdwara-of-Sikh-Central-Society-of-Central-Florida-349639086745/?fref=ts",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Society of North East Florida	Jacksonville",
+            "info": {
+              "website": "http://www.jaxgurudwara.org",
+              "address": {
+                "street": "6019 Morrow Street East",
+                "city": "Jacksonville",
+                "state": "FL",
+                "zipcode": "32217"
+              },
+              "contact": {
+                "phone": "904-620-0777",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/jaxgurudwara",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
+        ]
       },
       {
         "name": "Georgia",

@@ -52,11 +52,11 @@
 
 #Colorado
 
--   Colorado Singh Sabha	Commerce City
-    Not working -http://ww1.coloradosinghsabha.org/
+-   Colorado Singh Sabha - Commerce City
+    http://www.coloradosinghsabha.com/
     20555 E 120th Ave, Commerce City, CO 80022
     https://www.facebook.com/CSS.CO
-    (303) 659-4150
+    303-659-4150
 
 
 -   Guru Ghar Colorado Springs	Colorado Springs
@@ -107,37 +107,13 @@
 
 
 #Florida
-    Govind Sukh Sagar	Clermont
-    Govind Sukh Sagar	Orlando
-    Nanaksar Thath Isher Darbar	Kissimmee	http://www.gurdwarananaksarflorida.com/
-        2480 N Hoagland Blvd
-        Kissimmee, FL 34741
-        407-846-1291
-        info@gurdwarananaksarflorida.com
-
-
-
-    Tampa Gurdwara	Thonotosassa	http://www.tampagurdwara.com/
-    15302 Morris Bridge Road, Thonotosassa FL 33592
-    Phone 813-986-6205
-
-
-    Sikh Society of Central Florida	Oviedo   	
-    http://www.orlandogurdwara.com/   
-    2527 W STATE ROAD 426, OVIEDO, FL 32765,    
-    PH: 407-366-3136   
-
-
-
-    Sikh Society of Florida	Ft Lauderdale
+-   Nanaksar Thath Isher Darbar	Kissimmee	
+-   Tampa Gurdwara	Thonotosassa
+-   Sikh Society of Central Florida	Oviedo
+- **Sikh Society of Florida	Ft Lauderdale**
     http://southfloridagurudwara.org/   
+-   Sikh Society of North East Florida	Jacksonville
 
-
-    Sikh Society of North East Florida	Jacksonville
-    http://www.jaxgurudwara.org   
-    6019 Morrow Street East, Jacksonville FL 32217
-    904-620-0777
-    https://www.facebook.com/jaxgurudwara
 
 
 #Georgia
