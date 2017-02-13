@@ -99,14 +99,9 @@
 
 #Delaware
 
-    Gurdwara of Delaware	Newark
-    http://www.gurdwaraofdelaware.com
-    18 Shea Way Suite 108-109 Newark, DE 19713
-
-    Sikh Center of Delaware	New Castle
-    http://www.sikhcenterofdelaware.org/
-    1107 S Dupont Hwy New Castle, DE 19720
-
+-  Gurdwara of Delaware	
+-  Sikh Center of Delaware	New Castle
+   
 #District of Columbia
     The National Gurdwara	District of Columbia
 

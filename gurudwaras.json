@@ -842,7 +842,52 @@
       {
         "name": "Delaware",
         "abbreviation": "DE",
-        "gurudwaras": []
+        "gurudwaras": [
+          {
+            "name": "Gurdwara of Delaware",
+            "info": {
+              "website": "http://www.gurdwaraofdelaware.net",
+              "address": {
+                "street": "450 Boyds Corner Rd,",
+                "city": "Middletown",
+                "state": "DE",
+                "zipcode": "19709"
+              },
+              "contact": {
+                "phone": "302-376-8300",
+                "email": "Info@gnssdv.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Gurdwara-of-Delaware-451623724935200/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Center of Delaware - New Castle",
+            "info": {
+              "website": "http://www.sikhcenterofdelaware.org/",
+              "address": {
+                "street": "1107 S Dupont Hwy",
+                "city": "New Castle",
+                "state": "DE",
+                "zipcode": "19720"
+              },
+              "contact": {
+                "phone": "",
+                "email": "info@sikhcenterofdelaware.org"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
+        ]
       },
       {
         "name": "District Of Columbia",
