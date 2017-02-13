@@ -59,24 +59,12 @@
 
 #Connecticut
 
--   Gurdwara Sachkhand Darbar - Hamden
-    http://wwww.clufoir.com/Gurdwara/
-    336 Welton Street, Hamden, CT 06517
-    Email: SachkhandMail@gmail.com
-
-    Gurdwara Guru Nanak Darbar	Southington
-    1610 West St Southington, Connecticut 06489
-    https://www.facebook.com/Southington-Gurdwara-Sikh-Temple-Guru-Nanak-Darbar-CT-119383284787455/
-
-    Guru Nanak Darbar	Ansonia
-
-    Guru Tegh Bahadur Ji Foundation	Norwalk	http://www.gtbf.org/
-
--   Guru Ramdas Darbar	Windsor
-    564 Park Avenue, Windsor, CT 06095
-    https://www.facebook.com/SriGuruRamdasDarbar
-
-
+-   Gurdwara Sachkhand Darbar - Hamden 
+-   Gurdwara Guru Nanak Darbar - Southington
+-   **Guru Nanak Darbar - Ansonia**
+-   Guru Tegh Bahadur Ji Foundation	Norwalk	
+-   Guru Ramdas Darbar - Windsor
+ 
 #Delaware
 
 -  Gurdwara of Delaware	
@@ -498,44 +486,44 @@
     http://www.sfova.org/
 
 
-Singh Sabha Gurdwara	Fairfax
+- Singh Sabha Gurdwara	Fairfax
 Site not working : http://ssgva.com/
 
-Richmond Gurdwara	Richmond
+- Richmond Gurdwara	Richmond
 http://www.richmondgurdwara.org/
 
-Gurdwara Singh Sabha	Richmond
+- Gurdwara Singh Sabha	Richmond
 http://www.ricgurudwara.org/
 
-Roanoke Gurudwara	Salem
+- Roanoke Gurudwara	Salem
 http://roanokegurudwara.org/
 
 
 
 #Washington
 
-Gurudwara Sikh Centre of Seattle
-http://www.sikhcentreofseattle.org/
-20412 Bothell Everett Highway
-Bothell, WA 98012
-(425) 487-4878
-info@sikhcentreofseattle.org
+- Gurudwara Sikh Centre of Seattle
+    http://www.sikhcentreofseattle.org/
+    20412 Bothell Everett Highway
+    Bothell, WA 98012
+    (425) 487-4878
+    info@sikhcentreofseattle.org
 
 
-Guru Ramdass Gurdwara Sahib	Vancouver	 http://www.gururamdassgurudwara.org/
-3600 O Street
-Vancouver, WA 98663
-Phone: 360-696-5568
-vangurudwara@gmail.com
+- Guru Ramdass Gurdwara Sahib	Vancouver	 http://www.gururamdassgurudwara.org/
+    3600 O Street
+    Vancouver, WA 98663
+    Phone: 360-696-5568
+    vangurudwara@gmail.com
 
 
-Gurudwara Singh Sabha of Washington	Renton	http://www.gssrenton.com/
-Gurdwara Singh Sabha of Washington,
-Renton, WA
-5200 Talbot Road South
-Renton, WA 98055
-Phone: 425-226-2277
-Web: www.seattlegurdwara.com
+- Gurudwara Singh Sabha of Washington	Renton	http://www.gssrenton.com/
+    Gurdwara Singh Sabha of Washington,
+    Renton, WA
+    5200 Talbot Road South
+    Renton, WA 98055
+    Phone: 425-226-2277
+    Web: www.seattlegurdwara.com
 
 
 

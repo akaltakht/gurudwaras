@@ -926,7 +926,96 @@
       {
         "name": "Connecticut",
         "abbreviation": "CT",
-        "gurudwaras": []
+        "gurudwaras": [
+          {
+            "name": "Gurdwara Sachkhand Darbar - Hamden",
+            "info": {
+              "website": "http://wwww.clufoir.com/Gurdwara/",
+              "address": {
+                "street": "336 Welton Street",
+                "city": "Hamden",
+                "state": "CT",
+                "zipcode": "06517"
+              },
+              "contact": {
+                "phone": "860-983-1219",
+                "email": "SachkhandMail@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Gurdwara-Sachkhand-Darbar/1526850670960087",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Guru Nanak Darbar - Southington",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "1610 West St",
+                "city": "Southington",
+                "state": "CT",
+                "zipcode": "06489"
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Southington-Gurdwara-Sikh-Temple-Guru-Nanak-Darbar-CT-119383284787455/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Tegh Bahadur Ji Foundation - Norwalk",
+            "info": {
+              "website": "http://www.gtbf.org/",
+              "address": {
+                "street": "622 West Avenue",
+                "city": "Norwalk",
+                "state": "CT",
+                "zipcode": "06850"
+              },
+              "contact": {
+                "phone": "203-857 4460",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": " Guru Ramdas Darbar - Windsor",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "564 Park Avenue",
+                "city": "Windsor",
+                "state": "CT",
+                "zipcode": "06095"
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/SriGuruRamdasDarbar",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
+        ]
       },
       {
         "name": "Delaware",
