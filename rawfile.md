@@ -142,9 +142,9 @@
     Indianapolis, 
     IN 4624
     http://www.gurdwaraindywest.com/
-        317-247-7454
-        ggspofindy@gmail.com
-        https://www.facebook.com/GurdwaraPlainfield/
+    317-247-7454
+    ggspofindy@gmail.com
+    https://www.facebook.com/GurdwaraPlainfield/
 
 -   Gurdwara Sri Hargobind Ji	Greenwood
     1050 South Graham Rd, Greenwood, IN 46143
@@ -156,7 +156,6 @@
     12800, Day Rd
     Mishawaka,
     IN 46544
-    
     574-255 7400
     gurudwara@gurunanakdarbarsahib.com
     http://web.archive.org/web/20140517100743/http://gurunanakdarbarsahib.com/
@@ -188,18 +187,13 @@
 -   Sikhs of Iowa Khalsa Heritage Inc - Johnston	
     4820 NW 59th Ave Johnston IA 50323
     (515) 259-6613
-    
     iowasikhs@sikhinc.org
-
     http://www.sikhinc.org/
     https://www.facebook.com/Sikhinc/
 
 -    Iowa Sikh Temple -West Des Moines	
-        1115 Walnut street West Des Moines IA 50265
-        
-
+    1115 Walnut street West Des Moines IA 50265
     kidsvirsa@gmail.com
-
     http://iowasikhassociation.com/
     515-255-5755
     https://www.facebook.com/Sikh-Temple-of-Iowa-198108550203407/
@@ -252,54 +246,149 @@
 
 #Maryland
 
-    Guru Nanak Foundation of America	Silver Spring	http://gnfa.org/
+-   Guru Nanak Foundation of America
+    12917 Old Columbia Pike
+    Silver Spring	MD 20904
+    http://gnfa.org/
+    https://www.facebook.com/Guru-Nanak-Foundation-of-America-499003046819605/
+    (301) 384-2133
+    webteam@gnfa.org
 
-    Sikh Association of Baltimore	Randallstown		3423 Chapman Road Randallstown, MD 21133
 
-    Guru Gobind Singh Foundation Rockville	Rockville	http://www.ggsfusa.com/
 
-    Gurdwara Guru Gyan Sagar	Burtonsville
+-   Sikh Association of Baltimore
+    3423 Chapman Road Randallstown, MD 21133
+    https://www.facebook.com/pages/Sikh-Association-of-Baltimore/117586121600203
+    (410) 521-7568
 
-    Baltimore Sikh Society	Baltimore
+
+
+-   Guru Gobind Singh Foundation Rockville
+    http://web.archive.org/web/20160305063215/http://www.ggsfusa.com/
+    https://www.facebook.com/ggsfusa/?fref=ts
+    13814 Travilah Road,Rockville,MD 20850
+
+
+
+
+-   Gurdwara Guru Gian Sagar	Burtonsville
+    3911 Dustin Rd
+    Burtonsville, Maryland 20866
+    https://www.facebook.com/pages/Gur-Gian-Sagar-Gurudwara-Sahib/417042111667659?rf=169550573120322
+
+-   Baltimore Sikh Society	Baltimore
+    1731 Rita Rd
+    Dundalk, MD 21222
+    (410) 284-1000
+    https://www.facebook.com/BaltimoreSikhSociety/
 
 #Massachusetts
-    Members of the Sikh community of Somerville, Massachusetts
+**Members of the Sikh community of Somerville, Massachusetts**
 
-    Gurdwara Guru Nanak Darbar	Medford	http://www.gurunanakdarbar.net/
+- Gurdwara Guru Nanak Darbar - Medford	http://www.gurunanakdarbar.net/
+    https://www.facebook.com/Gurudwara-Guru-Nanak-Darbar-Medford-MA-679220218818641/?hc_ref=SEARCH
+    226 Mystic Ave
+    Medford, Massachusetts
+    (781) 396-0769
+    bostongurudwara@gmail.com
+    http://www.gurunanakdarbar.net/
 
-    New England Sikh Study Circle
-    also known as Milford Gurdwara	Milford	http://nessc.org/
 
-    Guru Ram Das Ashram Gurdwara	Millis	http://millisashram.org/gurdwara
+-   New England Sikh Study Circle (Milford Gurdwara) - Milford
+    http://nessc.org/
+    204 E Main St
+    Milford, MA 01757
+    (508) 478-2469
+    info@nessc.org
+    https://www.facebook.com/MilfordGurdwara/?ref=br_rs
 
-    Gurudwara Sikh Sangat Boston	Everett	http://www.bostonsikhsangat.com/
+
+-   Guru Ram Das Ashram Gurdwara	Millis
+    https://www.facebook.com/GuruRamDasAshram.Millis
+    368 Village St
+    Millis, MA 02054
+    (508) 376-4527
+    millisashram.org/
+
+
+-   Gurudwara Sikh Sangat Boston	Everett
+    http://www.bostonsikhsangat.com/
+    10 Thorndike Street, Everett, MA 02149
+    1-617-699-3928
+    https://www.facebook.com/bostongurudwara
+    bostonsikhsangat@gmail.com
+
+
 
 #Michigan
-    Mid Michigan Singh Sabha	Saginaw	http://midmichigansinghsabha.org/	9700 Gratiot Rd, Saginaw, MI 48609
+-   Mid Michigan Singh Sabha	Saginaw
+    http://midmichigansinghsabha.org/
+    9700 Gratiot Rd, Saginaw, MI 48609
+    https://www.facebook.com/Mid-Michigan-Singh-Sabha-346220765413125/
+    (989) 401-6258
+    midmichigangurdwara@gmail.com
+    http://midmichigansinghsabha.org/
 
-    Lansing Gurdwara Sahib / Guru Nanak Sikh Center	Lansing	http://LansingGurdwara.com	4701 Pleasant Grove Rd., Lansing, Michigan 48910
+-   Guru Nanak Sikh Center	Lansing
+    http://LansingGurdwara.com
+    4701 Pleasant Grove Rd., Lansing, Michigan 48910
+    https://www.facebook.com/pages/Guru-Nanak-Sikh-Center-Gurughar/307145916061346?fref=ts
+    (517) 272-0231
 
-    The Sikh Society of Michigan	Sterling Heights	http://www.MichiganGurudwara.com/	33340 Dequindre, Sterling Heights, MI 48310
+-   The Sikh Society of Michigan	Sterling Heights
+    http://www.MichiganGurudwara.com/	
+    (248) 547-0927
+    33340 Dequindre, Sterling Heights, MI 48310
+    https://www.facebook.com/pages/Sikh-Society-of-Michigan/101609873330683?fref=ts
+    
 
-    Guru Nanak Sikh Temple Plymouth	Plymouth Township	http://www.migurdwara.org/
+-   Mata Tripta Ji Gurdwara Sahib
+    http://www.migurdwara.com/wp/
+    40600 Schoolcraft Rd
+    Plymouth, Michigan
+    (734) 420-1718
+    https://www.facebook.com/Gurdwara-Sahib-Hidden-Falls-279601972071826/
 
-    Guru Ram Das Ashram Ferndale	Ferndale
 
-    Sikh Gurdwara Rochester	Rochester Hills	http://www.x5it.com/sikhgurdwara/index.php
+
+-   Sikh Gurdwara Rochester	Rochester Hills
     http://www.sikhgurdwara.com/
-
+    https://www.facebook.com/pages/Sikh-Gurdwara-Rochester-Hills-MI/255941651179463
     271 West Auburn Road
     Rochester Hills, MI 48307, USA
+    248-651-1139
+    rochestersikh@gmail.com
 
-    Sikh Gurdwara of Michigan Williamston	Williamston
 
-    Lake Michigan Gurdwara	Benton Harbor	http://www.LakeMichiganGurdwara.org/	248 Territorial Rd Benton Harbor, MI 49022
+-   Lake Michigan Gurdwara	Benton Harbor	
+    http://web.archive.org/web/20130926043112/http://www.lakemichigangurdwara.org/
+    info@lakemichigangurdwara.org
+    248 Territorial Rd Benton Harbor, MI 49022
 
-    Singh Sabha of Michigan	Canton	http://www.singhsabhaofmi.org/	3310 Canton Center Road
+-   Singh Sabha of Michigan	Canton	
+    http://www.singhsabhaofmi.org/	
+    3310 Canton Center Road
     Canton, MI 48188
+    https://www.facebook.com/singhsabhacanton/?fref=ts
+    
 
-    Gurdwara Gobind Marg	Canton	http://www.gobindmarg.com/	48055 Michigan Ave.
+-   Gurdwara Gobind Marg - Canton	
+    http://web.archive.org/web/20160419041842/http://gobindmarg.com/index.php
+    48055 Michigan Ave.
     Canton, MI 48188
+    (734)-231-1871
+    info@gobindmarg.com
+
+-   Gurdwara Singh Sabha Kalamazoo
+    5828 Cheshire St, Portage, MI  49002
+    (269) 488-6262
+    https://www.facebook.com/pg/Gurudwarakalamazoo/
+    
+    
+-   The Sikh Society Of West Michigan
+    4356-4380 Quiggle Avenue Se, Grand Rapids, Michigan, United States Of America
+    (616) 676-4288
+    https://www.facebook.com/The-Sikh-Society-of-West-Michigan-Sikh-Gurdwara-162324290483498/
 
 #Minnesota
     Sikh Society of Minnesota	Minneapolis	http://www.mnsikhs.com/
