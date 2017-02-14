@@ -391,27 +391,62 @@
     https://www.facebook.com/The-Sikh-Society-of-West-Michigan-Sikh-Gurdwara-162324290483498/
 
 #Minnesota
-    Sikh Society of Minnesota	Minneapolis	http://www.mnsikhs.com/
+-    Sikh Society of Minnesota	Minneapolis	
+    http://www.mnsikhs.com/
+    9000 W Bloomington Fwy
+    Bloomington, Minnesota
+    (952) 888-2705
+    information@mnsikhs.com
+    https://www.facebook.com/Sikh-society-of-Minnesota-Gurdwara-161350273920274/?ref=br_rs
 
 #Mississippi
-    Guru Teg Bahadur Gurudwara sahib	Jackson	https://msgurdwara.com//
+-   Guru Tegh Bahadur Sikh Temple Jackson
+    2672 U.S. 80 W
+    Jackson, MS 39204
+    https://msgurdwara.com/
+    https://www.facebook.com/Sikh-Gurudwara-of-Jackson-MS-323234247814615
 
 #Missouri
-    Sikh Gurdwara of St. Louis	Chesterfield	http://gurdwarastlouis.org/
+-   **Sikh Gurdwara of St. Louis	Chesterfield**	
 
-    Sikh Study Circle St. Peters	St. Peters, MO	http://stlouissikhstudycircle.org/
-
-    Sat Tirath Ashram	Kansas City	http://www.worldgurudwara.com/V4/403.asp
+-   Sikh Study Circle St. Peters
+    116 Willis Road, St. Peters, MO 63376
+    http://www.stlouisgurdwara.org/
+    sikhstudycircleofst.louis@gmail.com
+    https://www.facebook.com/GurudwaraSTL
+    636) 926-3731
 
 #North Carolina
-    The Sikh Gurudwara of North Carolina	Durham	sgncweb.org
+-   The Sikh Gurudwara of North Carolina
+    sgncweb.org
+    3214 E. Banner St.
+    Durham, NC 27714
+    (919) 220-0630
+    https://www.facebook.com/SikhGurudwaraNC/
 
-    Atlantic Coast Sikh Association	Durham
+-   Atlantic Coast Sikh Association	Durham
+    https://www.facebook.com/pages/Atlantic-Coast-Sikh-Association/228789757254696?fref=ts
+    3108 Sparger Road
+    Durham, North Carolina 27705
+    Phone	(919) 309-1045
+    Website	http://acsagurdwara.tripod.com
 
-    Gurdwara Sahib Charlotte	Charlotte	http://charlottegurdwara.org/
+
+-   Gurdwara Sahib Charlotte	Charlotte
+    http://charlottegurdwara.org/
+    https://www.facebook.com/GurdwaraSahibCharlotte/?fref=ts
+    (704) 509-2828
+    5715 University City Blvd
+    Charlotte, North Carolina
+    (704) 509-2828
 
 #Nevada
-    Reno Sikh Temple	Reno	http://www.renotahoesikhnet.com/
+    Reno Sikh Temple	Reno	
+    http://www.renotahoesikhnet.com/
+    https://www.facebook.com/sikhofreno/
+    775.200.2847 
+    
+    
 
     Gurdwara Baba Deep Singh Las Vegas	Las Vegas	http://www.lasvegasgurdwara.com/
 
