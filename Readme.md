@@ -30,3 +30,12 @@ list of gurdwaras on facebook
 
 Also Not sure why all websites are having copyrights as most of data is public information and there is no content to be copyrighted !!  
 - To be read https://www.sitepoint.com/what-it-means-to-copyright-a-website/
+
+#PROJECT-IDEAS:
+- Mailing List
+- Images posting.
+- Internet Location services - Autocheckin
+- 360 degree videos http://www.kolor.com/360-videos/
+- Drone videos example : https://www.youtube.com/watch?v=Ly2d4fTjPs0
+- Van Service for old people upto certain area to and from Gurdwara Sahib
+
