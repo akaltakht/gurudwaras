@@ -9,7 +9,7 @@
 #Arizona
 -   Guru Nanak Dwara - Phoenix  
 -   Arizona Sikh Gurdwara	Phoenix  
-- **Sikh Religious Society of Phoenix	Scottsdale**
+- **  <pre>Sikh Religious Society of Phoenix	Scottsdale</pre>**
 -   Siri Guru Singh Sabha Gurudwara of Tempe
 
 
@@ -99,31 +99,11 @@
 
 #Illinois
 
--   Gurdwara Gurjot Parkash Sahib	Island Lake
-    http://www.gurudwaragurjotprakashsahibchicago.com/
-    217 W. State Road. (Route 176) Island Lake, Illinois 60042
-
-    ggpschicago@gmail.com
-
--   Gurdwara Sahib of Chicago	Chicago  
-    2341 West Devon Avenue, Chicago, Illinois 60645  
-    http://www.srsofchicago.com/  
-    (773) 274-3133  
-    https://www.facebook.com/pages/Gurdwara-Sahib-of-Chicago/108131335895909  
-
--   Wheaton Gurdwara	Wheaton	  
-    http://ilscc.com/	  
-    2131 Creekside Drive, Wheaton, Illinois 60187  
-    (630) 510-9700  
-    https://www.facebook.com/pages/Wheaton-Gurdwara/197215253648341  
-
--   Sikh Religious Society of Chicago	Palatine	  
-    http://www.srschicago.com/	  
-    1280 Winnetka Ave Palatine, IL 60067  
-    (847) 358-1117  
-    https://www.facebook.com/SRSChicago/?fref=ts  
-
-**Nanaksar Gurudwara	Rockford		714 3rd Ave, Rockford, IL 61104**
+-   Gurdwara Gurjot Parkash Sahib - Island Lake
+-   Gurdwara Sahib of Chicago
+-   Wheaton Gurdwara - Wheaton
+-   Sikh Religious Society of Chicago - Palatine
+-   **Nanaksar Gurudwara	Rockford		714 3rd Ave, Rockford, IL 61104**
 
 
 #Indiana
@@ -148,47 +128,127 @@
     Indianapolis, Indiana
     (317) 862-7454
 
-    Guru Nanak Sikh Society Indiana	Indianapolis	http://www.indygurdwara.com/
+-   Guru Nanak Sikh Society Indiana	
+    Indianapolis	
+    http://www.indygurdwara.com/
+	
+    1911 Hobart Rd
+    Indianapolis, Indiana 46203
+    317-786-2331
+    https://www.facebook.com/pages/Guru-Nanak-Sikh-Society-Gurudwara/353677598033166
 
-    Gurdwara Gur Shabd Parkash of Indianapolis 425 S High School Rd, Indianapolis, IN 4624
+-    Gurdwara Gur Shabd Parkash of Indianapolis 
+     425 S High School Rd, 
+    Indianapolis, 
+    IN 4624
+    http://www.gurdwaraindywest.com/
+        317-247-7454
+        ggspofindy@gmail.com
+        https://www.facebook.com/GurdwaraPlainfield/
 
-    Gurdwara Sri Hargobind Ji	Greenwood
+-   Gurdwara Sri Hargobind Ji	Greenwood
+    1050 South Graham Rd, Greenwood, IN 46143
+    317-884-4708
+    http://www.gurdwaragreenwood.org/
+    gurdwaragreenwood@gmail.com
 
-    Guru Nanak Darbar Sahib	Mishawaka	http://www.gurunanakdarbarsahib.com/
+-   Guru Nanak Darbar Sahib	Mishawaka	
+    12800, Day Rd
+    Mishawaka,
+    IN 46544
+    
+    574-255 7400
+    gurudwara@gurunanakdarbarsahib.com
+    http://web.archive.org/web/20140517100743/http://gurunanakdarbarsahib.com/
 
-    The Sikh Cultural Society of Indiana/ 12800 Day Rd, Mishawaka, IN 46545
+-   The Sikh Cultural Society of Indiana/ 
+    12800 Day Rd,
+    Mishawaka, IN 46545
+    https://www.facebook.com/pages/Sikh-Culture-Society-of-Indiana/167432919934644
 
-    Sikh Religious Society of Indiana	Crown Point
+-   Sikh Religious Society of Indiana	Crown Point
+	10005 Colorado St
+    Crown Point, Indiana 46307
+    (219) 793-9446
+    https://www.facebook.com/pages/Sikh-Religious-Society-of-Indiana-Inc/113761408657810
 
-    Sikh Gurudwara of Fort Wayne	Fort Wayne	http://www.fwsikh.net/
+-   Sikh Gurudwara of Fort Wayne	
+	http://www.fwsikh.net/
+    11431 Lower Huntington Rd
+    Roanoke, IN 46783
+    (260) 438-0011
 
-    Dashmesh Sikh Gurudwara of Fort Wayne	Fort Wayne	http://www.DashmeshSikhGurudwara.com
+-   Dashmesh Sikh Gurudwara of Fort Wayne	Fort Wayne	
+    http://www.DashmeshSikhGurudwara.com
+    15020 Illinois Rd, Fort Wayne, IN 46814
+    https://www.facebook.com/pg/DashmeshSikhGurudwara
 
 #Iowa
 
-    Sikhs of Iowa Khalsa Heritage Inc (SIKH Inc.)	Johnston	4820 NW 59th Ave Johnston IA 50323
+-   Sikhs of Iowa Khalsa Heritage Inc - Johnston	
+    4820 NW 59th Ave Johnston IA 50323
+    (515) 259-6613
+    
+    iowasikhs@sikhinc.org
 
-    Iowa Sikh Temple	West Des Moines	1115 Walnut street West Des Moines IA 50265
+    http://www.sikhinc.org/
+    https://www.facebook.com/Sikhinc/
+
+-    Iowa Sikh Temple -West Des Moines	
+        1115 Walnut street West Des Moines IA 50265
+        
+
+    kidsvirsa@gmail.com
+
+    http://iowasikhassociation.com/
+    515-255-5755
+    https://www.facebook.com/Sikh-Temple-of-Iowa-198108550203407/
 
 #Kansas
 
-    Gurdwara Nanak Darbar Sahib	Olathe	http://kcsikh.org	126 S Cherry St., Olathe, KS 66061
+-    Gurdwara Nanak Darbar Sahib	Olathe	
+    http://kcsikh.org	
+    126 S Cherry St., 
+    Olathe, KS 66061
+    https://www.facebook.com/pages/Gurdwara-Guru-Nanak-Darbar-Sahib/650929478361616
 
-    Midwest Sikh Association	Shawnee	http://www.kcmsa.org/	6834 Pflumm Road, Shawnee, KS 66216
+-   Midwest Sikh Association - Shawnee
+    http://www.kcmsa.org/	
+    6834 Pflumm Road, Shawnee, KS 66216 Phone: 913-631-5947
+    https://www.facebook.com/pages/MidWest-Sikh/116790631715061
+    
 
 #Kentucky
-    Sikh Society of Kentucky	Louisville	http://www.louisvillegurdwara.org/	198 Thompson Avenue, Louisville, Kentucky 40206	502 409 SIKH (7454)
+-    Sikh Society of Kentucky	Louisville	
+    http://www.louisvillegurdwara.org/	
+    198 Thompson Avenue, Louisville, Kentucky 40206	
+    502-409-7454
+    louisvillekygurdwara@gmail.com
+    https://www.facebook.com/SikhSocietyOfKy/
 
-    Sikh Association of Bluegrass	Lexington		257 Swigert Avenue, Lexington, Kentucky 40505	859 550 1457
+-    Sikh Association of Bluegrass	Lexington		
+    257 Swigert Avenue, Lexington, Kentucky 40505	859 550 1457
+    https://www.facebook.com/sabglex/
 
 #Louisiana
 
-    Gurdwara Sahib Shri Dashmesh Darbar	Lake Charles		1803 Merganser Street, Lake Charles LA 70615
+-   Gurdwara Sahib Shri Dashmesh Darbar	Lake Charles
+    1803 Merganser Street, Lake Charles LA 70615
+    337-602-6051
+    lakecharlesgurudwarasahib@gmail.com
+    https://www.facebook.com/LAKE-CHARLES-GURUDWARA-SAHIB-SHRI-DASHMESH-DARBAR-153440768120932/
+    http://dashmeshdarbarla.com/index.html
 
-    The Sikh Society of South Inc.	New Orleans		8433 Morrison Road New Orleans, LA 70127
+-   The Sikh Society of South Inc.	New Orleans		
+    8433 Morrison Road New Orleans, LA 70127
+    (504) 245-2541
+    https://www.facebook.com/pages/Sikh-Society-of-South-Inc/118972734783825
+    
 
-    Gurudwara Sahib of Northeast Louisiana	Monroe/ West-Monroe
+-   Gurudwara Sahib of Northeast Louisiana	
     505 Otis Street, West Monroe, LA 71291
+    (318) 348-4169
+    https://www.facebook.com/GurdwaraSahibofNortheastLouisiana/?fref=ts
 
 #Maryland
 
