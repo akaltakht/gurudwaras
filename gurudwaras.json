@@ -1305,7 +1305,96 @@
       {
         "name": "Illinois",
         "abbreviation": "IL",
-        "gurudwaras": []
+        "gurudwaras": [
+          {
+            "name": "Gurdwara Gurjot Parkash Sahib - Island Lake",
+            "info": {
+              "website": "http://www.gurudwaragurjotprakashsahibchicago.com/",
+              "address": {
+                "street": "217 W. State Road",
+                "city": "Island Lake",
+                "state": "IL",
+                "zipcode": "60042"
+              },
+              "contact": {
+                "phone": "847-526-5688",
+                "email": "ggpschicago@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Guru-Nanak-Sikh-Mission-of-America-Inc/111573402216423",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Sahib of Chicago",
+            "info": {
+              "website": "http://www.srsofchicago.com/",
+              "address": {
+                "street": "2341 West Devon Avenue",
+                "city": "Chicago",
+                "state": "IL",
+                "zipcode": "60645"
+              },
+              "contact": {
+                "phone": "773-274-3133",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Gurdwara-Sahib-of-Chicago/108131335895909",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Wheaton Gurdwara - Wheaton",
+            "info": {
+              "website": "http://ilscc.com/",
+              "address": {
+                "street": "2131 Creekside Drive",
+                "city": "Wheaton",
+                "state": "IL",
+                "zipcode": "60187"
+              },
+              "contact": {
+                "phone": "630-510-9700",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Wheaton-Gurdwara/197215253648341",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Religious Society of Chicago - Palatine",
+            "info": {
+              "website": "http://www.srschicago.com/",
+              "address": {
+                "street": "1280 Winnetka Ave",
+                "city": "Palatine",
+                "state": "IL",
+                "zipcode": "60067"
+              },
+              "contact": {
+                "phone": "847-358-1117",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/SRSChicago/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
+        ]
       },
       {
         "name": "Indiana",
