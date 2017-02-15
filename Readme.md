@@ -9,6 +9,10 @@
 
 
 #Contribute
+
+**Good resource to how to contribute:** 
+    https://opensource.guide/
+
 You can contribute by -   
 1. Cleaning up rawfile.md and putting data into json file  
 2. Finding more data or verify authenticity of the current data  
