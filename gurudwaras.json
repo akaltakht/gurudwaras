@@ -1,1699 +1,1795 @@
 [
   {
-    "country": "US",
-    "name": "United States of America",
-    "states": [
+    "country":"US",
+    "name":"United States of America",
+    "states":[
       {
-        "name": "Alabama",
-        "abbreviation": "AL",
-        "gurudwaras": [
+        "name":"Alabama",
+        "abbreviation":"AL",
+        "gurudwaras":[
           {
-            "name": "Sikh Sangat of Alabama- Huntsville",
-            "info": {
-              "website": "",
-              "address": {
-                "street": "904 San Ramon Avenue",
-                "city": "Huntsville",
-                "state": "AL",
-                "zipcode": "35802"
+            "name":"Sikh Sangat of Alabama- Huntsville",
+            "info":{
+              "website":"",
+              "address":{
+                "street":"904 San Ramon Avenue",
+                "city":"Huntsville",
+                "state":"AL",
+                "zipcode":"35802"
               },
-              "contact": {
-                "phone": "",
-                "email": ""
+              "contact":{
+                "phone":"",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/hsvsikhsangat/",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/hsvsikhsangat/",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Temple of Alabama - Bessemer",
-            "info": {
-              "website": "http://sikhtempleofalabama.com/",
-              "address": {
-                "street": "3335 Morgan Rd",
-                "city": "Bessemer",
-                "state": "AL",
-                "zipcode": "35022"
+            "name":"Sikh Temple of Alabama - Bessemer",
+            "info":{
+              "website":"http://sikhtempleofalabama.com/",
+              "address":{
+                "street":"3335 Morgan Rd",
+                "city":"Bessemer",
+                "state":"AL",
+                "zipcode":"35022"
               },
-              "contact": {
-                "phone": "205-426-5566",
-                "email": ""
+              "contact":{
+                "phone":"205-426-5566",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pg/sikhtempleofalabamaatbirmingham",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pg/sikhtempleofalabamaatbirmingham",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           }
         ]
       },
       {
-        "name": "Alaska",
-        "abbreviation": "AK",
-        "gurudwaras": []
+        "name":"Alaska",
+        "abbreviation":"AK",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "American Samoa",
-        "abbreviation": "AS",
-        "gurudwaras": []
+        "name":"American Samoa",
+        "abbreviation":"AS",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Arizona",
-        "abbreviation": "AZ",
-        "gurudwaras": [
+        "name":"Arizona",
+        "abbreviation":"AZ",
+        "gurudwaras":[
           {
-            "name": "Guru Nanak Dwara - Phoenix",
-            "info": {
-              "website": "http://www.gurunanakdwara.com",
-              "address": {
-                "street": "9th St and Oak St",
-                "city": "Phoenix",
-                "state": "AZ",
-                "zipcode": "85006"
+            "name":"Guru Nanak Dwara - Phoenix",
+            "info":{
+              "website":"http://www.gurunanakdwara.com",
+              "address":{
+                "street":"9th St and Oak St",
+                "city":"Phoenix",
+                "state":"AZ",
+                "zipcode":"85006"
               },
-              "contact": {
-                "phone": "602-810-0745",
-                "email": ""
+              "contact":{
+                "phone":"602-810-0745",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/gurunanakdwara",
-                "instagram": "https://www.instagram.com/gurunanakdwara",
-                "twitter": "https://twitter.com/gurunanakdwara",
-                "google": "https://plus.google.com/+GuruNanakDwaraIncPhoenix"
+              "social":{
+                "facebook":"https://www.facebook.com/gurunanakdwara",
+                "instagram":"https://www.instagram.com/gurunanakdwara",
+                "twitter":"https://twitter.com/gurunanakdwara",
+                "google":"https://plus.google.com/+GuruNanakDwaraIncPhoenix"
               }
             }
           },
           {
-            "name": "Arizona Sikh Gurdwara	Phoenix",
-            "info": {
-              "website": "http://www.arizonasikhgurdwara.com/",
-              "address": {
-                "street": "1129 E Sheridan",
-                "city": "Phoenix",
-                "state": "AZ",
-                "zipcode": "85006"
+            "name":"Arizona Sikh Gurdwara	Phoenix",
+            "info":{
+              "website":"http://www.arizonasikhgurdwara.com/",
+              "address":{
+                "street":"1129 E Sheridan",
+                "city":"Phoenix",
+                "state":"AZ",
+                "zipcode":"85006"
               },
-              "contact": {
-                "phone": "602-716-0408",
-                "email": ""
+              "contact":{
+                "phone":"602-716-0408",
+                "email":""
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Siri Guru Singh Sabha Gurudwara of Tempe",
-            "info": {
-              "website": "http://www.gurdwara.20m.com/",
-              "address": {
-                "street": "820 W Tulane Drive Tempe",
-                "city": "",
-                "state": "AZ",
-                "zipcode": "85282"
+            "name":"Siri Guru Singh Sabha Gurudwara of Tempe",
+            "info":{
+              "website":"http://www.gurdwara.20m.com/",
+              "address":{
+                "street":"820 W Tulane Drive Tempe",
+                "city":"",
+                "state":"AZ",
+                "zipcode":"85282"
               },
-              "contact": {
-                "phone": "480-777-1340",
-                "email": ""
+              "contact":{
+                "phone":"480-777-1340",
+                "email":""
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           }
         ]
       },
       {
-        "name": "Arkansas",
-        "abbreviation": "AR",
-        "gurudwaras": [
+        "name":"Arkansas",
+        "abbreviation":"AR",
+        "gurudwaras":[
           {
-            "name": "Guru Nanak Sikh Temple - Rogers",
-            "info": {
-              "website": "http://www.gnstnwa.org/",
-              "address": {
-                "street": "1515 West Hudson Road",
-                "city": "Rogers",
-                "state": "AR",
-                "zipcode": "72756"
+            "name":"Guru Nanak Sikh Temple - Rogers",
+            "info":{
+              "website":"http://www.gnstnwa.org/",
+              "address":{
+                "street":"1515 West Hudson Road",
+                "city":"Rogers",
+                "state":"AR",
+                "zipcode":"72756"
               },
-              "contact": {
-                "phone": "479-270-1620",
-                "email": "gnstnwa@gmail.com"
+              "contact":{
+                "phone":"479-270-1620",
+                "email":"gnstnwa@gmail.com"
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Religious Society of Little Rock",
-            "info": {
-              "website": "",
-              "address": {
-                "street": "333 Newman Dr",
-                "city": "North Little Rock",
-                "state": "AR",
-                "zipcode": ""
+            "name":"Sikh Religious Society of Little Rock",
+            "info":{
+              "website":"",
+              "address":{
+                "street":"333 Newman Dr",
+                "city":"North Little Rock",
+                "state":"AR",
+                "zipcode":""
               },
-              "contact": {
-                "phone": "501-945-3333",
-                "email": ""
+              "contact":{
+                "phone":"501-945-3333",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/GurudwaraLR/",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/GurudwaraLR/",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           }
         ]
       },
       {
-        "name": "California",
-        "abbreviation": "CA",
-        "gurudwaras": [
+        "name":"California",
+        "abbreviation":"CA",
+        "gurudwaras":[
           {
-            "name": "Tri-Valley Sikh Center - Livermore Gurdwara",
-            "info": {
-              "website": "http://trivalleysikhcenter.org",
-              "address": {
-                "street": "2089 N Livermore Ave",
-                "city": "Livermore",
-                "state": "CA",
-                "zipcode": "94551"
+            "name":"Tri-Valley Sikh Center - Livermore Gurdwara",
+            "info":{
+              "website":"http://trivalleysikhcenter.org",
+              "address":{
+                "street":"2089 N Livermore Ave",
+                "city":"Livermore",
+                "state":"CA",
+                "zipcode":"94551"
               },
-              "contact": {
-                "phone": "",
-                "email": "trivalleysikhcenter@gmail.com"
+              "contact":{
+                "phone":"",
+                "email":"trivalleysikhcenter@gmail.com"
               },
-              "social": {
-                "facebook": "https://www.facebook.com/TriValleySikhCenter",
-                "instagram": "",
-                "twitter": "https://twitter.com/TriValleySikhs",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/TriValleySikhCenter",
+                "instagram":"",
+                "twitter":"https://twitter.com/TriValleySikhs",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Gurdwara of Buena Park",
-            "info": {
-              "website": "http://www.gurdwarabuenapark.com/",
-              "address": {
-                "street": "6911 Stanton Avenue",
-                "city": "Buena Park",
-                "state": "CA",
-                "zipcode": "90624"
+            "name":"Sikh Gurdwara of Buena Park",
+            "info":{
+              "website":"http://www.gurdwarabuenapark.com/",
+              "address":{
+                "street":"6911 Stanton Avenue",
+                "city":"Buena Park",
+                "state":"CA",
+                "zipcode":"90624"
               },
-              "contact": {
-                "phone": "714-670-8843",
-                "email": ""
+              "contact":{
+                "phone":"714-670-8843",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Buena-Park-Gurdwara/145981025447351",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Buena-Park-Gurdwara/145981025447351",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Guru Ram Das Gurdwara - Los Angeles",
-            "info": {
-              "website": "http://www.gururamdasashram.org/gurdwara",
-              "address": {
-                "street": "1620 Preuss Road",
-                "city": "Los Angeles",
-                "state": "CA",
-                "zipcode": "90035"
+            "name":"Guru Ram Das Gurdwara - Los Angeles",
+            "info":{
+              "website":"http://www.gururamdasashram.org/gurdwara",
+              "address":{
+                "street":"1620 Preuss Road",
+                "city":"Los Angeles",
+                "state":"CA",
+                "zipcode":"90035"
               },
-              "contact": {
-                "phone": "310-858-7691",
-                "email": "coordinator@gururamdasashram.org"
+              "contact":{
+                "phone":"310-858-7691",
+                "email":"coordinator@gururamdasashram.org"
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Gurdwara of Los Angeles - North Hollywood",
-            "info": {
-              "website": "http://www.lankershimgurdwara.com/",
-              "address": {
-                "street": "7640 Lankershim Blvd",
-                "city": "North Hollywood",
-                "state": "CA",
-                "zipcode": "91605"
+            "name":"Sikh Gurdwara of Los Angeles - North Hollywood",
+            "info":{
+              "website":"http://www.lankershimgurdwara.com/",
+              "address":{
+                "street":"7640 Lankershim Blvd",
+                "city":"North Hollywood",
+                "state":"CA",
+                "zipcode":"91605"
               },
-              "contact": {
-                "phone": "818-765—9399",
-                "email": ""
+              "contact":{
+                "phone":"818-765—9399",
+                "email":""
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Hollywood Sikh Temple (Gurdwara Vermont)",
-            "info": {
-              "website": "http://hollywoodsikhtemple.com/",
-              "address": {
-                "street": "1966 N Vermont Ave",
-                "city": "Los Angeles",
-                "state": "CA",
-                "zipcode": "90027"
+            "name":"Hollywood Sikh Temple (Gurdwara Vermont)",
+            "info":{
+              "website":"http://hollywoodsikhtemple.com/",
+              "address":{
+                "street":"1966 N Vermont Ave",
+                "city":"Los Angeles",
+                "state":"CA",
+                "zipcode":"90027"
               },
-              "contact": {
-                "phone": "323-665-7707",
-                "email": "hollywoodsikhtemple@gmail.com"
+              "contact":{
+                "phone":"323-665-7707",
+                "email":"hollywoodsikhtemple@gmail.com"
               },
-              "social": {
-                "facebook": "https://www.facebook.com/hollywoodsikhtemple/",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/hollywoodsikhtemple/",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Gurdwara of San Francisco - San Mateo",
-            "info": {
-              "website": "http://www.sfgurdwara.com",
-              "address": {
-                "street": "P.O. Box 25493",
-                "city": "San Mateo",
-                "state": "CA",
-                "zipcode": "94402"
+            "name":"Sikh Gurdwara of San Francisco - San Mateo",
+            "info":{
+              "website":"http://www.sfgurdwara.com",
+              "address":{
+                "street":"P.O. Box 25493",
+                "city":"San Mateo",
+                "state":"CA",
+                "zipcode":"94402"
               },
-              "contact": {
-                "phone": "650-520-5797",
-                "email": "admin@sfgurdwara.com"
+              "contact":{
+                "phone":"650-520-5797",
+                "email":"admin@sfgurdwara.com"
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Gurdwara of Milpitas",
-            "info": {
-              "website": "http://www.gurdwaraofmilpitas.com/",
-              "address": {
-                "street": "1180 Cadillac Court",
-                "city": "Milpitas",
-                "state": "CA",
-                "zipcode": "95035"
+            "name":"Gurdwara of Milpitas",
+            "info":{
+              "website":"http://www.gurdwaraofmilpitas.com/",
+              "address":{
+                "street":"1180 Cadillac Court",
+                "city":"Milpitas",
+                "state":"CA",
+                "zipcode":"95035"
               },
-              "contact": {
-                "phone": "408-946-1399",
-                "email": "info@wyrespeed.com"
+              "contact":{
+                "phone":"408-946-1399",
+                "email":"info@wyrespeed.com"
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Gurudwara Gurnanak Prakash Damdami Taksal",
-            "info": {
-              "website": "http://www.tracygurdwara.com/",
-              "address": {
-                "street": "16101 W Grant Line Rd",
-                "city": "Tracy",
-                "state": "CA",
-                "zipcode": "95304"
+            "name":"Gurudwara Gurnanak Prakash Damdami Taksal",
+            "info":{
+              "website":"http://www.tracygurdwara.com/",
+              "address":{
+                "street":"16101 W Grant Line Rd",
+                "city":"Tracy",
+                "state":"CA",
+                "zipcode":"95304"
               },
-              "contact": {
-                "phone": "209-346-4270",
-                "email": ""
+              "contact":{
+                "phone":"209-346-4270",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/gurdwaratracy/",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/gurdwaratracy/",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Gurdwara Gurnanak Parkash - Fresno",
-            "info": {
-              "website": "http://www.gurdwaragurnanakprakash.com/",
-              "address": {
-                "street": "4250 E Lincoln Ave",
-                "city": "Fresno",
-                "state": "CA",
-                "zipcode": "93725"
+            "name":"Gurdwara Gurnanak Parkash - Fresno",
+            "info":{
+              "website":"http://www.gurdwaragurnanakprakash.com/",
+              "address":{
+                "street":"4250 E Lincoln Ave",
+                "city":"Fresno",
+                "state":"CA",
+                "zipcode":"93725"
               },
-              "contact": {
-                "phone": "559-834-4780",
-                "email": ""
+              "contact":{
+                "phone":"559-834-4780",
+                "email":""
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Guru Nanak Sikh Society (Beechwood)	Fresno",
-            "info": {
-              "website": "",
-              "address": {
-                "street": "295 W Beechwood Ave",
-                "city": "Pinedale",
-                "state": "CA",
-                "zipcode": "93650"
+            "name":"Guru Nanak Sikh Society (Beechwood)	Fresno",
+            "info":{
+              "website":"",
+              "address":{
+                "street":"295 W Beechwood Ave",
+                "city":"Pinedale",
+                "state":"CA",
+                "zipcode":"93650"
               },
-              "contact": {
-                "phone": "",
-                "email": ""
+              "contact":{
+                "phone":"",
+                "email":""
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Nanaksar Satsang Sabha - Fresno",
-            "info": {
-              "website": "http://www.gurdwarananaksar.com/",
-              "address": {
-                "street": "3860 N Cornelia Ave",
-                "city": "Fresno",
-                "state": "CA",
-                "zipcode": "93722"
+            "name":"Nanaksar Satsang Sabha - Fresno",
+            "info":{
+              "website":"http://www.gurdwarananaksar.com/",
+              "address":{
+                "street":"3860 N Cornelia Ave",
+                "city":"Fresno",
+                "state":"CA",
+                "zipcode":"93722"
               },
-              "contact": {
-                "phone": "559-271-5870",
-                "email": ""
+              "contact":{
+                "phone":"559-271-5870",
+                "email":""
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Gurdwara Anandgarh Sahib - Kerman",
-            "info": {
-              "website": "",
-              "address": {
-                "street": "650 S Vineland Ave",
-                "city": "Kerman",
-                "state": "CA",
-                "zipcode": "93630"
+            "name":"Gurdwara Anandgarh Sahib - Kerman",
+            "info":{
+              "website":"",
+              "address":{
+                "street":"650 S Vineland Ave",
+                "city":"Kerman",
+                "state":"CA",
+                "zipcode":"93630"
               },
-              "contact": {
-                "phone": "559-846-6804",
-                "email": ""
+              "contact":{
+                "phone":"559-846-6804",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Anandgarh-Sahib-Gurdwara/196449450367538",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Anandgarh-Sahib-Gurdwara/196449450367538",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Gurdwara of Norco",
-            "info": {
-              "website": "http://www.norcogurdwara.org/",
-              "address": {
-                "street": "2784 Reservoir Drive",
-                "city": "Noorce",
-                "state": "CA",
-                "zipcode": "92860"
+            "name":"Gurdwara of Norco",
+            "info":{
+              "website":"http://www.norcogurdwara.org/",
+              "address":{
+                "street":"2784 Reservoir Drive",
+                "city":"Noorce",
+                "state":"CA",
+                "zipcode":"92860"
               },
-              "contact": {
-                "phone": "951-372-0788",
-                "email": ""
+              "contact":{
+                "phone":"951-372-0788",
+                "email":""
               },
-              "social": {
-                "facebook": "http://www.facebook.com/norcogurdwara",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"http://www.facebook.com/norcogurdwara",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Center of Pacific Coast - Selma",
-            "info": {
-              "website": "http://selmagurdwara.com/",
-              "address": {
-                "street": "2211 S. Highland Ave",
-                "city": "Selma",
-                "state": "CA",
-                "zipcode": "93662"
+            "name":"Sikh Center of Pacific Coast - Selma",
+            "info":{
+              "website":"http://selmagurdwara.com/",
+              "address":{
+                "street":"2211 S. Highland Ave",
+                "city":"Selma",
+                "state":"CA",
+                "zipcode":"93662"
               },
-              "contact": {
-                "phone": "559-891-1123",
-                "email": ""
+              "contact":{
+                "phone":"559-891-1123",
+                "email":""
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Pacific Coast Diwan Society	Caruthers",
-            "info": {
-              "website": "",
-              "address": {
-                "street": "2025 W Clemenceau Ave",
-                "city": "Caruthers",
-                "state": "CA",
-                "zipcode": "93609"
+            "name":"Pacific Coast Diwan Society	Caruthers",
+            "info":{
+              "website":"",
+              "address":{
+                "street":"2025 W Clemenceau Ave",
+                "city":"Caruthers",
+                "state":"CA",
+                "zipcode":"93609"
               },
-              "contact": {
-                "phone": "559-864-7000",
-                "email": ""
+              "contact":{
+                "phone":"559-864-7000",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Pacific-Coast-Khalsa-Diwan-Society/116849725042584",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Pacific-Coast-Khalsa-Diwan-Society/116849725042584",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Guru Nanak Sikh Temple	San Joaquin",
-            "info": {
-              "website": "",
-              "address": {
-                "street": "8695 Main",
-                "city": "San Joaquin",
-                "state": "CA",
-                "zipcode": "93660"
+            "name":"Guru Nanak Sikh Temple	San Joaquin",
+            "info":{
+              "website":"",
+              "address":{
+                "street":"8695 Main",
+                "city":"San Joaquin",
+                "state":"CA",
+                "zipcode":"93660"
               },
-              "contact": {
-                "phone": "559-693-2316",
-                "email": ""
+              "contact":{
+                "phone":"559-693-2316",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Guru-Nanak-Sikh-Temple/102313303176230",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Guru-Nanak-Sikh-Temple/102313303176230",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Center of San Francisco Bay Area - El Sobrante",
-            "info": {
-              "website": "http://www.mygurdwara.com/",
-              "address": {
-                "street": "3550 Hillcrest Road",
-                "city": "El Sobrante",
-                "state": "CA",
-                "zipcode": "94803"
+            "name":"Sikh Center of San Francisco Bay Area - El Sobrante",
+            "info":{
+              "website":"http://www.mygurdwara.com/",
+              "address":{
+                "street":"3550 Hillcrest Road",
+                "city":"El Sobrante",
+                "state":"CA",
+                "zipcode":"94803"
               },
-              "contact": {
-                "phone": "510-223-1102",
-                "email": ""
+              "contact":{
+                "phone":"510-223-1102",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/sfsikhcenter",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/sfsikhcenter",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Gurdwara Sahib Fremont",
-            "info": {
-              "website": "http://www.fremontgurdwara.org/",
-              "address": {
-                "street": "300 Gurdwara Road",
-                "city": "Fremont",
-                "state": "CA",
-                "zipcode": "94536"
+            "name":"Gurdwara Sahib Fremont",
+            "info":{
+              "website":"http://www.fremontgurdwara.org/",
+              "address":{
+                "street":"300 Gurdwara Road",
+                "city":"Fremont",
+                "state":"CA",
+                "zipcode":"94536"
               },
-              "contact": {
-                "phone": "510-790-0177",
-                "email": "fremontgs.it@gmail.com"
+              "contact":{
+                "phone":"510-790-0177",
+                "email":"fremontgs.it@gmail.com"
               },
-              "social": {
-                "facebook": "https://www.facebook.com/GurdwaraSahibFremont",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/GurdwaraSahibFremont",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Riverside Gurdwara",
-            "info": {
-              "website": "http://www.riversidegurdwara.com/",
-              "address": {
-                "street": "7940 Mission Blvd",
-                "city": "Riverside",
-                "state": "CA",
-                "zipcode": "92509"
+            "name":"Riverside Gurdwara",
+            "info":{
+              "website":"http://www.riversidegurdwara.com/",
+              "address":{
+                "street":"7940 Mission Blvd",
+                "city":"Riverside",
+                "state":"CA",
+                "zipcode":"92509"
               },
-              "contact": {
-                "phone": "951-685-9701",
-                "email": ""
+              "contact":{
+                "phone":"951-685-9701",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/gurdwarariverside/",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/gurdwarariverside/",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Gurdwara Sahib of San Jose",
-            "info": {
-              "website": "http://www.sikhgurudwarasj.org/",
-              "address": {
-                "street": "3636 Murillo Ave",
-                "city": "San Jose",
-                "state": "CA",
-                "zipcode": "95148"
+            "name":"Gurdwara Sahib of San Jose",
+            "info":{
+              "website":"http://www.sikhgurudwarasj.org/",
+              "address":{
+                "street":"3636 Murillo Ave",
+                "city":"San Jose",
+                "state":"CA",
+                "zipcode":"95148"
               },
-              "contact": {
-                "phone": "408-274-9373",
-                "email": ""
+              "contact":{
+                "phone":"408-274-9373",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/sanjosegurdwara/",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/sanjosegurdwara/",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Shri Guru Ravidass Sabha Pittsburg",
-            "info": {
-              "website": "http://srigururavidasstemple.com/",
-              "address": {
-                "street": "2150 Crestview Drive",
-                "city": "Pittsburg",
-                "state": "CA",
-                "zipcode": "94565"
+            "name":"Shri Guru Ravidass Sabha Pittsburg",
+            "info":{
+              "website":"http://srigururavidasstemple.com/",
+              "address":{
+                "street":"2150 Crestview Drive",
+                "city":"Pittsburg",
+                "state":"CA",
+                "zipcode":"94565"
               },
-              "contact": {
-                "phone": "925-439-2355",
-                "email": ""
+              "contact":{
+                "phone":"925-439-2355",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Shri-Guru-Ravidass-Gurdwara/217645314913482",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Shri-Guru-Ravidass-Gurdwara/217645314913482",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Gurdwara Sahib Stockton",
-            "info": {
-              "website": "http://www.stocktongurdwarasahib.com/",
-              "address": {
-                "street": "1930 Sikh Temple St",
-                "city": "Stockton",
-                "state": "CA",
-                "zipcode": "95206"
+            "name":"Sikh Gurdwara Sahib Stockton",
+            "info":{
+              "website":"http://www.stocktongurdwarasahib.com/",
+              "address":{
+                "street":"1930 Sikh Temple St",
+                "city":"Stockton",
+                "state":"CA",
+                "zipcode":"95206"
               },
-              "contact": {
-                "phone": "209-937-0136",
-                "email": ""
+              "contact":{
+                "phone":"209-937-0136",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/Gurdwarasahibstockton/",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/Gurdwarasahibstockton/",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Foundation San Diego",
-            "info": {
-              "website": "http://www.sdsikhs.org",
-              "address": {
-                "street": "12269 Oak Knoll Road",
-                "city": "Poway",
-                "state": "CA",
-                "zipcode": "92064"
+            "name":"Sikh Foundation San Diego",
+            "info":{
+              "website":"http://www.sdsikhs.org",
+              "address":{
+                "street":"12269 Oak Knoll Road",
+                "city":"Poway",
+                "state":"CA",
+                "zipcode":"92064"
               },
-              "contact": {
-                "phone": "858-486-1231",
-                "email": ""
+              "contact":{
+                "phone":"858-486-1231",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/San-Diego-Gurdwara-239860529425696/",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/San-Diego-Gurdwara-239860529425696/",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Gurdwara Sahib Hayward",
-            "info": {
-              "website": "",
-              "address": {
-                "street": "1798 D St",
-                "city": "Hayward",
-                "state": "CA",
-                "zipcode": "94541"
+            "name":"Gurdwara Sahib Hayward",
+            "info":{
+              "website":"",
+              "address":{
+                "street":"1798 D St",
+                "city":"Hayward",
+                "state":"CA",
+                "zipcode":"94541"
               },
-              "contact": {
-                "phone": "510-888-1600",
-                "email": ""
+              "contact":{
+                "phone":"510-888-1600",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Hayward-Gurudwara/167618876590785",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Hayward-Gurudwara/167618876590785",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Guru Ravidass Temple Sacramento",
-            "info": {
-              "website": "http://www.gururavidasstemplesacramento.com",
-              "address": {
-                "street": "6221 16th Street",
-                "city": "Rio Linda",
-                "state": "CA",
-                "zipcode": "95673"
+            "name":"Guru Ravidass Temple Sacramento",
+            "info":{
+              "website":"http://www.gururavidasstemplesacramento.com",
+              "address":{
+                "street":"6221 16th Street",
+                "city":"Rio Linda",
+                "state":"CA",
+                "zipcode":"95673"
               },
-              "contact": {
-                "phone": "916-992 1710",
-                "email": "info@gururavidasstemplesacramento.com"
+              "contact":{
+                "phone":"916-992 1710",
+                "email":"info@gururavidasstemplesacramento.com"
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Shri Guru Singh Sabha Walnut",
-            "info": {
-              "website": "http://sikhtemplewalnut.tripod.com/",
-              "address": {
-                "street": "20001 E Walnut Dr South",
-                "city": "Walnut",
-                "state": "CA",
-                "zipcode": "91789"
+            "name":"Shri Guru Singh Sabha Walnut",
+            "info":{
+              "website":"http://sikhtemplewalnut.tripod.com/",
+              "address":{
+                "street":"20001 E Walnut Dr South",
+                "city":"Walnut",
+                "state":"CA",
+                "zipcode":"91789"
               },
-              "contact": {
-                "phone": "909-446-5502",
-                "email": "info@walnutsikhtemple.com"
+              "contact":{
+                "phone":"909-446-5502",
+                "email":"info@walnutsikhtemple.com"
               },
-              "social": {
-                "facebook": "https://www.facebook.com/Gurdwarasahibwalnut",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/Gurdwarasahibwalnut",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Capital Sikh Center	Sacramento",
-            "info": {
-              "website": "",
-              "address": {
-                "street": "4600 Pell Dr",
-                "city": "Sacramento",
-                "state": "CA",
-                "zipcode": "95838"
+            "name":"Capital Sikh Center	Sacramento",
+            "info":{
+              "website":"",
+              "address":{
+                "street":"4600 Pell Dr",
+                "city":"Sacramento",
+                "state":"CA",
+                "zipcode":"95838"
               },
-              "contact": {
-                "phone": "916-922-1313",
-                "email": ""
+              "contact":{
+                "phone":"916-922-1313",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/capitalsikhcenter/",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/capitalsikhcenter/",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sacramento Sikh Society - Sacramento",
-            "info": {
-              "website": "http://sacsikhsociety.org/",
-              "address": {
-                "street": "7676 Bradshaw Rd",
-                "city": "Sacramento",
-                "state": "CA",
-                "zipcode": "95829"
+            "name":"Sacramento Sikh Society - Sacramento",
+            "info":{
+              "website":"http://sacsikhsociety.org/",
+              "address":{
+                "street":"7676 Bradshaw Rd",
+                "city":"Sacramento",
+                "state":"CA",
+                "zipcode":"95829"
               },
-              "contact": {
-                "phone": "916-688-3020",
-                "email": ""
+              "contact":{
+                "phone":"916-688-3020",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Sacramento-Sikh-Society/135646463150942",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Sacramento-Sikh-Society/135646463150942",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Gurdwara Prabh Milne Ka Chao",
-            "info": {
-              "website": "",
-              "address": {
-                "street": "10371 Jackson Road",
-                "city": "Sacramento",
-                "state": "CA",
-                "zipcode": "95827"
+            "name":"Gurdwara Prabh Milne Ka Chao",
+            "info":{
+              "website":"",
+              "address":{
+                "street":"10371 Jackson Road",
+                "city":"Sacramento",
+                "state":"CA",
+                "zipcode":"95827"
               },
-              "contact": {
-                "phone": "",
-                "email": ""
+              "contact":{
+                "phone":"",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/PMKC-Prabh-Milne-Kaa-Chaao/120899647983131",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/PMKC-Prabh-Milne-Kaa-Chaao/120899647983131",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           }
         ]
       },
       {
-        "name": "Colorado",
-        "abbreviation": "CO",
-        "gurudwaras": [
+        "name":"Colorado",
+        "abbreviation":"CO",
+        "gurudwaras":[
           {
-            "name": "Colorado Singh Sabha - Commerce City",
-            "info": {
-              "website": "http://www.coloradosinghsabha.com/",
-              "address": {
-                "street": "20555 E 120th Ave",
-                "city": "Commerce City",
-                "state": "CO",
-                "zipcode": "80022"
+            "name":"Colorado Singh Sabha - Commerce City",
+            "info":{
+              "website":"http://www.coloradosinghsabha.com/",
+              "address":{
+                "street":"20555 E 120th Ave",
+                "city":"Commerce City",
+                "state":"CO",
+                "zipcode":"80022"
               },
-              "contact": {
-                "phone": "303-659-4150",
-                "email": ""
+              "contact":{
+                "phone":"303-659-4150",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/CSS.CO",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/CSS.CO",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Guru Ghar - Colorado Springs",
-            "info": {
-              "website": "http://www.gurugharcoloradosprings.org/",
-              "address": {
-                "street": "4330 Iron Horse Trail",
-                "city": "Colorado Springs",
-                "state": "CO",
-                "zipcode": "80917"
+            "name":"Guru Ghar - Colorado Springs",
+            "info":{
+              "website":"http://www.gurugharcoloradosprings.org/",
+              "address":{
+                "street":"4330 Iron Horse Trail",
+                "city":"Colorado Springs",
+                "state":"CO",
+                "zipcode":"80917"
               },
-              "contact": {
-                "phone": "719-574-8261",
-                "email": ""
+              "contact":{
+                "phone":"719-574-8261",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Gurughar-Colorado-Springs/322331441178806",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Gurughar-Colorado-Springs/322331441178806",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Guru Amar Das Niwas Boulder",
-            "info": {
-              "website": "",
-              "address": {
-                "street": "3840 Baseline Rd",
-                "city": "Boulder",
-                "state": "CO",
-                "zipcode": "80303"
+            "name":"Guru Amar Das Niwas Boulder",
+            "info":{
+              "website":"",
+              "address":{
+                "street":"3840 Baseline Rd",
+                "city":"Boulder",
+                "state":"CO",
+                "zipcode":"80303"
               },
-              "contact": {
-                "phone": "303-494-6806",
-                "email": ""
+              "contact":{
+                "phone":"303-494-6806",
+                "email":""
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Guru Ram Das Ashram - Louisville",
-            "info": {
-              "website": "",
-              "address": {
-                "street": "277 S Carter Ave",
-                "city": "Louisville",
-                "state": "CO",
-                "zipcode": "80027"
+            "name":"Guru Ram Das Ashram - Louisville",
+            "info":{
+              "website":"",
+              "address":{
+                "street":"277 S Carter Ave",
+                "city":"Louisville",
+                "state":"CO",
+                "zipcode":"80027"
               },
-              "contact": {
-                "phone": "303-655-6170",
-                "email": ""
+              "contact":{
+                "phone":"303-655-6170",
+                "email":""
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           }
         ]
       },
       {
-        "name": "Connecticut",
-        "abbreviation": "CT",
-        "gurudwaras": [
+        "name":"Connecticut",
+        "abbreviation":"CT",
+        "gurudwaras":[
           {
-            "name": "Gurdwara Sachkhand Darbar - Hamden",
-            "info": {
-              "website": "http://wwww.clufoir.com/Gurdwara/",
-              "address": {
-                "street": "336 Welton Street",
-                "city": "Hamden",
-                "state": "CT",
-                "zipcode": "06517"
+            "name":"Gurdwara Sachkhand Darbar - Hamden",
+            "info":{
+              "website":"http://wwww.clufoir.com/Gurdwara/",
+              "address":{
+                "street":"336 Welton Street",
+                "city":"Hamden",
+                "state":"CT",
+                "zipcode":"06517"
               },
-              "contact": {
-                "phone": "860-983-1219",
-                "email": "SachkhandMail@gmail.com"
+              "contact":{
+                "phone":"860-983-1219",
+                "email":"SachkhandMail@gmail.com"
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Gurdwara-Sachkhand-Darbar/1526850670960087",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Gurdwara-Sachkhand-Darbar/1526850670960087",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Gurdwara Guru Nanak Darbar - Southington",
-            "info": {
-              "website": "",
-              "address": {
-                "street": "1610 West St",
-                "city": "Southington",
-                "state": "CT",
-                "zipcode": "06489"
+            "name":"Gurdwara Guru Nanak Darbar - Southington",
+            "info":{
+              "website":"",
+              "address":{
+                "street":"1610 West St",
+                "city":"Southington",
+                "state":"CT",
+                "zipcode":"06489"
               },
-              "contact": {
-                "phone": "",
-                "email": ""
+              "contact":{
+                "phone":"",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/Southington-Gurdwara-Sikh-Temple-Guru-Nanak-Darbar-CT-119383284787455/",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/Southington-Gurdwara-Sikh-Temple-Guru-Nanak-Darbar-CT-119383284787455/",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Guru Tegh Bahadur Ji Foundation - Norwalk",
-            "info": {
-              "website": "http://www.gtbf.org/",
-              "address": {
-                "street": "622 West Avenue",
-                "city": "Norwalk",
-                "state": "CT",
-                "zipcode": "06850"
+            "name":"Guru Tegh Bahadur Ji Foundation - Norwalk",
+            "info":{
+              "website":"http://www.gtbf.org/",
+              "address":{
+                "street":"622 West Avenue",
+                "city":"Norwalk",
+                "state":"CT",
+                "zipcode":"06850"
               },
-              "contact": {
-                "phone": "203-857 4460",
-                "email": ""
+              "contact":{
+                "phone":"203-857 4460",
+                "email":""
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": " Guru Ramdas Darbar - Windsor",
-            "info": {
-              "website": "",
-              "address": {
-                "street": "564 Park Avenue",
-                "city": "Windsor",
-                "state": "CT",
-                "zipcode": "06095"
+            "name":" Guru Ramdas Darbar - Windsor",
+            "info":{
+              "website":"",
+              "address":{
+                "street":"564 Park Avenue",
+                "city":"Windsor",
+                "state":"CT",
+                "zipcode":"06095"
               },
-              "contact": {
-                "phone": "",
-                "email": ""
+              "contact":{
+                "phone":"",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/SriGuruRamdasDarbar",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/SriGuruRamdasDarbar",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           }
         ]
       },
       {
-        "name": "Delaware",
-        "abbreviation": "DE",
-        "gurudwaras": [
+        "name":"Delaware",
+        "abbreviation":"DE",
+        "gurudwaras":[
           {
-            "name": "Gurdwara of Delaware",
-            "info": {
-              "website": "http://www.gurdwaraofdelaware.net",
-              "address": {
-                "street": "450 Boyds Corner Rd,",
-                "city": "Middletown",
-                "state": "DE",
-                "zipcode": "19709"
+            "name":"Gurdwara of Delaware",
+            "info":{
+              "website":"http://www.gurdwaraofdelaware.net",
+              "address":{
+                "street":"450 Boyds Corner Rd,",
+                "city":"Middletown",
+                "state":"DE",
+                "zipcode":"19709"
               },
-              "contact": {
-                "phone": "302-376-8300",
-                "email": "Info@gnssdv.com"
+              "contact":{
+                "phone":"302-376-8300",
+                "email":"Info@gnssdv.com"
               },
-              "social": {
-                "facebook": "https://www.facebook.com/Gurdwara-of-Delaware-451623724935200/",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/Gurdwara-of-Delaware-451623724935200/",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Center of Delaware - New Castle",
-            "info": {
-              "website": "http://www.sikhcenterofdelaware.org/",
-              "address": {
-                "street": "1107 S Dupont Hwy",
-                "city": "New Castle",
-                "state": "DE",
-                "zipcode": "19720"
+            "name":"Sikh Center of Delaware - New Castle",
+            "info":{
+              "website":"http://www.sikhcenterofdelaware.org/",
+              "address":{
+                "street":"1107 S Dupont Hwy",
+                "city":"New Castle",
+                "state":"DE",
+                "zipcode":"19720"
               },
-              "contact": {
-                "phone": "",
-                "email": "info@sikhcenterofdelaware.org"
+              "contact":{
+                "phone":"",
+                "email":"info@sikhcenterofdelaware.org"
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           }
         ]
       },
       {
-        "name": "District Of Columbia",
-        "abbreviation": "DC",
-        "gurudwaras": []
+        "name":"District Of Columbia",
+        "abbreviation":"DC",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Federated States Of Micronesia",
-        "abbreviation": "FM",
-        "gurudwaras": []
+        "name":"Federated States Of Micronesia",
+        "abbreviation":"FM",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Florida",
-        "abbreviation": "FL",
-        "gurudwaras": [
+        "name":"Florida",
+        "abbreviation":"FL",
+        "gurudwaras":[
           {
-            "name": "Nanaksar Thath Isher Darbar	Kissimmee",
-            "info": {
-              "website": "http://www.gurdwarananaksarflorida.com/",
-              "address": {
-                "street": "2480 N Hoagland Blvd",
-                "city": "Kissimmee",
-                "state": "FL",
-                "zipcode": "34741"
+            "name":"Nanaksar Thath Isher Darbar	Kissimmee",
+            "info":{
+              "website":"http://www.gurdwarananaksarflorida.com/",
+              "address":{
+                "street":"2480 N Hoagland Blvd",
+                "city":"Kissimmee",
+                "state":"FL",
+                "zipcode":"34741"
               },
-              "contact": {
-                "phone": "407-846-1291",
-                "email": "info@gurdwarananaksarflorida.com"
+              "contact":{
+                "phone":"407-846-1291",
+                "email":"info@gurdwarananaksarflorida.com"
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Nanaksar-Thath-Isher-Darbar-Orlando-Inc/119251518088341",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Nanaksar-Thath-Isher-Darbar-Orlando-Inc/119251518088341",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Tampa Gurdwara - Thonotosassa",
-            "info": {
-              "website": "http://www.tampagurdwara.com/",
-              "address": {
-                "street": "15302 Morris Bridge Road",
-                "city": "Thonotosassa",
-                "state": "FL",
-                "zipcode": "33592"
+            "name":"Tampa Gurdwara - Thonotosassa",
+            "info":{
+              "website":"http://www.tampagurdwara.com/",
+              "address":{
+                "street":"15302 Morris Bridge Road",
+                "city":"Thonotosassa",
+                "state":"FL",
+                "zipcode":"33592"
               },
-              "contact": {
-                "phone": "813-986-6205",
-                "email": ""
+              "contact":{
+                "phone":"813-986-6205",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/Tampa-Gurdwara-479465128731380/",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/Tampa-Gurdwara-479465128731380/",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Society of Central Florida - Oviedo ",
-            "info": {
-              "website": "http://www.orlandogurdwara.com/",
-              "address": {
-                "street": "2527 W STATE ROAD 426",
-                "city": "OVIEDO",
-                "state": "FL",
-                "zipcode": "32765"
+            "name":"Sikh Society of Central Florida - Oviedo ",
+            "info":{
+              "website":"http://www.orlandogurdwara.com/",
+              "address":{
+                "street":"2527 W STATE ROAD 426",
+                "city":"OVIEDO",
+                "state":"FL",
+                "zipcode":"32765"
               },
-              "contact": {
-                "phone": "407-366-3136",
-                "email": ""
+              "contact":{
+                "phone":"407-366-3136",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/Orlando-Gurdwara-of-Sikh-Central-Society-of-Central-Florida-349639086745/?fref=ts",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/Orlando-Gurdwara-of-Sikh-Central-Society-of-Central-Florida-349639086745/?fref=ts",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Society of North East Florida	Jacksonville",
-            "info": {
-              "website": "http://www.jaxgurudwara.org",
-              "address": {
-                "street": "6019 Morrow Street East",
-                "city": "Jacksonville",
-                "state": "FL",
-                "zipcode": "32217"
+            "name":"Sikh Society of North East Florida	Jacksonville",
+            "info":{
+              "website":"http://www.jaxgurudwara.org",
+              "address":{
+                "street":"6019 Morrow Street East",
+                "city":"Jacksonville",
+                "state":"FL",
+                "zipcode":"32217"
               },
-              "contact": {
-                "phone": "904-620-0777",
-                "email": ""
+              "contact":{
+                "phone":"904-620-0777",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/jaxgurudwara",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/jaxgurudwara",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           }
         ]
       },
       {
-        "name": "Georgia",
-        "abbreviation": "GA",
-        "gurudwaras": [
+        "name":"Georgia",
+        "abbreviation":"GA",
+        "gurudwaras":[
           {
-            "name": "Atlanta Sikh Gurdwara - Stone Mountain",
-            "info": {
-              "website": "http://www.sikh-atlanta.org/",
-              "address": {
-                "street": "1821 S Hairston Rd",
-                "city": "Stone Mountain",
-                "state": "GA",
-                "zipcode": "30088"
+            "name":"Atlanta Sikh Gurdwara - Stone Mountain",
+            "info":{
+              "website":"http://www.sikh-atlanta.org/",
+              "address":{
+                "street":"1821 S Hairston Rd",
+                "city":"Stone Mountain",
+                "state":"GA",
+                "zipcode":"30088"
               },
-              "contact": {
-                "phone": "770-808-6320",
-                "email": ""
+              "contact":{
+                "phone":"770-808-6320",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Gurdwara-SahibSikh-Study-Circle/142255435820245",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Gurdwara-SahibSikh-Study-Circle/142255435820245",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Guru Nanak Darbar - Augusta",
-            "info": {
-              "website": "",
-              "address": {
-                "street": "2252 Nellie Dr.",
-                "city": "Augusta",
-                "state": "GA",
-                "zipcode": "30906"
+            "name":"Guru Nanak Darbar - Augusta",
+            "info":{
+              "website":"",
+              "address":{
+                "street":"2252 Nellie Dr.",
+                "city":"Augusta",
+                "state":"GA",
+                "zipcode":"30906"
               },
-              "contact": {
-                "phone": "706-592-6050",
-                "email": ""
+              "contact":{
+                "phone":"706-592-6050",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Guru-Nanak-Darbar-Sikh/194725534204754",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Guru-Nanak-Darbar-Sikh/194725534204754",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Guru Singh Sabha Augusta - Evans",
-            "info": {
-              "website": "http://pluralism.org/profile/guru-singh-sabha-augusta/",
-              "address": {
-                "street": "4031 Evans to Lock Road",
-                "city": "Evans",
-                "state": "GA",
-                "zipcode": "30809"
+            "name":"Guru Singh Sabha Augusta - Evans",
+            "info":{
+              "website":"http://pluralism.org/profile/guru-singh-sabha-augusta/",
+              "address":{
+                "street":"4031 Evans to Lock Road",
+                "city":"Evans",
+                "state":"GA",
+                "zipcode":"30809"
               },
-              "contact": {
-                "phone": "706-863-7391",
-                "email": ""
+              "contact":{
+                "phone":"706-863-7391",
+                "email":""
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sewa Gurudwara Sahib	Roswell",
-            "info": {
-              "website": "http://www.sewageorgia.org/	",
-              "address": {
-                "street": "10590, WoodStock Rd",
-                "city": "Roswell",
-                "state": "GA",
-                "zipcode": "30075"
+            "name":"Sewa Gurudwara Sahib	Roswell",
+            "info":{
+              "website":"http://www.sewageorgia.org/	",
+              "address":{
+                "street":"10590, WoodStock Rd",
+                "city":"Roswell",
+                "state":"GA",
+                "zipcode":"30075"
               },
-              "contact": {
-                "phone": "678-819-2990",
-                "email": "info@sewageorgia.org"
+              "contact":{
+                "phone":"678-819-2990",
+                "email":"info@sewageorgia.org"
               },
-              "social": {
-                "facebook": "https://www.facebook.com/sewagurdwara/",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/sewagurdwara/",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sadh Sangat of Georgia	Tucker",
-            "info": {
-              "website": "http://sadhsangatga.org",
-              "address": {
-                "street": "2135 Northlake Pkwy # 200",
-                "city": "Tucker",
-                "state": "GA",
-                "zipcode": "30075"
+            "name":"Sadh Sangat of Georgia	Tucker",
+            "info":{
+              "website":"http://sadhsangatga.org",
+              "address":{
+                "street":"2135 Northlake Pkwy # 200",
+                "city":"Tucker",
+                "state":"GA",
+                "zipcode":"30075"
               },
-              "contact": {
-                "phone": "770-414-9096",
-                "email": ""
+              "contact":{
+                "phone":"770-414-9096",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Sadh-Sangat-of-Georgia/168440533170496",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Sadh-Sangat-of-Georgia/168440533170496",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           }
         ]
       },
       {
-        "name": "Guam",
-        "abbreviation": "GU",
-        "gurudwaras": []
+        "name":"Guam",
+        "abbreviation":"GU",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Hawaii",
-        "abbreviation": "HI",
-        "gurudwaras": []
+        "name":"Hawaii",
+        "abbreviation":"HI",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Idaho",
-        "abbreviation": "ID",
-        "gurudwaras": []
+        "name":"Idaho",
+        "abbreviation":"ID",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Illinois",
-        "abbreviation": "IL",
-        "gurudwaras": [
+        "name":"Illinois",
+        "abbreviation":"IL",
+        "gurudwaras":[
           {
-            "name": "Gurdwara Gurjot Parkash Sahib - Island Lake",
-            "info": {
-              "website": "http://www.gurudwaragurjotprakashsahibchicago.com/",
-              "address": {
-                "street": "217 W. State Road",
-                "city": "Island Lake",
-                "state": "IL",
-                "zipcode": "60042"
+            "name":"Gurdwara Gurjot Parkash Sahib - Island Lake",
+            "info":{
+              "website":"http://www.gurudwaragurjotprakashsahibchicago.com/",
+              "address":{
+                "street":"217 W. State Road",
+                "city":"Island Lake",
+                "state":"IL",
+                "zipcode":"60042"
               },
-              "contact": {
-                "phone": "847-526-5688",
-                "email": "ggpschicago@gmail.com"
+              "contact":{
+                "phone":"847-526-5688",
+                "email":"ggpschicago@gmail.com"
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Guru-Nanak-Sikh-Mission-of-America-Inc/111573402216423",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Guru-Nanak-Sikh-Mission-of-America-Inc/111573402216423",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Gurdwara Sahib of Chicago",
-            "info": {
-              "website": "http://www.srsofchicago.com/",
-              "address": {
-                "street": "2341 West Devon Avenue",
-                "city": "Chicago",
-                "state": "IL",
-                "zipcode": "60645"
+            "name":"Gurdwara Sahib of Chicago",
+            "info":{
+              "website":"http://www.srsofchicago.com/",
+              "address":{
+                "street":"2341 West Devon Avenue",
+                "city":"Chicago",
+                "state":"IL",
+                "zipcode":"60645"
               },
-              "contact": {
-                "phone": "773-274-3133",
-                "email": ""
+              "contact":{
+                "phone":"773-274-3133",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Gurdwara-Sahib-of-Chicago/108131335895909",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Gurdwara-Sahib-of-Chicago/108131335895909",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Wheaton Gurdwara - Wheaton",
-            "info": {
-              "website": "http://ilscc.com/",
-              "address": {
-                "street": "2131 Creekside Drive",
-                "city": "Wheaton",
-                "state": "IL",
-                "zipcode": "60187"
+            "name":"Wheaton Gurdwara - Wheaton",
+            "info":{
+              "website":"http://ilscc.com/",
+              "address":{
+                "street":"2131 Creekside Drive",
+                "city":"Wheaton",
+                "state":"IL",
+                "zipcode":"60187"
               },
-              "contact": {
-                "phone": "630-510-9700",
-                "email": ""
+              "contact":{
+                "phone":"630-510-9700",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/pages/Wheaton-Gurdwara/197215253648341",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/pages/Wheaton-Gurdwara/197215253648341",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Religious Society of Chicago - Palatine",
-            "info": {
-              "website": "http://www.srschicago.com/",
-              "address": {
-                "street": "1280 Winnetka Ave",
-                "city": "Palatine",
-                "state": "IL",
-                "zipcode": "60067"
+            "name":"Sikh Religious Society of Chicago - Palatine",
+            "info":{
+              "website":"http://www.srschicago.com/",
+              "address":{
+                "street":"1280 Winnetka Ave",
+                "city":"Palatine",
+                "state":"IL",
+                "zipcode":"60067"
               },
-              "contact": {
-                "phone": "847-358-1117",
-                "email": ""
+              "contact":{
+                "phone":"847-358-1117",
+                "email":""
               },
-              "social": {
-                "facebook": "https://www.facebook.com/SRSChicago/",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"https://www.facebook.com/SRSChicago/",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           }
         ]
       },
       {
-        "name": "Indiana",
-        "abbreviation": "IN",
-        "gurudwaras": []
+        "name":"Indiana",
+        "abbreviation":"IN",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Iowa",
-        "abbreviation": "IA",
-        "gurudwaras": []
+        "name":"Iowa",
+        "abbreviation":"IA",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Kansas",
-        "abbreviation": "KS",
-        "gurudwaras": []
+        "name":"Kansas",
+        "abbreviation":"KS",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Kentucky",
-        "abbreviation": "KY",
-        "gurudwaras": []
+        "name":"Kentucky",
+        "abbreviation":"KY",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Louisiana",
-        "abbreviation": "LA",
-        "gurudwaras": []
+        "name":"Louisiana",
+        "abbreviation":"LA",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Maine",
-        "abbreviation": "ME",
-        "gurudwaras": []
+        "name":"Maine",
+        "abbreviation":"ME",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Marshall Islands",
-        "abbreviation": "MH",
-        "gurudwaras": []
+        "name":"Marshall Islands",
+        "abbreviation":"MH",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Maryland",
-        "abbreviation": "MD",
-        "gurudwaras": []
+        "name":"Maryland",
+        "abbreviation":"MD",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Massachusetts",
-        "abbreviation": "MA",
-        "gurudwaras": []
+        "name":"Massachusetts",
+        "abbreviation":"MA",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Michigan",
-        "abbreviation": "MI",
-        "gurudwaras": []
+        "name":"Michigan",
+        "abbreviation":"MI",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Minnesota",
-        "abbreviation": "MN",
-        "gurudwaras": []
+        "name":"Minnesota",
+        "abbreviation":"MN",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Mississippi",
-        "abbreviation": "MS",
-        "gurudwaras": []
+        "name":"Mississippi",
+        "abbreviation":"MS",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Missouri",
-        "abbreviation": "MO",
-        "gurudwaras": []
+        "name":"Missouri",
+        "abbreviation":"MO",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Montana",
-        "abbreviation": "MT",
-        "gurudwaras": []
+        "name":"Montana",
+        "abbreviation":"MT",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Nebraska",
-        "abbreviation": "NE",
-        "gurudwaras": []
+        "name":"Nebraska",
+        "abbreviation":"NE",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Nevada",
-        "abbreviation": "NV",
-        "gurudwaras": []
+        "name":"Nevada",
+        "abbreviation":"NV",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "New Hampshire",
-        "abbreviation": "NH",
-        "gurudwaras": []
+        "name":"New Hampshire",
+        "abbreviation":"NH",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "New Jersey",
-        "abbreviation": "NJ",
-        "gurudwaras": []
+        "name":"New Jersey",
+        "abbreviation":"NJ",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "New Mexico",
-        "abbreviation": "NM",
-        "gurudwaras": []
+        "name":"New Mexico",
+        "abbreviation":"NM",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "New York",
-        "abbreviation": "NY",
-        "gurudwaras": []
+        "name":"New York",
+        "abbreviation":"NY",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "North Carolina",
-        "abbreviation": "NC",
-        "gurudwaras": []
+        "name":"North Carolina",
+        "abbreviation":"NC",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "North Dakota",
-        "abbreviation": "ND",
-        "gurudwaras": []
+        "name":"North Dakota",
+        "abbreviation":"ND",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Northern Mariana Islands",
-        "abbreviation": "MP",
-        "gurudwaras": []
+        "name":"Northern Mariana Islands",
+        "abbreviation":"MP",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Ohio",
-        "abbreviation": "OH",
-        "gurudwaras": []
+        "name":"Ohio",
+        "abbreviation":"OH",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Oklahoma",
-        "abbreviation": "OK",
-        "gurudwaras": []
+        "name":"Oklahoma",
+        "abbreviation":"OK",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Oregon",
-        "abbreviation": "OR",
-        "gurudwaras": []
+        "name":"Oregon",
+        "abbreviation":"OR",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Palau",
-        "abbreviation": "PW",
-        "gurudwaras": []
+        "name":"Palau",
+        "abbreviation":"PW",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Pennsylvania",
-        "abbreviation": "PA",
-        "gurudwaras": []
+        "name":"Pennsylvania",
+        "abbreviation":"PA",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Puerto Rico",
-        "abbreviation": "PR",
-        "gurudwaras": []
+        "name":"Puerto Rico",
+        "abbreviation":"PR",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Rhode Island",
-        "abbreviation": "RI",
-        "gurudwaras": []
+        "name":"Rhode Island",
+        "abbreviation":"RI",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "South Carolina",
-        "abbreviation": "SC",
-        "gurudwaras": []
+        "name":"South Carolina",
+        "abbreviation":"SC",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "South Dakota",
-        "abbreviation": "SD",
-        "gurudwaras": []
+        "name":"South Dakota",
+        "abbreviation":"SD",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Tennessee",
-        "abbreviation": "TN",
-        "gurudwaras": []
+        "name":"Tennessee",
+        "abbreviation":"TN",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Texas",
-        "abbreviation": "TX",
-        "gurudwaras": []
+        "name":"Texas",
+        "abbreviation":"TX",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Utah",
-        "abbreviation": "UT",
-        "gurudwaras": []
+        "name":"Utah",
+        "abbreviation":"UT",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Vermont",
-        "abbreviation": "VT",
-        "gurudwaras": []
+        "name":"Vermont",
+        "abbreviation":"VT",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Virgin Islands",
-        "abbreviation": "VI",
-        "gurudwaras": []
+        "name":"Virgin Islands",
+        "abbreviation":"VI",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Virginia",
-        "abbreviation": "VA",
-        "gurudwaras": []
+        "name":"Virginia",
+        "abbreviation":"VA",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Washington",
-        "abbreviation": "WA",
-        "gurudwaras": []
+        "name":"Washington",
+        "abbreviation":"WA",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "West Virginia",
-        "abbreviation": "WV",
-        "gurudwaras": []
+        "name":"West Virginia",
+        "abbreviation":"WV",
+        "gurudwaras":[
+
+        ]
       },
       {
-        "name": "Wisconsin",
-        "abbreviation": "WI",
-        "gurudwaras": [
+        "name":"Wisconsin",
+        "abbreviation":"WI",
+        "gurudwaras":[
           {
-            "name": "Sikh Society of Wisconsin - Madison",
-            "info": {
-              "website": "http://www.madisonwigurudwara.com/",
-              "address": {
-                "street": "6970 Century Ave",
-                "city": "Middleton",
-                "state": "WI",
-                "zipcode": "53562"
+            "name":"Sikh Society of Wisconsin - Madison",
+            "info":{
+              "website":"http://www.madisonwigurudwara.com/",
+              "address":{
+                "street":"6970 Century Ave",
+                "city":"Middleton",
+                "state":"WI",
+                "zipcode":"53562"
               },
-              "contact": {
-                "phone": "608-831-4401",
-                "email": "info@madisonwigurudwara.com"
+              "contact":{
+                "phone":"608-831-4401",
+                "email":"info@madisonwigurudwara.com"
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Religious Society of Wisconsin -Brookfield",
-            "info": {
-              "website": "http://www.srsofwi.com/",
-              "address": {
-                "street": "3675 N. Calhoun Road",
-                "city": "Brookfield",
-                "state": "WI",
-                "zipcode": "53005"
+            "name":"Sikh Religious Society of Wisconsin -Brookfield",
+            "info":{
+              "website":"http://www.srsofwi.com/",
+              "address":{
+                "street":"3675 N. Calhoun Road",
+                "city":"Brookfield",
+                "state":"WI",
+                "zipcode":"53005"
               },
-              "contact": {
-                "phone": "(262) 790-1600",
-                "email": "secretary@srsofwi.org"
+              "contact":{
+                "phone":"(262) 790-1600",
+                "email":"secretary@srsofwi.org"
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Temple of Fox Valley",
-            "info": {
-              "website": "http://sikhtempleoffoxvalley.org/",
-              "address": {
-                "street": "1304 Midway Road",
-                "city": "Menasha",
-                "state": "WI",
-                "zipcode": "54952"
+            "name":"Sikh Temple of Fox Valley",
+            "info":{
+              "website":"http://sikhtempleoffoxvalley.org/",
+              "address":{
+                "street":"1304 Midway Road",
+                "city":"Menasha",
+                "state":"WI",
+                "zipcode":"54952"
               },
-              "contact": {
-                "phone": "920-221-2945",
-                "email": ""
+              "contact":{
+                "phone":"920-221-2945",
+                "email":""
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           },
           {
-            "name": "Sikh Temple of Wisconsin - Oak Creek",
-            "info": {
-              "website": "http://sikhtempleofwisconsin.com/",
-              "address": {
-                "street": "7512 South Howell St",
-                "city": "Oak Creek",
-                "state": "WI",
-                "zipcode": "53154"
+            "name":"Sikh Temple of Wisconsin - Oak Creek",
+            "info":{
+              "website":"http://sikhtempleofwisconsin.com/",
+              "address":{
+                "street":"7512 South Howell St",
+                "city":"Oak Creek",
+                "state":"WI",
+                "zipcode":"53154"
               },
-              "contact": {
-                "phone": "414-764-SIKH(7454)",
-                "email": "sikhtempleofwi@gmail.com"
+              "contact":{
+                "phone":"414-764-SIKH(7454)",
+                "email":"sikhtempleofwi@gmail.com"
               },
-              "social": {
-                "facebook": "",
-                "instagram": "",
-                "twitter": "",
-                "google": ""
+              "social":{
+                "facebook":"",
+                "instagram":"",
+                "twitter":"",
+                "google":""
               }
             }
           }
         ]
       },
       {
-        "name": "Wyoming",
-        "abbreviation": "WY",
-        "gurudwaras": []
+        "name":"Wyoming",
+        "abbreviation":"WY",
+        "gurudwaras":[
+
+        ]
       }
     ]
   }
