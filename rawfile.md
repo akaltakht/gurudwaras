@@ -127,8 +127,8 @@
     317-786-2331
     https://www.facebook.com/pages/Guru-Nanak-Sikh-Society-Gurudwara/353677598033166
 
--    Gurdwara Gur Shabd Parkash of Indianapolis 
-     425 S High School Rd, 
+-   Gurdwara Gur Shabd Parkash of Indianapolis 
+    425 S High School Rd, 
     Indianapolis, 
     IN 4624
     http://www.gurdwaraindywest.com/
@@ -180,7 +180,7 @@
     http://www.sikhinc.org/
     https://www.facebook.com/Sikhinc/
 
--    Iowa Sikh Temple -West Des Moines	
+-   Iowa Sikh Temple -West Des Moines	
     1115 Walnut street West Des Moines IA 50265
     kidsvirsa@gmail.com
     http://iowasikhassociation.com/
@@ -189,7 +189,7 @@
 
 #Kansas
 
--    Gurdwara Nanak Darbar Sahib	Olathe	
+-   Gurdwara Nanak Darbar Sahib	Olathe	
     http://kcsikh.org	
     126 S Cherry St., 
     Olathe, KS 66061
@@ -202,7 +202,7 @@
     
 
 #Kentucky
--    Sikh Society of Kentucky	Louisville	
+-   Sikh Society of Kentucky	Louisville	
     http://www.louisvillegurdwara.org/	
     198 Thompson Avenue, Louisville, Kentucky 40206	
     502-409-7454
@@ -493,39 +493,102 @@
     Gurdwara Khalsa Darbar	Burlington		1040 Old York Rd Burlington, NJ 08016
 
 #New York
-    Gurdwara Sahib	Buffalo	http://www.buffalogurdwara.com	6569 Main Street, Williamsville, NY 14221
+-   Gurdwara Sahib - Buffalo	
+    http://www.buffalogurdwara.com	
+    6569 Main Street, Williamsville, NY 14221
+    (716) - 632- 3849
+    announcements@buffalogurdwara.com
+    https://www.facebook.com/BuffaloGurudwara/
 
-    Gurudwara Makhan Shah Lobana Sikh Centre	Richmond Hill, Queens	https://www.facebook.com/pages/Baba-Makhan-Shah-Lubana-Gurdwara-sikh-center/113244738737035sk=info	113-10, 101 Avenue, Richmond Hill, NY 11419
+-   **Gurudwara Makhan Shah Lobana Sikh Centre - Richmond Hill, Queens**	
+    https://www.facebook.com/pages/Baba-Makhan-Shah-Lubana-Gurdwara-sikh-center/113244738737035sk=info	
+    113-10, 101 Avenue, Richmond Hill, NY 11419
 
-    Gurdwara Mata Sahib Kaur	Glen Cove
+-   Gurdwara Mata Sahib Kaur	Glen Cove
+    (516) 674-6793
+    100 Latingtown Road, Glen Cove, NY  11542.
+    https://www.facebook.com/gurdwara.glencove?hc_ref=SEARCH&fref=nf
 
-    Gurudwara of Rochester	Rochester	http://gurudwaraofrochester.com/	2041 Dublin Road
+-   Gurudwara of Rochester	Rochester	
+    http://gurudwaraofrochester.com/	
+    2041 Dublin Road
 
-    Glen Cove Gurdwara	Glen Cove	http://www.gurdwaraglencove.com/	100 Lattingtown Road, Glen Cove, NY 11542
+-   Glen Cove Gurdwara	
+    http://web.archive.org/web/20140220042447/http://www.gurdwaraglencove.com/	
+    100 Lattingtown Road, Glen Cove, NY 11542
+    (516) 609-3333
+    https://www.facebook.com/pages/Glen-Cove-Gurdwara/186920911358575
 
-    Gobind Sadan New York	Central Square
+-   Gobind Sadan New York	Central Square
+    (315) 668-9155
+    http://www.gobindsadan.org/
+    134 Graves Rd, Central Square, NY 13036
+    https://www.facebook.com/pages/Gobind-Sadan-USA/214846705233771?ref=br_rs
 
-    Hudson Valley Sikh Cultural Society	Middletown NY	http://www.middletowngurudwara.com/	84 Genung St,Middletown,NY,10940 (845)-343-3080
+-   Hudson Valley Sikh Cultural Society	Middletown NY	
+    http://www.middletowngurudwara.com/	
+    84 Genung St,Middletown,NY,10940 
+    (845)-343-3080
+    gurughar_10940@live.com
+    https://www.facebook.com/Gurudwara-sahib-hudson-valley-sikh-society-1424995027738889/
 
-    Mid Hudson Sikh Cultural Society	Wappingers Falls
+-   Mid Hudson Sikh Cultural Society - Wappingers Falls
+    274 Ketchamtown Rd, Wappingers Falls, NY 12590
+    (845) 896-8994
+    http://www.gurdwarafishkillny.com/
+    gurdwarafishkillny@hotmail.com
 
-    Sikh Center of New York	Flushing		3817 Parsons Blvd Flushing, NY 11354
+-   Sikh Center of New York	Flushing		
+    3817 Parsons Blvd Flushing, NY 11354
+    (718) 359-9520
+    https://www.facebook.com/FlushingGurudwara/?fref=ts
+    
 
-    Sikh Cultural Society, Inc.	Richmond Hill
+-   Sikh Cultural Society, Inc.	Richmond Hill
+    gurdwara@verizon.net
+    https://www.facebook.com/Gurdwara.Sangat.Sikh.Cultural.Society.Ny/
 
-    Gurdwara Sikh Temple New York	Richmond Hill
+-   Gurdwara Sikh Temple New York - Richmond Hill
+    95-30 118th St
+    Richmond Hill 11419
+    Phone	(718) 441-2106
+    https://www.facebook.com/pages/Gurdwara-Sikh-Temple/144977512190107?fref=ts
 
-    Guru Gobind Singh Sikh Center	Plainview	http://www.plainviewgurudwara.org/
+-   Guru Gobind Singh Sikh Center	Plainview	
+    http://www.plainviewgurudwara.org/
+    1065 Old Country Road
+    Plainview, NY 11803
+    (516) 931 - 9304
 
-    Gurdwara Sant Sagar sahb ji	Bellerose	https://www.facebook.com/pages/Gurdwara-Sant-Sagar-Of-Bellerose-NY/176188555749388sk=info	242-25 Braddock Avenue NY, Bellerose, NY 11426
+-   Gurdwara Sant Sagar sahb ji	Bellerose	
+    https://www.facebook.com/pages/Gurudwara-Sant-Sagar/427524613958197?fref=ts	
+    242-25 Braddock Avenue NY, Bellerose, NY 11426
+    http://gurdwarasantsagar.weebly.com/
+    718-343-1030
 
-    Gurdwara Albany	Albany
+-   **Gurdwara Albany**
 
-    Guru Nanak Darbar of Albany	Albany	http://gurunanakdarbarofalbany.org/
+-   Guru Nanak Darbar of Albany	Albany	
+    1944 Union Street
+    NISKAYUNA
+    NEW YORK
+    12309
+    United states
+    gurunanakdarbarofalbany@yahoo.com
+    518-374-0313
+    http://web.archive.org/web/20160407011143/http://gurunanakdarbarofalbany.org/index.php
+    https://www.facebook.com/pages/Guru-Nanak-Darbar-Nisksyuna/615214138535368
 
-    Guru Nanak Sikh Center	Ardsley (Westchester)
+-   Guru Nanak Sikh Center	Ardsley (Westchester)
+    19 Center St
+    Ardsley, NY 10502
+    United States
 
-    Shri Guru Ravidass Sabha of New York	Woodside, NY
+-   Shri Guru Ravidass Sabha of New York, Woodside, NY
+    61-01 Broadway
+    Woodside, NY 11377
+    (718) 898-8150
+    https://www.facebook.com/SriGuruRavidasGurudwara/?rf=102188223158293
 
 #Ohio
     Dayton Gurdwara	Beavercreek	
@@ -547,7 +610,12 @@
     Sikh Educational and Religious Foundation	Dublin
 
 #Oklahoma
-    Sikh Gurdwara of Oklahoma	Oklahoma City	http://www.okcgurdwara.com/index.htm
+-   Sikh Gurdwara of Oklahoma	Oklahoma City	
+    https://www.facebook.com/okcgurudwara/
+    4525 NW 16th St
+    Oklahoma City, Oklahoma
+    (405) 863-1396
+    http://web.archive.org/web/20160323004644/http://okcgurdwara.com/index.htm
 
 #Oregon
 -   SIKH CENTER OF OREGON	
@@ -597,13 +665,24 @@
 
 #South Carolina
 
-    Gurdwara Nanaksar, Sikh Religious Society of South Carolina, Chapin, SC
+    -   Gurdwara Nanaksar, Sikh Religious Society of South Carolina, Chapin, SC
+       
+    -   Sikh Religious Society of South Carolina	Columbia	
+        http://www.carolinasikhs.org/index.html
+        11419 Broad River Road
+        Chapin, SC 29036
+        917-415-0464
+        gurdwaracolumbiaSC@gmail.com
 
-    Sikh Religious Society of South Carolina	Columbia	http://www.carolinasikhs.org/	11419 BroadRiver Rd, Chapin, SC 29036
+    -   Singh Sabha of South Carolina	Columbia	
+        http://www.singhsabhasc.org/
 
-    Singh Sabha of South Carolina	Columbia	http://www.singhsabhasc.org/
+    -   Nanak Darbar Gurdwara	Duncan, South Carolina	
+        http://www.sikhsofupstatesc.com/	
+        111 Harrison Road, Duncan, SC 29680
+        Phone: +1.8645293897
+        E-mail: info@sikhsofupstatesc.com
 
-    Nanak Darbar Gurdwara	Duncan, South Carolina	http://www.sikhsofupstatesc.com/	111 Harrison Road, Duncan, SC 29680
 
 #Tennessee
 -    Sikh Center of the Mid South	Memphis
