@@ -441,27 +441,52 @@
     (704) 509-2828
 
 #Nevada
-    Reno Sikh Temple	Reno	
-    http://www.renotahoesikhnet.com/
+-   Reno Sikh Temple	Reno	
+    
     https://www.facebook.com/sikhofreno/
-    775.200.2847 
+    (775) 322-1234
+    1380 Selmi Drive 
+    Reno, NV 89512
     
     
+-   Gurdwara Baba Deep Singh Las Vegas	
+    http://www.lasvegasgurdwara.com/
+    6341 W Lone Mountain Rd, Las Vegas, NV 89130
+    702-839-1890
+    https://www.facebook.com/lasvegasgurdwara/?ref=br_rs
+    lasvegasgurdwara@gmail.com
 
-    Gurdwara Baba Deep Singh Las Vegas	Las Vegas	http://www.lasvegasgurdwara.com/
 
-    Guru Nanak Gurdwara (Sikh Temple) Las Vegas	Las Vegas	http://www.lvgurdwara.com/
+-   Guru Nanak Gurdwara (Sikh Temple) Las Vegas	Las Vegas	
+    http://www.lvgurdwara.com/
+    Phone: (702) 459-4878
+    4487 E Russell Rd.
+    Las Vegas, NV 89120-2313
+    https://www.facebook.com/lvgurdwara?hc_ref=SEARCH&fref=nf
+
 
 #New Mexico
-    Albuquerque Sikh Gurudwara	Albuquerque	http://www.abqsg.org
-
-    Guru Nanak Gurdwara Albuquerque	Albuquerque
-
-    Siri Singhasan e Khalsa	Española	http://www.espanolaashram.com
-
-    Guru Amar Das House	Roswell
-
-    Gurus House	Roswell
+-   Albuquerque Sikh Gurudwara	Albuquerque	
+    http://www.abqsg.org
+    https://www.facebook.com/AlbuquerqueSikhGurudwara/
+    1905 Alvarado Dr NE
+    Albuquerque, New Mexico
+    (505) 269-0298
+  
+-   **Guru Nanak Gurdwara Albuquerque**	
+    
+-   Hacienda de Guru Ram Das
+    http://www.espanolaashram.com
+    1A Ram Das Guru Place
+    Espanola, New Mexico 87532
+    (505) 753-6341, swarankaur@khalsa.com
+    https://www.facebook.com/pages/Hacienda-De-Guru-Ram-Das-Espanola/351856691559660?hc_ref=SEARCH
+    
+-   **Guru Amar Das House	Roswell**
+-   **Gurus House	Roswell**
+    
+    
+    
 
 #New Jersey
     Garden State Sikh Association	Bridgewater	http://www.gssa.us	977 Washington Valley Rd Basking Ridge, NJ 07920
@@ -522,9 +547,11 @@
     Shri Guru Ravidass Sabha of New York	Woodside, NY
 
 #Ohio
-    Dayton Gurdwara	Beavercreek	http://daytongurdwara.org/
+    Dayton Gurdwara	Beavercreek	
+    http://daytongurdwara.org/
 
-    Guru Nanak Religious Society of Central Ohio / Columbus Gurdwara	Columbus	http://GNRSColumbusOhio.com
+    Guru Nanak Religious Society of Central Ohio /Columbus Gurdwara	Columbus	
+    http://GNRSColumbusOhio.com
 
     Guru Gobind Singh Sikh Gurudwara	Bedford
 
@@ -542,28 +569,35 @@
     Sikh Gurdwara of Oklahoma	Oklahoma City	http://www.okcgurdwara.com/index.htm
 
 #Oregon
-    SIKH CENTER OF OREGON	BEAVERTON	http://www.sikhcenteroforegon.com/	17514 SW Scholls Ferry Rd Beaverton OR 97007
+-   SIKH CENTER OF OREGON	
+    BEAVERTON	
+    http://www.sikhcenteroforegon.com/	
+    17514 SW Scholls Ferry Rd Beaverton OR 97007
+    info@sikhcenteroforegon.com
+    +1 971 217 8577
 
-    Sikh Gurdwara of Eugene	Eugene
-    Sikh Gurdwara of Eugene, Eugene, OR
+    
+-   Sikh Gurdwara of Eugene, Eugene, OR
     3635 Hilyard Street
     Eugene, OR 97405
     Phone: 541-686-0432
+    http://www.eugenesikhgurdwara.org/
+    
 
-    Dashmesh Darbar Sikh Temple	Salem	http://salemgurdwara.org/
-    Dashmesh Darbar Sikh Temple, Salem, OR
+-   Dashmesh Darbar Sikh Temple	Salem	
     860 Oakhill Ave SE
     Salem, OR 97302
     Phone: 503-391-7031
-    Web: www.salemgurdwara.com
+    www.salemgurdwara.com
+    https://www.facebook.com/Dasmeshdarbar/
+    salemgurdwara@gmail.com
 
 
-    SRI GURU AMAR DAS JI SIKH GURDWARA	Salem	http://www.salemsikhgurdwara.org/	3012 Wiltsey Street SE, Salem, OR 97317
-
-
-
-
-
+-   SRI GURU AMAR DAS JI SIKH GURDWARA	Salem	
+    3012 Wiltsey Street SE, Salem, OR 97317
+    http://web.archive.org/web/20160327161202/http://www.salemsikhgurdwara.org/
+    503-980-1407
+    
 
 
 #Pennsylvania
@@ -591,72 +625,156 @@
     Nanak Darbar Gurdwara	Duncan, South Carolina	http://www.sikhsofupstatesc.com/	111 Harrison Road, Duncan, SC 29680
 
 #Tennessee
-    Sikh Center of the Mid South	Memphis	http://sikhcenter.tripod.com	6263 Macon Rd, Memphis, TN-38134 PH:19012461739
+-    Sikh Center of the Mid South	Memphis
+    http://sikhcenter.tripod.com	
+    6263 Macon Rd, Memphis, TN-38134 
+    901-246-1739
+    https://www.facebook.com/pages/Sikh-Center-of-the-Mid-South/666934356739525
 
-    Midsouth Sikh Sabha	Cordova	http://www.midsouthsikhsabha.org
+-    Midsouth Sikh Sabha	Cordova
+    http://www.midsouthsikhsabha.org
+    Gurdwara Sahib  1755 Appling Road, Cordova, TN 38016
+    sdsriar@yahoo.com
+    https://www.facebook.com/MidSouth-Sikh-Sabha-Gurudwara-Sahib-119528824808754/?hc_ref=SEARCH&fref=nf
 
-    The Southeastern Sikh Religious Society	Nashville
-
-    Nashville Gurdwara	Nashville	http://www.nashvillegurdwara.org/index.php
+-    The Southeastern Sikh Religious Society	Nashville
+    http://www.nashvillegurdwara.org
+    Nashville Gurudwara, 7673 Sawyer Brown Rd, Nashville, TN 37221
+    https://www.facebook.com/SouthEasternSikhReligiousSociety
+    (615) 578-8703
 
 #Texas
 
-    Gobind Dham	Laredo
+-   **Gobind Dham	Laredo**
 
-    Gurdwara Akaljot	Garland	http://local.yahoo.com/info-46354642-akaljot-gurdwara-garland
+-   Gurdwara Akaljot	Garland
+    https://www.facebook.com/pages/Akaljot-Gurdwara/126565240732164
+    (972) 496-3496
+    1401 W Campbell Rd
+    Garland, Texas 75044
 
-    Gurdwara Singh Sabha of North Texas	Richardson	http://www.gurdwararichardson.org/
+-   Gurdwara Singh Sabha of North Texas	Richardson	
+    http://www.gurdwararichardson.org/
+    https://www.facebook.com/gssofnt/?ref=br_rs
+    1201 Abrams Rd
+    Richardson, Texas
+    (972) 235-3388
+    gssofnt@gmail.com
 
-    Gurudwara Sikh Sangat Euless	Euless	http://sites.google.com/site/gurdwarasikhsangat/directions
 
-    Gurudwara Sikh Temple Of North Texas	Garland	http://www.gurdwaragarland.org/
+ -  Gurudwara Sikh Sangat Euless	
+ 	http://sites.google.com/site/gurdwarasikhsangat/directions
+    DFWSikhSangat@gmail.com
+    817-267-7664 
+    1400 West Euless Blvd.
+    Euless, TX 76040-6910 
+    https://www.facebook.com/pages/Gurudwara-Sikh-Sangat-of-Euless/326302174150163  
+    
 
-    The Sikh Centre of the Gulf Coast Area	Houston	http://www.sikhcenterhouston.com/
+-  Gurudwara Sikh Temple Of North Texas	Garland	
+    http://www.gurdwaragarland.org/
+    https://www.facebook.com/SikhTempleGarland
+    506 Gatewood Rd
+    Garland, TX 75043
+    (972) 240-5348
 
-    Guru Ravidass Temple	Houston	http://www.houstonsikhs.org/63865
+-   The Sikh Centre of the Gulf Coast Area	Houston	
+    http://www.sikhcenterhouston.org/
+    https://www.facebook.com/thesikhcenter
+    8819 Prairie Drive
+    Houston, TX 77064
+    
 
-    Gurudwara Sahib Of Houston	Houston	http://www.gurudwarasahibhouston.com/
+-   Guru Ravidass Temple	Houston
+    http://www.gururavidasstemplehouston.org/
+    Shri Guru Ravidass Temple Houston
+    10215 Brighton Ln. 
+    Houston TX 77031
+    Phone: 832 860 9401
+    
 
-    Gurudwara Nanaksar Houston	Houston	http://www.houstonsikhs.org/63210
+-   Gurudwara Sahib Of Houston	Houston	
+    http://www.gurudwarasahibhouston.com/
+    https://www.facebook.com/pages/Shri-Guru-Ravidass-Temple/236869619810862
+    7902 Boone Rd
+    Houston, Texas 77072
+    Phone	(832) 541-4339
 
-    Guru Ram Das Ashram	Austin
+-   Gurudwara Nanaksar Houston	
+    (713) 466-3380
+    6834 Satsuma Dr
+    Houston, Texas 77041
+    http://gurdwarananaksar.com/english/houston_e.html
 
-    Singh Sabha Gurudwara	Austin	http://www.austingurdwara.org/home.php
+-   **Guru Ram Das Ashram	Austin**
 
-    Sikh Study Circle DFW	Irving	http://irvinggurdwara.org/index.html
+-   Singh Sabha Gurudwara	Austin	http://www.austingurdwara.org/home.php
+    https://www.facebook.com/austingurdwara
+    Peace Lutheran Church, 10625 Ranch Road 620 N, Austin, Texas 78726
+    
 
-    Austin Gurudwara Sahib	Austin	http://www.austingurdwarasahib.com/
+-   Sikh Study Circle DFW	Irving	
+    http://irvinggurdwara.org/index.html
+    https://www.facebook.com/Irvinggurdwara/
+    834 N Nursery Rd
+    Irving, Texas
+    (214) 289-8690
+    sevadar.nishkam@gmail.com
 
-    Sri Nankana Sahib Foundation	Houston
+-   Austin Gurudwara Sahib	Austin	
+    http://www.austingurdwarasahib.com/
+    webmaster@austingurdwarasahib.com
+    512-263-9551
+    https://www.facebook.com/AustinGurdwaraSahib/
+    5104 Avispa Way
+    Austin, Texas
+    webmaster@austingurdwarasahib.com
 
-    Sikh Center of San Antonio	San Antonio	http://sikhcenter.us/gur/index.php
+-   **Sri Nankana Sahib Foundation - Houston**
+    
 
-    Sikh Spirit Foundation	San Antonio	http://www.sikhspiritfoundation.org/index.php
+-   Sikh Center of San Antonio	San Antonio
+    6011 Hollyhock Road
+    San Antonio, TX 78240
+    http://www.sikhcentersa.org/
+    https://www.facebook.com/SikhCenterOfSanAntonio/?ref=br_rs
+
+-   **Sikh Spirit Foundation	San Antonio**
+    http://www.sikhspiritfoundation.org/index.php
+    ideas@sikhspiritfoundation.org
 
 #Utah
-    Sikh Temple of Utah	Taylorsville	http://www.sikhtempleofutah.com/
+
+-   Sikh Temple of Utah
+    http://www.sikhtempleofutah.com/
+    https://www.facebook.com/sachkhandjee/
+    4897 S Redwood Rd, Salt Lake City, UT 84123
+    
+-   Guru Nanak Dev Ji Sikh Temple of Utah   
+    2340 W 7800 S
+    West Jordan, Utah
+    (801) 770-2801
+    https://www.facebook.com/Guru-Nanak-Dev-Ji-Gurudwara-538855746192536/?ref=br_rs
+    http://www.utahgurudwara.com
+    
 
 #Virginia
 
-- Guru Nanak Foundation of Tidewater	Chesapeake	http://www.vagurudwara.com/
-  780 Finck Ln, Chesapeake, VA 23320
-  757.548.8008
-  vagurudwara@gmail.com
+-   Guru Nanak Foundation of Tidewater	Chesapeake
+    http://www.vagurudwara.com/
+    780 Finck Ln, Chesapeake, VA 23320
+    757.548.8008
+    vagurudwara@gmail.com
 
-
-
-
-- Sikh Center of Virginia	Manassas
-  8015 Buckhall Road, Manassas, VA 20111
-  Tel: 703-368-1300
+-   Sikh Center of Virginia	Manassas
+    8015 Buckhall Road, Manassas, VA 20111
+    703-368-1300
     http://www.sikhcenterofvirginia.org/
     https://www.facebook.com/sikhcenterva
     https://twitter.com/scvgurdwara
 
 
-
-
-- Sikh Foundation of Virginia	Fairfax Station
+ Sikh Foundation of Virginia	Fairfax Station
     http://www.sfova.org/
 
 
