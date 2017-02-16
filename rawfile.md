@@ -12,11 +12,9 @@
 - **  <pre>Sikh Religious Society of Phoenix	Scottsdale</pre>**
 -   Siri Guru Singh Sabha Gurudwara of Tempe
 
-
 #Arkansas
 -   Guru Nanak Sikh Temple	Rogers
 -   Sikh Religious Society of Little Rock		
-
 
 #California
 -   Tri-Valley Sikh Center - Livermore Gurdwara
@@ -51,23 +49,20 @@
 -   Gurdwara Prabh Milne Ka Chao
 
 #Colorado
-
 -   Colorado Singh Sabha - Commerce City
 -   Guru Ghar - Colorado Springs
 -   Guru Amar Das Niwas Boulder			
 -   Guru Ram Das Ashram Colorado Louisville
 
 #Connecticut
-
--   Gurdwara Sachkhand Darbar - Hamden 
+-   Gurdwara Sachkhand Darbar - Hamden
 -   Gurdwara Guru Nanak Darbar - Southington
 -   **Guru Nanak Darbar - Ansonia**
 -   Guru Tegh Bahadur Ji Foundation	Norwalk	
 -   Guru Ramdas Darbar - Windsor
  
 #Delaware
-
--  Gurdwara of Delaware	
+-  Gurdwara of Delaware
 -  Sikh Center of Delaware	New Castle
    
 #District of Columbia
@@ -83,7 +78,6 @@
 -   Sikh Society of North East Florida	Jacksonville
 
 #Georgia
-
 -   Atlanta Sikh Gurdwara - Stone Mountain
 -   Guru Nanak Darbar - Augusta		
 -   Guru Singh Sabha Augusta - Evans
@@ -92,13 +86,11 @@
 
  
 #Hawaii
-
-**Guru Ram Das Ashram	Kaneohe**
+-   **Guru Ram Das Ashram	Kaneohe**
     couldnot find more information
 
 
 #Illinois
-
 -   Gurdwara Gurjot Parkash Sahib - Island Lake
 -   Gurdwara Sahib of Chicago
 -   Wheaton Gurdwara - Wheaton
@@ -107,14 +99,12 @@
 
 
 #Indiana
-
 -   Gurdwara Guru Nanak Darbar	Fishers
     http://www.gurdwarasahibfishers.com
     12200 E 131 Street
     Fishers, IN 46037
     (317) 773-8446
     gurdwarafishers@gmail.com
-
 
 
 -   Gurdwara Jot Amrit Prakash	McCordsville
@@ -183,7 +173,6 @@
     https://www.facebook.com/pg/DashmeshSikhGurudwara
 
 #Iowa
-
 -   Sikhs of Iowa Khalsa Heritage Inc - Johnston	
     4820 NW 59th Ave Johnston IA 50323
     (515) 259-6613
@@ -253,23 +242,16 @@
     https://www.facebook.com/Guru-Nanak-Foundation-of-America-499003046819605/
     (301) 384-2133
     webteam@gnfa.org
-
-
-
+    
 -   Sikh Association of Baltimore
     3423 Chapman Road Randallstown, MD 21133
     https://www.facebook.com/pages/Sikh-Association-of-Baltimore/117586121600203
     (410) 521-7568
 
-
-
 -   Guru Gobind Singh Foundation Rockville
     http://web.archive.org/web/20160305063215/http://www.ggsfusa.com/
     https://www.facebook.com/ggsfusa/?fref=ts
     13814 Travilah Road,Rockville,MD 20850
-
-
-
 
 -   Gurdwara Guru Gian Sagar	Burtonsville
     3911 Dustin Rd
@@ -283,16 +265,15 @@
     https://www.facebook.com/BaltimoreSikhSociety/
 
 #Massachusetts
-**Members of the Sikh community of Somerville, Massachusetts**
+-    **Members of the Sikh community of Somerville, Massachusetts**
 
-- Gurdwara Guru Nanak Darbar - Medford	http://www.gurunanakdarbar.net/
+-   Gurdwara Guru Nanak Darbar - Medford	http://www.gurunanakdarbar.net/
     https://www.facebook.com/Gurudwara-Guru-Nanak-Darbar-Medford-MA-679220218818641/?hc_ref=SEARCH
     226 Mystic Ave
     Medford, Massachusetts
     (781) 396-0769
     bostongurudwara@gmail.com
     http://www.gurunanakdarbar.net/
-
 
 -   New England Sikh Study Circle (Milford Gurdwara) - Milford
     http://nessc.org/
