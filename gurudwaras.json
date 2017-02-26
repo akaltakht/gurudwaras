@@ -2347,18 +2347,84 @@
         "name": "Minnesota",
         "abbreviation": "MN",
         "gurudwaras": [
+          {
+            "name": "Sikh Society of Minnesota - Minneapolis",
+            "info": {
+              "website": "http://www.mnsikhs.com/",
+              "address": {
+                "street": "9000 W Bloomington Fwy",
+                "city": "Bloomington",
+                "state": "MN",
+                "zipcode": "55431"
+              },
+              "contact": {
+                "phone": "952-888-2705",
+                "email": "information@mnsikhs.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Sikh-society-of-Minnesota-Gurdwara-161350273920274/?ref=br_rs",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
         "name": "Mississippi",
         "abbreviation": "MS",
         "gurudwaras": [
+          {
+            "name": "Guru Tegh Bahadur Sikh Temple Jackson",
+            "info": {
+              "website": "https://msgurdwara.com/",
+              "address": {
+                "street": "2672 U.S. 80 W",
+                "city": "Jackson",
+                "state": "MS",
+                "zipcode": "39204"
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Sikh-Gurudwara-of-Jackson-MS-323234247814615",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
         "name": "Missouri",
         "abbreviation": "MO",
         "gurudwaras": [
+          {
+            "name": "Sikh Study Circle St. Peters",
+            "info": {
+              "website": "http://www.stlouisgurdwara.org/",
+              "address": {
+                "street": "116 Willis Road",
+                "city": "St. Peters",
+                "state": "MO",
+                "zipcode": "63376"
+              },
+              "contact": {
+                "phone": "636-926-3731",
+                "email": "sikhstudycircleofst.louis@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/GurudwaraSTL",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
@@ -2377,6 +2443,72 @@
         "name": "Nevada",
         "abbreviation": "NV",
         "gurudwaras": [
+          {
+            "name": "Reno Sikh Temple - Reno",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "1380 Selmi Drive",
+                "city": "Reno",
+                "state": "NV",
+                "zipcode": "89512"
+              },
+              "contact": {
+                "phone": "775-322-1234",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/sikhofreno/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Baba Deep Singh Las Vegas",
+            "info": {
+              "website": "http://www.lasvegasgurdwara.com/",
+              "address": {
+                "street": "6341 W Lone Mountain Rd",
+                "city": "Las Vegas",
+                "state": "NV",
+                "zipcode": "89130"
+              },
+              "contact": {
+                "phone": "702-839-1890",
+                "email": "lasvegasgurdwara@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/lasvegasgurdwara/?ref=br_rs",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Nanak Gurdwara (Sikh Temple) Las Vegas",
+            "info": {
+              "website": "http://www.lvgurdwara.com/",
+              "address": {
+                "street": "4487 E Russell Rd.",
+                "city": "Las Vegas",
+                "state": "NV",
+                "zipcode": "89120"
+              },
+              "contact": {
+                "phone": "702-459-4878",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/lvgurdwara?hc_ref=SEARCH&fref=nf",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
@@ -2395,6 +2527,50 @@
         "name": "New Mexico",
         "abbreviation": "NM",
         "gurudwaras": [
+          {
+            "name": "Albuquerque Sikh Gurudwara - Albuquerque",
+            "info": {
+              "website": "http://www.abqsg.org",
+              "address": {
+                "street": "1905 Alvarado Dr NE",
+                "city": "Albuquerque",
+                "state": "NM",
+                "zipcode": "87110"
+              },
+              "contact": {
+                "phone": "505-269-0298",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/AlbuquerqueSikhGurudwara/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Hacienda de Guru Ram Das",
+            "info": {
+              "website": "http://www.espanolaashram.com",
+              "address": {
+                "street": "1A Ram Das Guru Place",
+                "city": "Espanola",
+                "state": "NM",
+                "zipcode": "87532"
+              },
+              "contact": {
+                "phone": "505-53-6341",
+                "email": "swarankaur@khalsa.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Hacienda-De-Guru-Ram-Das-Espanola/351856691559660?hc_ref=SEARCH",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
@@ -2407,6 +2583,72 @@
         "name": "North Carolina",
         "abbreviation": "NC",
         "gurudwaras": [
+          {
+            "name": "The Sikh Gurudwara of North Carolina",
+            "info": {
+              "website": "sgncweb.org",
+              "address": {
+                "street": "3214 E. Banner St.",
+                "city": "Durham",
+                "state": "NC",
+                "zipcode": "27714"
+              },
+              "contact": {
+                "phone": "919-220-0630",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/SikhGurudwaraNC/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Atlantic Coast Sikh Association - Durham",
+            "info": {
+              "website": "http://acsagurdwara.tripod.com",
+              "address": {
+                "street": "3108 Sparger Road",
+                "city": "Durham",
+                "state": "NC",
+                "zipcode": "27705"
+              },
+              "contact": {
+                "phone": "919-309-1045",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Atlantic-Coast-Sikh-Association/228789757254696?fref=ts",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Sahib Charlotte - Charlotte",
+            "info": {
+              "website": "http://charlottegurdwara.org/",
+              "address": {
+                "street": "5715 University City Blvd",
+                "city": "Charlotte",
+                "state": "NC",
+                "zipcode": "28262"
+              },
+              "contact": {
+                "phone": "704-509-2828",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/GurdwaraSahibCharlotte/?fref=ts",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
