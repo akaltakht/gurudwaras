@@ -1429,6 +1429,250 @@
         "name": "Indiana",
         "abbreviation": "IN",
         "gurudwaras": [
+
+          {
+            "name": "Gurdwara Guru Nanak Darbar - Fishers",
+            "info": {
+              "website": "http://www.gurdwarasahibfishers.com",
+              "address": {
+                "street": "12200 E 131 Street",
+                "city": "Fishers",
+                "state": "IN",
+                "zipcode": "46037"
+              },
+              "contact": {
+                "phone": "317-773-8446",
+                "email": "gurdwarafishers@gmail.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Jot Amrit Prakash	McCordsville",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "14880 E 96th St",
+                "city": "McCordsville",
+                "state": "IN",
+                "zipcode": "46055"
+              },
+              "contact": {
+                "phone": "317-714-8896",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Satsang of Indianapolis",
+            "info": {
+              "website": "http://indianapolisgurdwara.org/sikh/",
+              "address": {
+                "street": "10950 Southeastern Ave",
+                "city": "Indianapolis",
+                "state": "IN",
+                "zipcode": ""
+              },
+              "contact": {
+                "phone": "317-862-7454",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Sikh-Satsang-of-Indianapolis-118146991642010/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Nanak Sikh Society Indiana",
+            "info": {
+              "website": "http://www.indygurdwara.com/",
+              "address": {
+                "street": "1911 Hobart Rd",
+                "city": "Indianapolis",
+                "state": "IN",
+                "zipcode": "46203"
+              },
+              "contact": {
+                "phone": "317-786-2331",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Guru-Nanak-Sikh-Society-Gurudwara/353677598033166",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Gur Shabd Parkash of Indianapolis",
+            "info": {
+              "website": "http://www.gurdwaraindywest.com/",
+              "address": {
+                "street": "425 S High School Rd",
+                "city": "Indianapolis",
+                "state": "IN",
+                "zipcode": "46241"
+              },
+              "contact": {
+                "phone": "317-247-7454",
+                "email": "ggspofindy@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/GurdwaraPlainfield/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Sri Hargobind Ji - Greenwood",
+            "info": {
+              "website": "http://www.gurdwaragreenwood.org/",
+              "address": {
+                "street": "1050 South Graham Rd",
+                "city": "Greenwood",
+                "state": "IN",
+                "zipcode": "46143"
+              },
+              "contact": {
+                "phone": "317-884-4708",
+                "email": "gurdwaragreenwood@gmail.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Nanak Darbar Sahib	Mishawaka",
+            "info": {
+              "website": "http://web.archive.org/web/20140517100743/http://gurunanakdarbarsahib.com/",
+              "address": {
+                "street": "12800, Day Rd",
+                "city": "Mishawaka",
+                "state": "IN",
+                "zipcode": "46544"
+              },
+              "contact": {
+                "phone": "574-255-7400",
+                "email": "gurudwara@gurunanakdarbarsahib.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "The Sikh Cultural Society of Indiana",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "12800 Day Rd",
+                "city": "Mishawaka",
+                "state": "IN",
+                "zipcode": "46545"
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Sikh-Culture-Society-of-Indiana/167432919934644",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
+,
+          {
+            "name": "Sikh Religious Society of Indiana - Crown Point",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "10005 Colorado St",
+                "city": "Crown Point",
+                "state": "IN",
+                "zipcode": "46307"
+              },
+              "contact": {
+                "phone": "219-793-9446",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Sikh-Religious-Society-of-Indiana-Inc/113761408657810",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Gurudwara of Fort Wayne",
+            "info": {
+              "website": "http://www.fwsikh.net/",
+              "address": {
+                "street": "11431 Lower Huntington Rd",
+                "city": "Roanoke",
+                "state": "IN",
+                "zipcode": "46783"
+              },
+              "contact": {
+                "phone": "260-438-0011",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Dashmesh Sikh Gurudwara of Fort Wayne",
+            "info": {
+              "website": "http://www.DashmeshSikhGurudwara.com",
+              "address": {
+                "street": "15020 Illinois Rd",
+                "city": "Fort Wayne",
+                "state": "IN",
+                "zipcode": "46814"
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pg/DashmeshSikhGurudwara",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
