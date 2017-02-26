@@ -3173,6 +3173,50 @@
         "name": "Utah",
         "abbreviation": "UT",
         "gurudwaras": [
+          {
+            "name": "Sikh Temple of Utah",
+            "info": {
+              "website": "http://www.sikhtempleofutah.com/",
+              "address": {
+                "street": "4897 S Redwood Rd",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "zipcode": "84123"
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/sachkhandjee/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Nanak Dev Ji Sikh Temple of Utah",
+            "info": {
+              "website": "http://www.utahgurudwara.com",
+              "address": {
+                "street": "2340 W 7800 S",
+                "city": "West Jordan",
+                "state": "Utah",
+                "zipcode": "84084"
+              },
+              "contact": {
+                "phone": "801-770-2801",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Guru-Nanak-Dev-Ji-Gurudwara-538855746192536/?ref=br_rs",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
