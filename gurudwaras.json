@@ -3003,6 +3003,28 @@
         "name": "Oklahoma",
         "abbreviation": "OK",
         "gurudwaras": [
+          {
+            "name": "Sikh Gurdwara of Oklahoma - Oklahoma City",
+            "info": {
+              "website": "http://web.archive.org/web/20160323004644/http://okcgurdwara.com/index.htm",
+              "address": {
+                "street": "4525 NW 16th St",
+                "city": "Oklahoma City",
+                "state": "OK",
+                "zipcode": ""
+              },
+              "contact": {
+                "phone": "405-863-1396",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/okcgurudwara/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
