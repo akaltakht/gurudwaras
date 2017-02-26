@@ -3197,6 +3197,182 @@
         "name": "Washington",
         "abbreviation": "WA",
         "gurudwaras": [
+          {
+            "name": "Gurudwara Sikh Centre of Seattle",
+            "info": {
+              "website": "http://www.sikhcentreofseattle.org/",
+              "address": {
+                "street": "20412 Bothell Everett Highway",
+                "city": "Bothell",
+                "state": "WA",
+                "zipcode": "98012"
+              },
+              "contact": {
+                "phone": "425-487-4878",
+                "email": "info@sikhcentreofseattle.org"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Ramdass Gurdwara Sahib - Vancouver",
+            "info": {
+              "website": "http://www.gururamdassgurudwara.org/",
+              "address": {
+                "street": "3600 O Street",
+                "city": "Vancouver",
+                "state": "WA",
+                "zipcode": "98663"
+              },
+              "contact": {
+                "phone": "360-696-5568",
+                "email": "vangurudwara@gmail.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurudwara Singh Sabha of Washington - Renton",
+            "info": {
+              "website": "http://www.gssrenton.com/",
+              "address": {
+                "street": "5200 Talbot Road South",
+                "city": "Renton",
+                "state": "WA",
+                "zipcode": "98055"
+              },
+              "contact": {
+                "phone": "425-226-2277",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurudwara Guru Teg Bahadur Sahib Ji - Kent",
+            "info": {
+              "website": "http://web.archive.org/web/20111110180200/http://www.gurdwarasahibkent.com/",
+              "address": {
+                "street": "24440,132nd Ave SE.",
+                "city": "Kent",
+                "state": "WA",
+                "zipcode": "98042"
+              },
+              "contact": {
+                "phone": "253-239-2790",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurudwara Sacha Marg - Auburn",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "12431 SE 286th Pl",
+                "city": "Auburn",
+                "state": "WA",
+                "zipcode": "98092"
+              },
+              "contact": {
+                "phone": "253-638-1000",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pg/gurudwarasachamaragsahib",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Nanak Sikh Temple - Marysville",
+            "info": {
+              "website": "https://www.facebook.com/sikhtemplewa/",
+              "address": {
+                "street": "4919 61st St NE",
+                "city": "Marysville",
+                "state": "WA",
+                "zipcode": "98270"
+              },
+              "contact": {
+                "phone": "360-657-4155",
+                "email": "gnstmarysville@gmail.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Spokane Gurdwara Sahib - Spokane",
+            "info": {
+              "website": "http://web.archive.org/web/20090630062056/http://www.spokanegurudwara.org/",
+              "address": {
+                "street": "1420 N Barker Rd",
+                "city": "Green Acres",
+                "state": "WA",
+                "zipcode": "99016"
+              },
+              "contact": {
+                "phone": "509-892-3799",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Sikh-Temple-of-Spokane-Inc/116105868411485",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Nanak Gursikh Gurudwara - Lynden",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "176 E Pole Rd",
+                "city": "Lynden",
+                "state": "WA",
+                "zipcode": "98264"
+              },
+              "contact": {
+                "phone": "360-398-1184",
+                "email": "tsikh@yahoo.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/tsikh76",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
