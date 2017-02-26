@@ -251,9 +251,6 @@
 -   Guru Nanak Darbar of Albany	
 -   Guru Nanak Sikh Center - Ardsley Westchester
 -   Shri Guru Ravidass Sabha of New York - Woodside
-    
-   
-    
 
 #Ohio
     Dayton Gurdwara	Beavercreek	
@@ -275,43 +272,13 @@
     Sikh Educational and Religious Foundation	Dublin
 
 #Oklahoma
--   Sikh Gurdwara of Oklahoma	Oklahoma City	
-    https://www.facebook.com/okcgurudwara/
-    4525 NW 16th St
-    Oklahoma City, Oklahoma
-    (405) 863-1396
-    http://web.archive.org/web/20160323004644/http://okcgurdwara.com/index.htm
+-   Sikh Gurdwara of Oklahoma - Oklahoma City	
 
 #Oregon
--   SIKH CENTER OF OREGON	
-    BEAVERTON	
-    http://www.sikhcenteroforegon.com/	
-    17514 SW Scholls Ferry Rd Beaverton OR 97007
-    info@sikhcenteroforegon.com
-    +1 971 217 8577
-
-    
--   Sikh Gurdwara of Eugene, Eugene, OR
-    3635 Hilyard Street
-    Eugene, OR 97405
-    Phone: 541-686-0432
-    http://www.eugenesikhgurdwara.org/
-    
-
+-   Sikh Center of Oregon - Beaverton
+-   Sikh Gurdwara of Eugene
 -   Dashmesh Darbar Sikh Temple	Salem	
-    860 Oakhill Ave SE
-    Salem, OR 97302
-    Phone: 503-391-7031
-    www.salemgurdwara.com
-    https://www.facebook.com/Dasmeshdarbar/
-    salemgurdwara@gmail.com
-
-
--   SRI GURU AMAR DAS JI SIKH GURDWARA	Salem	
-    3012 Wiltsey Street SE, Salem, OR 97317
-    http://web.archive.org/web/20160327161202/http://www.salemsikhgurdwara.org/
-    503-980-1407
-    
+-   Sri Guru Amar Das Ji Sikh Gurdwara - Salem
 
 
 #Pennsylvania

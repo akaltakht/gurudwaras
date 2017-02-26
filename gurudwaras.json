@@ -3031,6 +3031,94 @@
         "name": "Oregon",
         "abbreviation": "OR",
         "gurudwaras": [
+          {
+            "name": "Sikh Center of Oregon - Beaverton",
+            "info": {
+              "website": "http://www.sikhcenteroforegon.com/",
+              "address": {
+                "street": "17514 SW Scholls Ferry Rd",
+                "city": "Beaverton",
+                "state": "OR",
+                "zipcode": "97007"
+              },
+              "contact": {
+                "phone": "971-217-8577",
+                "email": "info@sikhcenteroforegon.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Gurdwara of Eugene",
+            "info": {
+              "website": "http://www.eugenesikhgurdwara.org/",
+              "address": {
+                "street": "3635 Hilyard Street",
+                "city": "Eugene",
+                "state": "OR",
+                "zipcode": "97405"
+              },
+              "contact": {
+                "phone": "541-686-0432",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Dashmesh Darbar Sikh Temple - Salem",
+            "info": {
+              "website": "www.salemgurdwara.com",
+              "address": {
+                "street": "860 Oakhill Ave SE",
+                "city": "Salem",
+                "state": "OR",
+                "zipcode": "97302"
+              },
+              "contact": {
+                "phone": "503-391-7031",
+                "email": "salemgurdwara@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Dasmeshdarbar/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sri Guru Amar Das Ji Sikh Gurdwara - Salem",
+            "info": {
+              "website": "http://web.archive.org/web/20160327161202/http://www.salemsikhgurdwara.org/",
+              "address": {
+                "street": "3012 Wiltsey Street SE",
+                "city": "Salem",
+                "state": "OR",
+                "zipcode": "97317"
+              },
+              "contact": {
+                "phone": "503-980-1407",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
