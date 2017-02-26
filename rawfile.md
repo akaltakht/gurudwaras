@@ -66,8 +66,7 @@
 -  Sikh Center of Delaware	New Castle
    
 #District of Columbia
-    The National Gurdwara	District of Columbia
-
+-   The National Gurdwara - District of Columbia
 
 #Florida
 -   Nanaksar Thath Isher Darbar	Kissimmee	
@@ -99,382 +98,110 @@
 
 
 #Indiana
--   Gurdwara Guru Nanak Darbar	Fishers
-    http://www.gurdwarasahibfishers.com
-    12200 E 131 Street
-    Fishers, IN 46037
-    (317) 773-8446
-    gurdwarafishers@gmail.com
-
-
+-   Gurdwara Guru Nanak Darbar - Fishers
 -   Gurdwara Jot Amrit Prakash	McCordsville
-    14880 E 96th St McCordsville, IN 46055
-    (317) 714-8896
-
 -   Sikh Satsang of Indianapolis
-    http://indianapolisgurdwara.org/sikh/
-    https://www.facebook.com/Sikh-Satsang-of-Indianapolis-118146991642010/
-    10950 Southeastern Ave
-    Indianapolis, Indiana
-    (317) 862-7454
+-   Guru Nanak Sikh Society Indiana
+-   Gurdwara Gur Shabd Parkash of Indianapolis
+-   Gurdwara Sri Hargobind Ji - Greenwood
+-   Guru Nanak Darbar Sahib	Mishawaka
+-   The Sikh Cultural Society of Indiana/
+-   Sikh Religious Society of Indiana - Crown Point
+-   Sikh Gurudwara of Fort Wayne
+-   Dashmesh Sikh Gurudwara of Fort Wayne
 
--   Guru Nanak Sikh Society Indiana	
-    Indianapolis	
-    http://www.indygurdwara.com/
-	
-    1911 Hobart Rd
-    Indianapolis, Indiana 46203
-    317-786-2331
-    https://www.facebook.com/pages/Guru-Nanak-Sikh-Society-Gurudwara/353677598033166
-
--   Gurdwara Gur Shabd Parkash of Indianapolis 
-    425 S High School Rd, 
-    Indianapolis, 
-    IN 4624
-    http://www.gurdwaraindywest.com/
-    317-247-7454
-    ggspofindy@gmail.com
-    https://www.facebook.com/GurdwaraPlainfield/
-
--   Gurdwara Sri Hargobind Ji	Greenwood
-    1050 South Graham Rd, Greenwood, IN 46143
-    317-884-4708
-    http://www.gurdwaragreenwood.org/
-    gurdwaragreenwood@gmail.com
-
--   Guru Nanak Darbar Sahib	Mishawaka	
-    12800, Day Rd
-    Mishawaka,
-    IN 46544
-    574-255 7400
-    gurudwara@gurunanakdarbarsahib.com
-    http://web.archive.org/web/20140517100743/http://gurunanakdarbarsahib.com/
-
--   The Sikh Cultural Society of Indiana/ 
-    12800 Day Rd,
-    Mishawaka, IN 46545
-    https://www.facebook.com/pages/Sikh-Culture-Society-of-Indiana/167432919934644
-
--   Sikh Religious Society of Indiana	Crown Point
-	10005 Colorado St
-    Crown Point, Indiana 46307
-    (219) 793-9446
-    https://www.facebook.com/pages/Sikh-Religious-Society-of-Indiana-Inc/113761408657810
-
--   Sikh Gurudwara of Fort Wayne	
-	http://www.fwsikh.net/
-    11431 Lower Huntington Rd
-    Roanoke, IN 46783
-    (260) 438-0011
-
--   Dashmesh Sikh Gurudwara of Fort Wayne	Fort Wayne	
-    http://www.DashmeshSikhGurudwara.com
-    15020 Illinois Rd, Fort Wayne, IN 46814
-    https://www.facebook.com/pg/DashmeshSikhGurudwara
 
 #Iowa
 -   Sikhs of Iowa Khalsa Heritage Inc - Johnston	
-    4820 NW 59th Ave Johnston IA 50323
-    (515) 259-6613
-    iowasikhs@sikhinc.org
-    http://www.sikhinc.org/
-    https://www.facebook.com/Sikhinc/
-
--   Iowa Sikh Temple -West Des Moines	
-    1115 Walnut street West Des Moines IA 50265
-    kidsvirsa@gmail.com
-    http://iowasikhassociation.com/
-    515-255-5755
-    https://www.facebook.com/Sikh-Temple-of-Iowa-198108550203407/
+-   Iowa Sikh Temple - West Des Moines	
+    
 
 #Kansas
-
 -   Gurdwara Nanak Darbar Sahib	Olathe	
-    http://kcsikh.org	
-    126 S Cherry St., 
-    Olathe, KS 66061
-    https://www.facebook.com/pages/Gurdwara-Guru-Nanak-Darbar-Sahib/650929478361616
-
 -   Midwest Sikh Association - Shawnee
-    http://www.kcmsa.org/	
-    6834 Pflumm Road, Shawnee, KS 66216 Phone: 913-631-5947
-    https://www.facebook.com/pages/MidWest-Sikh/116790631715061
     
 
 #Kentucky
--   Sikh Society of Kentucky	Louisville	
-    http://www.louisvillegurdwara.org/	
-    198 Thompson Avenue, Louisville, Kentucky 40206	
-    502-409-7454
-    louisvillekygurdwara@gmail.com
-    https://www.facebook.com/SikhSocietyOfKy/
-
--    Sikh Association of Bluegrass	Lexington		
-    257 Swigert Avenue, Lexington, Kentucky 40505	859 550 1457
-    https://www.facebook.com/sabglex/
+-   Sikh Society of Kentucky - Louisville	
+-    Sikh Association of Bluegrass - Lexington
 
 #Louisiana
 
 -   Gurdwara Sahib Shri Dashmesh Darbar	Lake Charles
-    1803 Merganser Street, Lake Charles LA 70615
-    337-602-6051
-    lakecharlesgurudwarasahib@gmail.com
-    https://www.facebook.com/LAKE-CHARLES-GURUDWARA-SAHIB-SHRI-DASHMESH-DARBAR-153440768120932/
-    http://dashmeshdarbarla.com/index.html
+-   The Sikh Society of South Inc. - New Orleans
+-   Gurudwara Sahib of Northeast Louisiana
 
--   The Sikh Society of South Inc.	New Orleans		
-    8433 Morrison Road New Orleans, LA 70127
-    (504) 245-2541
-    https://www.facebook.com/pages/Sikh-Society-of-South-Inc/118972734783825
-    
-
--   Gurudwara Sahib of Northeast Louisiana	
-    505 Otis Street, West Monroe, LA 71291
-    (318) 348-4169
-    https://www.facebook.com/GurdwaraSahibofNortheastLouisiana/?fref=ts
 
 #Maryland
 
 -   Guru Nanak Foundation of America
-    12917 Old Columbia Pike
-    Silver Spring	MD 20904
-    http://gnfa.org/
-    https://www.facebook.com/Guru-Nanak-Foundation-of-America-499003046819605/
-    (301) 384-2133
-    webteam@gnfa.org
-    
 -   Sikh Association of Baltimore
-    3423 Chapman Road Randallstown, MD 21133
-    https://www.facebook.com/pages/Sikh-Association-of-Baltimore/117586121600203
-    (410) 521-7568
-
 -   Guru Gobind Singh Foundation Rockville
-    http://web.archive.org/web/20160305063215/http://www.ggsfusa.com/
-    https://www.facebook.com/ggsfusa/?fref=ts
-    13814 Travilah Road,Rockville,MD 20850
-
--   Gurdwara Guru Gian Sagar	Burtonsville
-    3911 Dustin Rd
-    Burtonsville, Maryland 20866
-    https://www.facebook.com/pages/Gur-Gian-Sagar-Gurudwara-Sahib/417042111667659?rf=169550573120322
-
--   Baltimore Sikh Society	Baltimore
-    1731 Rita Rd
-    Dundalk, MD 21222
-    (410) 284-1000
-    https://www.facebook.com/BaltimoreSikhSociety/
+-   Gurdwara Guru Gian Sagar - Burtonsville
+-   Baltimore Sikh Society - Baltimore
 
 #Massachusetts
 -    **Members of the Sikh community of Somerville, Massachusetts**
 
--   Gurdwara Guru Nanak Darbar - Medford	http://www.gurunanakdarbar.net/
-    https://www.facebook.com/Gurudwara-Guru-Nanak-Darbar-Medford-MA-679220218818641/?hc_ref=SEARCH
-    226 Mystic Ave
-    Medford, Massachusetts
-    (781) 396-0769
-    bostongurudwara@gmail.com
-    http://www.gurunanakdarbar.net/
-
+-   Gurdwara Guru Nanak Darbar - Medford	
 -   New England Sikh Study Circle (Milford Gurdwara) - Milford
-    http://nessc.org/
-    204 E Main St
-    Milford, MA 01757
-    (508) 478-2469
-    info@nessc.org
-    https://www.facebook.com/MilfordGurdwara/?ref=br_rs
-
-
--   Guru Ram Das Ashram Gurdwara	Millis
-    https://www.facebook.com/GuruRamDasAshram.Millis
-    368 Village St
-    Millis, MA 02054
-    (508) 376-4527
-    millisashram.org/
-
-
--   Gurudwara Sikh Sangat Boston	Everett
-    http://www.bostonsikhsangat.com/
-    10 Thorndike Street, Everett, MA 02149
-    1-617-699-3928
-    https://www.facebook.com/bostongurudwara
-    bostonsikhsangat@gmail.com
-
+-   Guru Ram Das Ashram Gurdwara - Millis
+-   Gurudwara Sikh Sangat Boston - Everett
 
 
 #Michigan
--   Mid Michigan Singh Sabha	Saginaw
-    http://midmichigansinghsabha.org/
-    9700 Gratiot Rd, Saginaw, MI 48609
-    https://www.facebook.com/Mid-Michigan-Singh-Sabha-346220765413125/
-    (989) 401-6258
-    midmichigangurdwara@gmail.com
-    http://midmichigansinghsabha.org/
-
--   Guru Nanak Sikh Center	Lansing
-    http://LansingGurdwara.com
-    4701 Pleasant Grove Rd., Lansing, Michigan 48910
-    https://www.facebook.com/pages/Guru-Nanak-Sikh-Center-Gurughar/307145916061346?fref=ts
-    (517) 272-0231
-
--   The Sikh Society of Michigan	Sterling Heights
-    http://www.MichiganGurudwara.com/	
-    (248) 547-0927
-    33340 Dequindre, Sterling Heights, MI 48310
-    https://www.facebook.com/pages/Sikh-Society-of-Michigan/101609873330683?fref=ts
-    
-
+-   Mid Michigan Singh Sabha - Saginaw
+-   Guru Nanak Sikh Center - Lansing
+-   The Sikh Society of Michigan - Sterling Heights
 -   Mata Tripta Ji Gurdwara Sahib
-    http://www.migurdwara.com/wp/
-    40600 Schoolcraft Rd
-    Plymouth, Michigan
-    (734) 420-1718
-    https://www.facebook.com/Gurdwara-Sahib-Hidden-Falls-279601972071826/
-
-
-
 -   Sikh Gurdwara Rochester	Rochester Hills
-    http://www.sikhgurdwara.com/
-    https://www.facebook.com/pages/Sikh-Gurdwara-Rochester-Hills-MI/255941651179463
-    271 West Auburn Road
-    Rochester Hills, MI 48307, USA
-    248-651-1139
-    rochestersikh@gmail.com
-
-
--   Lake Michigan Gurdwara	Benton Harbor	
-    http://web.archive.org/web/20130926043112/http://www.lakemichigangurdwara.org/
-    info@lakemichigangurdwara.org
-    248 Territorial Rd Benton Harbor, MI 49022
-
--   Singh Sabha of Michigan	Canton	
-    http://www.singhsabhaofmi.org/	
-    3310 Canton Center Road
-    Canton, MI 48188
-    https://www.facebook.com/singhsabhacanton/?fref=ts
-    
-
--   Gurdwara Gobind Marg - Canton	
-    http://web.archive.org/web/20160419041842/http://gobindmarg.com/index.php
-    48055 Michigan Ave.
-    Canton, MI 48188
-    (734)-231-1871
-    info@gobindmarg.com
-
+-   Lake Michigan Gurdwara - Benton Harbor
+-   Singh Sabha of Michigan	Canton
+-   Gurdwara Gobind Marg - Canton
 -   Gurdwara Singh Sabha Kalamazoo
-    5828 Cheshire St, Portage, MI  49002
-    (269) 488-6262
-    https://www.facebook.com/pg/Gurudwarakalamazoo/
-    
-    
 -   The Sikh Society Of West Michigan
-    4356-4380 Quiggle Avenue Se, Grand Rapids, Michigan, United States Of America
-    (616) 676-4288
-    https://www.facebook.com/The-Sikh-Society-of-West-Michigan-Sikh-Gurdwara-162324290483498/
 
 #Minnesota
--    Sikh Society of Minnesota	Minneapolis	
-    http://www.mnsikhs.com/
-    9000 W Bloomington Fwy
-    Bloomington, Minnesota
-    (952) 888-2705
-    information@mnsikhs.com
-    https://www.facebook.com/Sikh-society-of-Minnesota-Gurdwara-161350273920274/?ref=br_rs
+-    Sikh Society of Minnesota - Minneapolis	
 
 #Mississippi
 -   Guru Tegh Bahadur Sikh Temple Jackson
-    2672 U.S. 80 W
-    Jackson, MS 39204
-    https://msgurdwara.com/
-    https://www.facebook.com/Sikh-Gurudwara-of-Jackson-MS-323234247814615
 
 #Missouri
 -   **Sikh Gurdwara of St. Louis	Chesterfield**	
-
 -   Sikh Study Circle St. Peters
-    116 Willis Road, St. Peters, MO 63376
-    http://www.stlouisgurdwara.org/
-    sikhstudycircleofst.louis@gmail.com
-    https://www.facebook.com/GurudwaraSTL
-    636) 926-3731
 
 #North Carolina
 -   The Sikh Gurudwara of North Carolina
-    sgncweb.org
-    3214 E. Banner St.
-    Durham, NC 27714
-    (919) 220-0630
-    https://www.facebook.com/SikhGurudwaraNC/
-
 -   Atlantic Coast Sikh Association	Durham
-    https://www.facebook.com/pages/Atlantic-Coast-Sikh-Association/228789757254696?fref=ts
-    3108 Sparger Road
-    Durham, North Carolina 27705
-    Phone	(919) 309-1045
-    Website	http://acsagurdwara.tripod.com
-
-
--   Gurdwara Sahib Charlotte	Charlotte
-    http://charlottegurdwara.org/
-    https://www.facebook.com/GurdwaraSahibCharlotte/?fref=ts
-    (704) 509-2828
-    5715 University City Blvd
-    Charlotte, North Carolina
-    (704) 509-2828
+-   Gurdwara Sahib Charlotte - Charlotte
 
 #Nevada
--   Reno Sikh Temple	Reno	
-    
-    https://www.facebook.com/sikhofreno/
-    (775) 322-1234
-    1380 Selmi Drive 
-    Reno, NV 89512
-    
-    
--   Gurdwara Baba Deep Singh Las Vegas	
-    http://www.lasvegasgurdwara.com/
-    6341 W Lone Mountain Rd, Las Vegas, NV 89130
-    702-839-1890
-    https://www.facebook.com/lasvegasgurdwara/?ref=br_rs
-    lasvegasgurdwara@gmail.com
-
-
--   Guru Nanak Gurdwara (Sikh Temple) Las Vegas	Las Vegas	
-    http://www.lvgurdwara.com/
-    Phone: (702) 459-4878
-    4487 E Russell Rd.
-    Las Vegas, NV 89120-2313
-    https://www.facebook.com/lvgurdwara?hc_ref=SEARCH&fref=nf
-
+-   Reno Sikh Temple - Reno
+-   Gurdwara Baba Deep Singh Las Vegas
+-   Guru Nanak Gurdwara (Sikh Temple) Las Vegas
 
 #New Mexico
--   Albuquerque Sikh Gurudwara	Albuquerque	
-    http://www.abqsg.org
-    https://www.facebook.com/AlbuquerqueSikhGurudwara/
-    1905 Alvarado Dr NE
-    Albuquerque, New Mexico
-    (505) 269-0298
-  
+-   Albuquerque Sikh Gurudwara - Albuquerque	
 -   **Guru Nanak Gurdwara Albuquerque**	
-    
 -   Hacienda de Guru Ram Das
-    http://www.espanolaashram.com
-    1A Ram Das Guru Place
-    Espanola, New Mexico 87532
-    (505) 753-6341, swarankaur@khalsa.com
-    https://www.facebook.com/pages/Hacienda-De-Guru-Ram-Das-Espanola/351856691559660?hc_ref=SEARCH
-    
 -   **Guru Amar Das House	Roswell**
 -   **Gurus House	Roswell**
-    
-    
-    
+
 
 #New Jersey
-    Garden State Sikh Association	Bridgewater	http://www.gssa.us	977 Washington Valley Rd Basking Ridge, NJ 07920
+    -   Garden State Sikh Association - Bridgewater
+    http://www.gssa.us	
+    977 Washington Valley Rd Basking Ridge, NJ 07920
+    (908) 658-9805  
+    gssa.langar@gmail.com
+    https://www.facebook.com/Garden-State-Sikh-Association-Bridgewater-Gurdwara-148612858514737/?hc_ref=SEARCH
+    
 
     848 New Dover Road Edison, N.J	Edison	Every 1st and 3rd Friday 8 - 10 PM
 
     Sikh Sabha of New Jersey	Lawrenceville	http://www.sikhsabha.org	282 Bakers Basin Rd Lawrenceville, NJ 08648
+    
 
     Gurudwara Singh Sabha, Carteret	Carteret	http://www.thesinghsabha.org	941 Port Reading Ave Port Reading, NJ 07064
 
@@ -486,109 +213,47 @@
 
     Gurdwara Sahib South Jersey Sikh Society	Vineland		2014 S Lincoln Ave Vineland, NJ 08361
 
-    Gurdwara Sahib Central Jersey Sikh Association	Windsor	http://www.cjsanj.org	116 N Main St Windsor, NJ 08561
+    Gurdwara Sahib Central Jersey Sikh Association	Windsor	
+    http://www.cjsanj.org	
+    116 N Main St Windsor, NJ 08561
 
-    Gurudwara Nanak Naam Jahaj	Jersey City	http://nnjgurudwara.com/	1080 West Side Ave Jersey City, NJ 07306
+    - Gurudwara Nanak Naam Jahaj	Jersey City	
+        http://nnjgurudwara.com/	
+        1080 West Side Ave Jersey City, NJ 07306
+        201-432-1122
+        https://www.facebook.com/Nanak-Naam-Jahaj-Gurudwara-of-Jersey-City-NJ-620131541357068/
+        contact@NNJGurudwara.com
+    
 
-    Gurdwara Khalsa Darbar	Burlington		1040 Old York Rd Burlington, NJ 08016
+   - Gurdwara Khalsa Darbar	Burlington		
+    https://www.facebook.com/pages/Gurdwara-Khalsa-Darbar-of-South-Jersey/147289821982566
+    (609) 386-1561
+    1040 Old York Rd Burlington, NJ 08016
+     info@khalsadarbar.com
+    
+    
 
 #New York
 -   Gurdwara Sahib - Buffalo	
-    http://www.buffalogurdwara.com	
-    6569 Main Street, Williamsville, NY 14221
-    (716) - 632- 3849
-    announcements@buffalogurdwara.com
-    https://www.facebook.com/BuffaloGurudwara/
-
 -   **Gurudwara Makhan Shah Lobana Sikh Centre - Richmond Hill, Queens**	
-    https://www.facebook.com/pages/Baba-Makhan-Shah-Lubana-Gurdwara-sikh-center/113244738737035sk=info	
-    113-10, 101 Avenue, Richmond Hill, NY 11419
-
--   Gurdwara Mata Sahib Kaur	Glen Cove
-    (516) 674-6793
-    100 Latingtown Road, Glen Cove, NY  11542.
-    https://www.facebook.com/gurdwara.glencove?hc_ref=SEARCH&fref=nf
-
--   Gurudwara of Rochester	Rochester	
-    http://gurudwaraofrochester.com/	
-    2041 Dublin Road
-
+-   Gurdwara Mata Sahib Kaur - Glen Cove
+-   Gurudwara of Rochester - Rochester	
 -   Glen Cove Gurdwara	
-    http://web.archive.org/web/20140220042447/http://www.gurdwaraglencove.com/	
-    100 Lattingtown Road, Glen Cove, NY 11542
-    (516) 609-3333
-    https://www.facebook.com/pages/Glen-Cove-Gurdwara/186920911358575
-
--   Gobind Sadan New York	Central Square
-    (315) 668-9155
-    http://www.gobindsadan.org/
-    134 Graves Rd, Central Square, NY 13036
-    https://www.facebook.com/pages/Gobind-Sadan-USA/214846705233771?ref=br_rs
-
--   Hudson Valley Sikh Cultural Society	Middletown NY	
-    http://www.middletowngurudwara.com/	
-    84 Genung St,Middletown,NY,10940 
-    (845)-343-3080
-    gurughar_10940@live.com
-    https://www.facebook.com/Gurudwara-sahib-hudson-valley-sikh-society-1424995027738889/
-
+-   Gobind Sadan New York - Central Square
+-   Hudson Valley Sikh Cultural Society	Middletown	
 -   Mid Hudson Sikh Cultural Society - Wappingers Falls
-    274 Ketchamtown Rd, Wappingers Falls, NY 12590
-    (845) 896-8994
-    http://www.gurdwarafishkillny.com/
-    gurdwarafishkillny@hotmail.com
-
 -   Sikh Center of New York	Flushing		
-    3817 Parsons Blvd Flushing, NY 11354
-    (718) 359-9520
-    https://www.facebook.com/FlushingGurudwara/?fref=ts
-    
-
 -   Sikh Cultural Society, Inc.	Richmond Hill
-    gurdwara@verizon.net
-    https://www.facebook.com/Gurdwara.Sangat.Sikh.Cultural.Society.Ny/
-
 -   Gurdwara Sikh Temple New York - Richmond Hill
-    95-30 118th St
-    Richmond Hill 11419
-    Phone	(718) 441-2106
-    https://www.facebook.com/pages/Gurdwara-Sikh-Temple/144977512190107?fref=ts
-
--   Guru Gobind Singh Sikh Center	Plainview	
-    http://www.plainviewgurudwara.org/
-    1065 Old Country Road
-    Plainview, NY 11803
-    (516) 931 - 9304
-
+-   Guru Gobind Singh Sikh Center - Plainview	
 -   Gurdwara Sant Sagar sahb ji	Bellerose	
-    https://www.facebook.com/pages/Gurudwara-Sant-Sagar/427524613958197?fref=ts	
-    242-25 Braddock Avenue NY, Bellerose, NY 11426
-    http://gurdwarasantsagar.weebly.com/
-    718-343-1030
-
 -   **Gurdwara Albany**
-
--   Guru Nanak Darbar of Albany	Albany	
-    1944 Union Street
-    NISKAYUNA
-    NEW YORK
-    12309
-    United states
-    gurunanakdarbarofalbany@yahoo.com
-    518-374-0313
-    http://web.archive.org/web/20160407011143/http://gurunanakdarbarofalbany.org/index.php
-    https://www.facebook.com/pages/Guru-Nanak-Darbar-Nisksyuna/615214138535368
-
--   Guru Nanak Sikh Center	Ardsley (Westchester)
-    19 Center St
-    Ardsley, NY 10502
-    United States
-
--   Shri Guru Ravidass Sabha of New York, Woodside, NY
-    61-01 Broadway
-    Woodside, NY 11377
-    (718) 898-8150
-    https://www.facebook.com/SriGuruRavidasGurudwara/?rf=102188223158293
+-   Guru Nanak Darbar of Albany	
+-   Guru Nanak Sikh Center - Ardsley Westchester
+-   Shri Guru Ravidass Sabha of New York - Woodside
+    
+   
+    
 
 #Ohio
     Dayton Gurdwara	Beavercreek	
