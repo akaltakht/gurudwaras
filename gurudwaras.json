@@ -1429,7 +1429,6 @@
         "name": "Indiana",
         "abbreviation": "IN",
         "gurudwaras": [
-
           {
             "name": "Gurdwara Guru Nanak Darbar - Fishers",
             "info": {
@@ -1605,8 +1604,7 @@
                 "google": ""
               }
             }
-          }
-,
+          },
           {
             "name": "Sikh Religious Society of Indiana - Crown Point",
             "info": {
@@ -1679,6 +1677,50 @@
         "name": "Iowa",
         "abbreviation": "IA",
         "gurudwaras": [
+          {
+            "name": "Sikhs of Iowa Khalsa Heritage Inc - Johnston",
+            "info": {
+              "website": "http://www.sikhinc.org/",
+              "address": {
+                "street": "4820 NW 59th Ave",
+                "city": "Johnston",
+                "state": "IA",
+                "zipcode": "50323"
+              },
+              "contact": {
+                "phone": "515-259-6613",
+                "email": "iowasikhs@sikhinc.org"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Sikhinc/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Iowa Sikh Temple - West Des Moines",
+            "info": {
+              "website": "http://iowasikhassociation.com/",
+              "address": {
+                "street": "1115 Walnut street",
+                "city": "West Des Moines",
+                "state": "IA",
+                "zipcode": "50265"
+              },
+              "contact": {
+                "phone": "515-255-5755",
+                "email": "kidsvirsa@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Sikh-Temple-of-Iowa-198108550203407/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
