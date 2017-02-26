@@ -2027,6 +2027,94 @@
         "name": "Massachusetts",
         "abbreviation": "MA",
         "gurudwaras": [
+          {
+            "name": "Gurdwara Guru Nanak Darbar - Medford",
+            "info": {
+              "website": "http://www.gurunanakdarbar.net/",
+              "address": {
+                "street": "226 Mystic Ave",
+                "city": "Medford",
+                "state": "MA",
+                "zipcode": "02155"
+              },
+              "contact": {
+                "phone": "781-396-0769",
+                "email": "bostongurudwara@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Gurudwara-Guru-Nanak-Darbar-Medford-MA-679220218818641/?hc_ref=SEARCH",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "New England Sikh Study Circle (Milford Gurdwara) - Milford",
+            "info": {
+              "website": "http://nessc.org/",
+              "address": {
+                "street": "204 E Main St",
+                "city": "Milford",
+                "state": "MA",
+                "zipcode": "01757"
+              },
+              "contact": {
+                "phone": "508-478-2469",
+                "email": "info@nessc.org"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/MilfordGurdwara/?ref=br_rs",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Ram Das Ashram Gurdwara - Millis",
+            "info": {
+              "website": "millisashram.org/",
+              "address": {
+                "street": "368 Village St",
+                "city": "Millis",
+                "state": "MA",
+                "zipcode": "02054"
+              },
+              "contact": {
+                "phone": "508-376-4527",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/GuruRamDasAshram.Millis",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurudwara Sikh Sangat Boston - Everett",
+            "info": {
+              "website": "http://www.bostonsikhsangat.com/",
+              "address": {
+                "street": "10 Thorndike Street",
+                "city": "Everett",
+                "state": "MA",
+                "zipcode": "02149"
+              },
+              "contact": {
+                "phone": "617-699-3928",
+                "email": "bostonsikhsangat@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/bostongurudwara",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
