@@ -92,7 +92,7 @@
             }
           },
           {
-            "name": "Arizona Sikh Gurdwara	Phoenix",
+            "name": "Arizona Sikh Gurdwara - Phoenix",
             "info": {
               "website": "http://www.arizonasikhgurdwara.com/",
               "address": {
@@ -390,7 +390,7 @@
             }
           },
           {
-            "name": "Guru Nanak Sikh Society (Beechwood)	Fresno",
+            "name": "Guru Nanak Sikh Society (Beechwood) - Fresno",
             "info": {
               "website": "",
               "address": {
@@ -500,7 +500,7 @@
             }
           },
           {
-            "name": "Pacific Coast Diwan Society	Caruthers",
+            "name": "Pacific Coast Diwan Society - Caruthers",
             "info": {
               "website": "",
               "address": {
@@ -522,7 +522,7 @@
             }
           },
           {
-            "name": "Guru Nanak Sikh Temple	San Joaquin",
+            "name": "Guru Nanak Sikh Temple - San Joaquin",
             "info": {
               "website": "",
               "address": {
@@ -764,7 +764,7 @@
             }
           },
           {
-            "name": "Capital Sikh Center	Sacramento",
+            "name": "Capital Sikh Center - Sacramento",
             "info": {
               "website": "",
               "address": {
@@ -1108,7 +1108,7 @@
         "abbreviation": "FL",
         "gurudwaras": [
           {
-            "name": "Nanaksar Thath Isher Darbar	Kissimmee",
+            "name": "Nanaksar Thath Isher Darbar - Kissimmee",
             "info": {
               "website": "http://www.gurdwarananaksarflorida.com/",
               "address": {
@@ -1174,7 +1174,7 @@
             }
           },
           {
-            "name": "Sikh Society of North East Florida	Jacksonville",
+            "name": "Sikh Society of North East Florida - Jacksonville",
             "info": {
               "website": "http://www.jaxgurudwara.org",
               "address": {
@@ -1268,9 +1268,9 @@
             }
           },
           {
-            "name": "Sewa Gurudwara Sahib	Roswell",
+            "name": "Sewa Gurudwara Sahib - Roswell",
             "info": {
-              "website": "http://www.sewageorgia.org/	",
+              "website": "http://www.sewageorgia.org/",
               "address": {
                 "street": "10590, WoodStock Rd",
                 "city": "Roswell",
@@ -1290,7 +1290,7 @@
             }
           },
           {
-            "name": "Sadh Sangat of Georgia	Tucker",
+            "name": "Sadh Sangat of Georgia - Tucker",
             "info": {
               "website": "http://sadhsangatga.org",
               "address": {
@@ -1452,7 +1452,7 @@
             }
           },
           {
-            "name": "Gurdwara Jot Amrit Prakash	McCordsville",
+            "name": "Gurdwara Jot Amrit Prakash - McCordsville",
             "info": {
               "website": "",
               "address": {
@@ -1562,7 +1562,7 @@
             }
           },
           {
-            "name": "Guru Nanak Darbar Sahib	Mishawaka",
+            "name": "Guru Nanak Darbar Sahib - Mishawaka",
             "info": {
               "website": "http://web.archive.org/web/20140517100743/http://gurunanakdarbarsahib.com/",
               "address": {
@@ -1728,7 +1728,7 @@
         "abbreviation": "KS",
         "gurudwaras": [
           {
-            "name": "Gurdwara Nanak Darbar Sahib	Olathe",
+            "name": "Gurdwara Nanak Darbar Sahib - Olathe",
             "info": {
               "website": "http://kcsikh.org",
               "address": {
@@ -1828,7 +1828,7 @@
         "abbreviation": "LA",
         "gurudwaras": [
           {
-            "name": "Gurdwara Sahib Shri Dashmesh Darbar	Lake Charles",
+            "name": "Gurdwara Sahib Shri Dashmesh Darbar - Lake Charles",
             "info": {
               "website": "http://dashmeshdarbarla.com/index.html",
               "address": {
@@ -1850,7 +1850,7 @@
             }
           },
           {
-            "name": "The Sikh Society of South Inc. - New Orleans	",
+            "name": "The Sikh Society of South Inc - New Orleans",
             "info": {
               "website": "",
               "address": {
@@ -2121,6 +2121,226 @@
         "name": "Michigan",
         "abbreviation": "MI",
         "gurudwaras": [
+          {
+            "name": "Mid Michigan Singh Sabha - Saginaw",
+            "info": {
+              "website": "http://midmichigansinghsabha.org/",
+              "address": {
+                "street": "9700 Gratiot Rd",
+                "city": "Saginaw",
+                "state": "MI",
+                "zipcode": "48609"
+              },
+              "contact": {
+                "phone": "989-401-6258",
+                "email": "midmichigangurdwara@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Mid-Michigan-Singh-Sabha-346220765413125/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Nanak Sikh Center - Lansing",
+            "info": {
+              "website": "http://LansingGurdwara.com",
+              "address": {
+                "street": "4701 Pleasant Grove Rd",
+                "city": "Lansing",
+                "state": "MI",
+                "zipcode": "48910"
+              },
+              "contact": {
+                "phone": "517-272-0231",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Guru-Nanak-Sikh-Center-Gurughar/307145916061346?fref=ts",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "The Sikh Society of Michigan - Sterling Heights",
+            "info": {
+              "website": "http://www.MichiganGurudwara.com/",
+              "address": {
+                "street": "33340 Dequindre",
+                "city": "Sterling Heights",
+                "state": "MI",
+                "zipcode": "48310"
+              },
+              "contact": {
+                "phone": "248-547-0927",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Sikh-Society-of-Michigan/101609873330683?fref=ts",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Mata Tripta Ji Gurdwara Sahib",
+            "info": {
+              "website": "http://www.migurdwara.com/wp/",
+              "address": {
+                "street": "40600 Schoolcraft Rd",
+                "city": "Plymouth",
+                "state": "MI",
+                "zipcode": ""
+              },
+              "contact": {
+                "phone": "734-420-1718",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Gurdwara-Sahib-Hidden-Falls-279601972071826/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Gurdwara Rochester - Rochester Hills",
+            "info": {
+              "website": "http://www.sikhgurdwara.com/",
+              "address": {
+                "street": "271 West Auburn Road",
+                "city": "Rochester Hills",
+                "state": "MI",
+                "zipcode": "48307"
+              },
+              "contact": {
+                "phone": "248-651-1139",
+                "email": "rochestersikh@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Sikh-Gurdwara-Rochester-Hills-MI/255941651179463",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Lake Michigan Gurdwara - Benton Harbor",
+            "info": {
+              "website": "http://web.archive.org/web/20130926043112/http://www.lakemichigangurdwara.org/",
+              "address": {
+                "street": "248 Territorial Rd",
+                "city": "Benton Harbor",
+                "state": "MI",
+                "zipcode": "49022"
+              },
+              "contact": {
+                "phone": "",
+                "email": "info@lakemichigangurdwara.org"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Singh Sabha of Michigan - Canton",
+            "info": {
+              "website": "http://www.singhsabhaofmi.org/",
+              "address": {
+                "street": "3310 Canton Center Road",
+                "city": "Canton",
+                "state": "MI",
+                "zipcode": "48188"
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/singhsabhacanton/?fref=ts",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Gobind Marg - Canton",
+            "info": {
+              "website": "http://web.archive.org/web/20160419041842/http://gobindmarg.com/index.php",
+              "address": {
+                "street": "48055 Michigan Ave.",
+                "city": "Canton",
+                "state": "MI",
+                "zipcode": "48188"
+              },
+              "contact": {
+                "phone": "734-231-1871",
+                "email": "info@gobindmarg.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Singh Sabha Kalamazoo",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "5828 Cheshire St",
+                "city": "Portage",
+                "state": "MI",
+                "zipcode": "49002"
+              },
+              "contact": {
+                "phone": "269-488-6262",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pg/Gurudwarakalamazoo/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "The Sikh Society Of West Michigan",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "4356-4380 Quiggle Avenue Se",
+                "city": "Grand Rapids",
+                "state": "MI",
+                "zipcode": "49301"
+              },
+              "contact": {
+                "phone": "616-676-4288",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/The-Sikh-Society-of-West-Michigan-Sikh-Gurdwara-162324290483498/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
