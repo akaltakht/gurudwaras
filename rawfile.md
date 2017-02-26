@@ -190,7 +190,7 @@
 
 
 #New Jersey
-    -   Garden State Sikh Association - Bridgewater
+-   Garden State Sikh Association - Bridgewater
     http://www.gssa.us	
     977 Washington Valley Rd Basking Ridge, NJ 07920
     (908) 658-9805  
@@ -198,38 +198,59 @@
     https://www.facebook.com/Garden-State-Sikh-Association-Bridgewater-Gurdwara-148612858514737/?hc_ref=SEARCH
     
 
-    848 New Dover Road Edison, N.J	Edison	Every 1st and 3rd Friday 8 - 10 PM
+-   Sikh Sabha of New Jersey	Lawrenceville	
+    http://www.sikhsabha.org	
+    282 Bakers Basin Rd Lawrenceville, NJ 08648
+    https://www.facebook.com/sikhsabha.org/
+    (609) 587-3131
+    sikhsabhabod@yahoogroups.com
 
-    Sikh Sabha of New Jersey	Lawrenceville	http://www.sikhsabha.org	282 Bakers Basin Rd Lawrenceville, NJ 08648
-    
 
-    Gurudwara Singh Sabha, Carteret	Carteret	http://www.thesinghsabha.org	941 Port Reading Ave Port Reading, NJ 07064
+-   Gurudwara Singh Sabha, Carteret	
+    http://www.thesinghsabha.org	
+    941 Port Reading Ave Port Reading, NJ 07064
+    https://www.facebook.com/thesinghsabha.org/
+    (732) 541-4411
+    singhsabhacarteret@gmail.com
 
-    Gurudwara Dashmesh Darbar	Carteret	http://www.DashmeshDarbarNJ.org	800 Port Reading Ave Port Reading, NJ 07064
+-   Gurudwara Dashmesh Darbar - Carteret	
+    http://www.DashmeshDarbarNJ.org	
+    800 Port Reading Ave Port Reading, NJ 07064
+    732-541-6000
 
-    Sri Guru Singh Sabha, Glenrock	Glenrock	http://www.glenrockgurudwara.org	541 Prospect St Glen Rock, NJ 07452
+-    Sri Guru Singh Sabha, Glenrock	
+    http://www.glenrockgurudwara.org	
+    541 Prospect St Glen Rock, NJ 07452
+    https://www.facebook.com/Glenrockgurudwara1/?hc_ref=SEARCH
+    (201) 447-9891
 
-    Guru Nanak Sikh Society of Delaware Valley	Pinehill	http://www.gnssdv.com	1110 Blackwood Clementon Rd Pine Hill, NJ 08021
+-   Guru Nanak Sikh Society of Delaware Valley	Pinehill	
+    http://www.gnssdv.com	
+    1110 Blackwood Clementon Rd Pine Hill, NJ 08021
+    856-464-9835
+    Info@gnssdv.com
 
-    Gurdwara Sahib South Jersey Sikh Society	Vineland		2014 S Lincoln Ave Vineland, NJ 08361
+-   Gurdwara Sahib South Jersey Sikh Society - Vineland		
+    2014 S Lincoln Ave Vineland, NJ 08361
+    856-691-8400
 
-    Gurdwara Sahib Central Jersey Sikh Association	Windsor	
+-   Gurdwara Sahib Central Jersey Sikh Association - Windsor
     http://www.cjsanj.org	
     116 N Main St Windsor, NJ 08561
 
-    - Gurudwara Nanak Naam Jahaj	Jersey City	
-        http://nnjgurudwara.com/	
-        1080 West Side Ave Jersey City, NJ 07306
-        201-432-1122
-        https://www.facebook.com/Nanak-Naam-Jahaj-Gurudwara-of-Jersey-City-NJ-620131541357068/
-        contact@NNJGurudwara.com
-    
+-   Gurudwara Nanak Naam Jahaj	Jersey City	
+    http://nnjgurudwara.com/	
+    1080 West Side Ave Jersey City, NJ 07306
+    201-432-1122
+    https://www.facebook.com/Nanak-Naam-Jahaj-Gurudwara-of-Jersey-City-NJ-620131541357068/
+    contact@NNJGurudwara.com
 
-   - Gurdwara Khalsa Darbar	Burlington		
+
+-   Gurdwara Khalsa Darbar	Burlington		
     https://www.facebook.com/pages/Gurdwara-Khalsa-Darbar-of-South-Jersey/147289821982566
     (609) 386-1561
     1040 Old York Rd Burlington, NJ 08016
-     info@khalsadarbar.com
+    info@khalsadarbar.com
     
     
 
@@ -253,23 +274,55 @@
 -   Shri Guru Ravidass Sabha of New York - Woodside
 
 #Ohio
-    Dayton Gurdwara	Beavercreek	
+-   Dayton Gurdwara	Beavercreek	
     http://daytongurdwara.org/
+    https://www.facebook.com/Dayton-Gurdwara-Sikh-Center-of-Dayton-203268979775288/
+    2522 Nutter Park Drive
+    Beavercreek, OH 45434
+    
+    (937) 902-3715
 
-    Guru Nanak Religious Society of Central Ohio /Columbus Gurdwara	Columbus	
-    http://GNRSColumbusOhio.com
+    daytongurdwara@hotmail.com
+    
 
-    Guru Gobind Singh Sikh Gurudwara	Bedford
+-   Guru Nanak Religious Society of Central Ohio /Columbus Gurdwara	Columbus	
+    ​3745 Business Park Dr
+    Columbus, Ohio 43204 
+    (614) 279-2700
+    http://www.gnrsohio.org/
+    admin@gnrsohio.org 
+    https://www.facebook.com/gnrsohio/
+    
 
-    Guru Nanak Foundation Richfield	Richfield
+-   Guru Gobind Singh Sikh Gurudwara	Bedford
+    38 Tarbell Ave, Bedford, OH 44146
+    (440) 232-1702
+    https://www.facebook.com/pages/Bedford-Gurudwara/162081293841273?rf=129236233809014
+    http://www.clevelandgurudwara.org/
+    
 
-    Guru Nanak Society	West Chester
+-   Guru Nanak Foundation Richfield
+    4220 Broadview Rd
+    Richfield, Ohio 44286
+    (330) 659-3748
+    https://www.facebook.com/pages/Guru-Nanak-Foundation-Inc/115223235166923?fref=ts
 
-    Guru Ram Das Ashram	Columbus
+-   Guru Nanak Society - West Chester
+    4394 Tylersville Road
+    Hamilton, Ohio 45011
+    513-860-0589
+    http://gurunanaksociety.org/
 
-    Gurudwara Sahib Columbia	Columbia
+-   **Guru Ram Das Ashram	Columbus**
+    92 East Northwood Avenue	Columbus	OH	43201
+    (614) 299-5687
 
-    Sikh Educational and Religious Foundation	Dublin
+-   **Gurudwara Sahib Columbia**
+    3853 Trustle Court	Columbia	OH	43201
+    (614) 279-8080
+
+-   **Sikh Educational and Religious Foundation - Dublin**  
+    5743 Rushwood Drive	Dublin	OH	43027	(614) 764-8015
 
 #Oklahoma
 -   Sikh Gurdwara of Oklahoma - Oklahoma City	
@@ -283,33 +336,63 @@
 
 #Pennsylvania
 
-    Erie Sikh Gurudwara	Erie, Pennsylvania		1144 W 8TH Street, Erie, PA 196510
+-   Erie Sikh Gurudwara	Erie, Pennsylvania		
+    1144 W 8TH Street, Erie, PA 196510
 
-    The Blue Mountain Gurdwara	Bethel	http://www.bluemountaingurdwara.info	362 Schubert Rd Bethel, PA 19507
+-   The Blue Mountain Gurdwara	Bethel	
+    http://web.archive.org/web/20150720020636/http://www.bluemountaingurdwara.info/	
+    362 Schubert Rd Bethel, PA 19507
+    717-933-8223
+    https://www.facebook.com/search/str/blue%2Bmountain%2Bgurdwara/keywords_places/
 
-    Guru Nanak Sikh Society Of Lehigh Valley	Nazareth	http://www.gurunanaksslv.com/
+-   Guru Nanak Sikh Society Of Lehigh Valley	Nazareth	
+    http://www.gurunanaksslv.com/
+    610-759-5085
+    648, DANIEL RD, NAZARETH PA 18064
+    https://www.facebook.com/pages/Guru-Nanak-Sikh-Society-Of-Lehigh-Valley/163826843635792
 
-    Philadelphia Sikh Society	Millbourne	http://www.philadelphiasikhheritage.com/index.htm	6706 Garden Court Rd, Millbourne, PA 19082
+-   Philadelphia Sikh Society - Millbourne	
+    http://gphillyss.webs.com/	
+    6706 Garden Court Rd, Millbourne, PA 19082
+    gphillyss@gmail.com
+    https://www.facebook.com/GPhillySS/
+    
 
-    Pittsburgh Sikh Gurudwara	Monroeville	http://www.pittsburghsikh.org/
+-   Pittsburgh Sikh Gurudwara	Monroeville	http://www.pittsburghsikh.org/
+    https://www.facebook.com/pages/Sikh-Gurudwara-Pittsburgh/154849917942729
+    (412) 372-8890
+	
+    4407 McKenzie Dr
+    Monroeville, Pennsylvania 15146
 
-    Guru Nanak Sikh Society	Upper Darby
+-   Guru Nanak Sikh Society	Upper Darby
+    (610) 734-3455
+    https://www.facebook.com/pages/Guru-Nanak-Sikh-Society/105296332870131
+    	
+    310 S 69th St
+    Upper Darby, Pennsylvania 19082
+
+
 
 #South Carolina
 
-    -   Gurdwara Nanaksar, Sikh Religious Society of South Carolina, Chapin, SC
+-   **Gurdwara Nanaksar, Sikh Religious Society of South Carolina, Chapin, SC**
        
-    -   Sikh Religious Society of South Carolina	Columbia	
+-   Sikh Religious Society of South Carolina	Columbia	
         http://www.carolinasikhs.org/index.html
         11419 Broad River Road
         Chapin, SC 29036
         917-415-0464
         gurdwaracolumbiaSC@gmail.com
 
-    -   Singh Sabha of South Carolina	Columbia	
-        http://www.singhsabhasc.org/
+-   **Singh Sabha of South Carolina	Columbia** 
+    	? No Physical location  
+        http://www.singhsabhasc.org/  
+        info@singhsabhasc.org  
+        803-479-8906  
+        
 
-    -   Nanak Darbar Gurdwara	Duncan, South Carolina	
+-   Nanak Darbar Gurdwara	Duncan, South Carolina	
         http://www.sikhsofupstatesc.com/	
         111 Harrison Road, Duncan, SC 29680
         Phone: +1.8645293897
@@ -317,19 +400,19 @@
 
 
 #Tennessee
--    Sikh Center of the Mid South	Memphis
+-    Sikh Center of the Mid South - Memphis
     http://sikhcenter.tripod.com	
     6263 Macon Rd, Memphis, TN-38134 
     901-246-1739
     https://www.facebook.com/pages/Sikh-Center-of-the-Mid-South/666934356739525
 
--    Midsouth Sikh Sabha	Cordova
+-    Midsouth Sikh Sabha - Cordova
     http://www.midsouthsikhsabha.org
     Gurdwara Sahib  1755 Appling Road, Cordova, TN 38016
     sdsriar@yahoo.com
     https://www.facebook.com/MidSouth-Sikh-Sabha-Gurudwara-Sahib-119528824808754/?hc_ref=SEARCH&fref=nf
 
--    The Southeastern Sikh Religious Society	Nashville
+-    The Southeastern Sikh Religious Society - Nashville
     http://www.nashvillegurdwara.org
     Nashville Gurudwara, 7673 Sawyer Brown Rd, Nashville, TN 37221
     https://www.facebook.com/SouthEasternSikhReligiousSociety
@@ -438,17 +521,8 @@
 #Utah
 
 -   Sikh Temple of Utah
-    http://www.sikhtempleofutah.com/
-    https://www.facebook.com/sachkhandjee/
-    4897 S Redwood Rd, Salt Lake City, UT 84123
-    
--   Guru Nanak Dev Ji Sikh Temple of Utah   
-    2340 W 7800 S
-    West Jordan, Utah
-    (801) 770-2801
-    https://www.facebook.com/Guru-Nanak-Dev-Ji-Gurudwara-538855746192536/?ref=br_rs
-    http://www.utahgurudwara.com
-    
+-   Guru Nanak Dev Ji Sikh Temple of Utah
+
 
 #Virginia
 
@@ -466,72 +540,55 @@
     https://twitter.com/scvgurdwara
 
 
- Sikh Foundation of Virginia	Fairfax Station
-    http://www.sfova.org/
+-  Sikh Foundation of Virginia - Fairfax Station
+   http://www.sfova.org/
+   7250 Ox Road
+   Fairfax Station VA 22039
+   703-323-8849
+   https://www.facebook.com/pages/Sikh-Foundation-of-Virginia/115249515164835
 
 
-- Singh Sabha Gurdwara	Fairfax
-Site not working : http://ssgva.com/
+-   Singh Sabha Gurdwara	Fairfax
+    http://web.archive.org/web/20160304040029/http://ssgva.com/
+    webmaster@ssgva.com
+    12001 Braddock Rd. Fairfax, VA 22030 
+    (703) 278-8333
+    https://www.facebook.com/ssgva/
 
-- Richmond Gurdwara	Richmond
-http://www.richmondgurdwara.org/
+-   **Richmond Gurdwara	Richmond**
+    http://web.archive.org/web/20160322034545/http://www.richmondgurdwara.org/
+    4500 Marty Boulevard
+    Chesterfield
+    Virginia
+    23234
+    (804) 271 1771
 
-- Gurdwara Singh Sabha	Richmond
-http://www.ricgurudwara.org/
-
-- Roanoke Gurudwara	Salem
-http://roanokegurudwara.org/
+-   Gurdwara Singh Sabha	Richmond
+    http://www.ricgurudwara.org/
+    8610 Hull Street Rd, Richmond, VA 23236
+    ssricva@gmail.com
+    Tel: 804 - 310 - 4567
+    ssricva@gmail.com
+    
+    
+-   Roanoke Gurudwara	Salem
+    http://roanokegurudwara.org/
+    2222 Wildwood Road, Salem VA 24153
+    (540) 227-0762.
+    https://www.facebook.com/RoanokeGurudwaraorg/
 
 
 
 #Washington
 
-- Gurudwara Sikh Centre of Seattle
-    http://www.sikhcentreofseattle.org/
-    20412 Bothell Everett Highway
-    Bothell, WA 98012
-    (425) 487-4878
-    info@sikhcentreofseattle.org
-
-
-- Guru Ramdass Gurdwara Sahib	Vancouver	 http://www.gururamdassgurudwara.org/
-    3600 O Street
-    Vancouver, WA 98663
-    Phone: 360-696-5568
-    vangurudwara@gmail.com
-
-
-- Gurudwara Singh Sabha of Washington	Renton	http://www.gssrenton.com/
-    Gurdwara Singh Sabha of Washington,
-    Renton, WA
-    5200 Talbot Road South
-    Renton, WA 98055
-    Phone: 425-226-2277
-    Web: www.seattlegurdwara.com
-
-
-
-Gurudwara Guru Teg Bahadur Sahib Ji	Kent
-site not working -- http://gurdwarasahibkent.com
-
-Gurudwara Sacha Marg	Place Kent
-https://www.facebook.com/pg/gurudwarasachamaragsahib
-
-
-Guru Nanak Sikh Temple	Marysville
-https://www.facebook.com/sikhtemplewa/
-
-
-Spokane Gurdwara Sahib	Spokane
-site not working    http://www.spokanegurudwara.org
-https://www.facebook.com/pages/Sikh-Temple-of-Spokane-Inc/116105868411485
-
-
-
-
-Guru Nanak Gursikh Gurudwara	Lynden
-https://www.facebook.com/tsikh76
-
+-   Gurudwara Sikh Centre of Seattle
+-   Guru Ramdass Gurdwara Sahib - Vancouver
+-   Gurudwara Singh Sabha of Washington - Renton	
+-   Gurudwara Guru Teg Bahadur Sahib Ji	Kent
+-   Gurudwara Sacha Marg - Auburn
+-   Guru Nanak Sikh Temple - Marysville
+-   Spokane Gurdwara Sahib - Spokane
+-   Guru Nanak Gursikh Gurudwara - Lynden
 
 #Wisconsin
 - Sikh Society of Wisconsin-Madison
