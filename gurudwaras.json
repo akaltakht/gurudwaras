@@ -2577,6 +2577,336 @@
         "name": "New York",
         "abbreviation": "NY",
         "gurudwaras": [
+          {
+            "name": "Gurdwara Sahib - Buffalo",
+            "info": {
+              "website": "http://www.buffalogurdwara.com",
+              "address": {
+                "street": "6569 Main Street",
+                "city": "Williamsville",
+                "state": "NY",
+                "zipcode": "14221"
+              },
+              "contact": {
+                "phone": "716-632-3849",
+                "email": "announcements@buffalogurdwara.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/BuffaloGurudwara/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Mata Sahib Kaur - Glen Cove",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "100 Latingtown Road",
+                "city": "Glen Cove",
+                "state": "NY",
+                "zipcode": "11542"
+              },
+              "contact": {
+                "phone": "516-674-6793",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/gurdwara.glencove?hc_ref=SEARCH&fref=nf",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurudwara of Rochester - Rochester",
+            "info": {
+              "website": "http://web.archive.org/web/20151208034256/http://gurudwaraofrochester.com/index.html",
+              "address": {
+                "street": "2041 Dublin Road",
+                "city": "Penfield",
+                "state": "NY",
+                "zipcode": "14526"
+              },
+              "contact": {
+                "phone": "585-872-9193",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Glen Cove Gurdwara",
+            "info": {
+              "website": "http://web.archive.org/web/20140220042447/http://www.gurdwaraglencove.com/",
+              "address": {
+                "street": "100 Lattingtown Road",
+                "city": "Glen Cove",
+                "state": "NY",
+                "zipcode": "11542"
+              },
+              "contact": {
+                "phone": "516-609-3333",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Glen-Cove-Gurdwara/186920911358575",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gobind Sadan New York - Central Square",
+            "info": {
+              "website": "http://www.gobindsadan.org/",
+              "address": {
+                "street": "134 Graves Rd",
+                "city": "Central Square",
+                "state": "NY",
+                "zipcode": "13036"
+              },
+              "contact": {
+                "phone": "315-668-9155",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Gobind-Sadan-USA/214846705233771?ref=br_rs",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Hudson Valley Sikh Cultural Society - Middletown",
+            "info": {
+              "website": "http://www.middletowngurudwara.com/",
+              "address": {
+                "street": "84 Genung St",
+                "city": "Middletown",
+                "state": "NY",
+                "zipcode": "10940"
+              },
+              "contact": {
+                "phone": "845-343-3080",
+                "email": "gurughar_10940@live.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Gurudwara-sahib-hudson-valley-sikh-society-1424995027738889/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Mid Hudson Sikh Cultural Society - Wappingers Falls",
+            "info": {
+              "website": "http://www.gurdwarafishkillny.com/",
+              "address": {
+                "street": "274 Ketchamtown Rd",
+                "city": "Wappingers Falls",
+                "state": "NY",
+                "zipcode": "12590"
+              },
+              "contact": {
+                "phone": "845-896-8994",
+                "email": "gurdwarafishkillny@hotmail.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Center of New York - Flushing",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "3817 Parsons Blvd Flushing",
+                "city": "NY",
+                "state": "NY",
+                "zipcode": "11354"
+              },
+              "contact": {
+                "phone": "718-359-9520",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/FlushingGurudwara/?fref=ts",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "",
+            "info": {
+              "website": "http://www.sikhculturalsociety.org/",
+              "address": {
+                "street": "9530 118th St",
+                "city": "South Richmond Hill",
+                "state": "NY",
+                "zipcode": "11419"
+              },
+              "contact": {
+                "phone": "718-846-3333",
+                "email": "gurdwara@verizon.net"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Gurdwara.Sangat.Sikh.Cultural.Society.Ny/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Sikh Temple New York - Richmond Hill",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "95-30 118th St",
+                "city": "Richmond Hill",
+                "state": "NY",
+                "zipcode": "11419"
+              },
+              "contact": {
+                "phone": "718-441-2106",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Gurdwara-Sikh-Temple/144977512190107?fref=ts",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Gobind Singh Sikh Center - Plainview",
+            "info": {
+              "website": "http://www.plainviewgurudwara.org/",
+              "address": {
+                "street": "1065 Old Country Road",
+                "city": "Plainview",
+                "state": "NY",
+                "zipcode": "11803"
+              },
+              "contact": {
+                "phone": "516-931-9304",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Sant Sagar sahb ji - Bellerose",
+            "info": {
+              "website": "http://gurdwarasantsagar.weebly.com/",
+              "address": {
+                "street": "242-25 Braddock Avenue",
+                "city": "Bellerose",
+                "state": "NY",
+                "zipcode": "11426"
+              },
+              "contact": {
+                "phone": "718-343-1030",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Gurudwara-Sant-Sagar/427524613958197?fref=ts",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Nanak Darbar of Albany",
+            "info": {
+              "website": "http://web.archive.org/web/20160407011143/http://gurunanakdarbarofalbany.org/index.php",
+              "address": {
+                "street": "1944 Union Street",
+                "city": "NISKAYUNA",
+                "state": "NY",
+                "zipcode": "12309"
+              },
+              "contact": {
+                "phone": "518-374-0313",
+                "email": "gurunanakdarbarofalbany@yahoo.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Guru-Nanak-Darbar-Nisksyuna/615214138535368",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Nanak Sikh Center - Ardsley Westchester",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "19 Center St",
+                "city": "Ardsley",
+                "state": "NY",
+                "zipcode": "10502"
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Shri Guru Ravidass Sabha of New York - Woodside",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "61-01 Broadway",
+                "city": "Woodside",
+                "state": "NY",
+                "zipcode": "11377"
+              },
+              "contact": {
+                "phone": "718-898-8150",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/SriGuruRavidasGurudwara/?rf=102188223158293",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
