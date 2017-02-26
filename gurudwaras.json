@@ -1727,18 +1727,172 @@
         "name": "Kansas",
         "abbreviation": "KS",
         "gurudwaras": [
+          {
+            "name": "Gurdwara Nanak Darbar Sahib	Olathe",
+            "info": {
+              "website": "http://kcsikh.org",
+              "address": {
+                "street": "126 S Cherry St.",
+                "city": "Olathe",
+                "state": "KS",
+                "zipcode": "66061"
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Gurdwara-Guru-Nanak-Darbar-Sahib/650929478361616",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Midwest Sikh Association - Shawnee",
+            "info": {
+              "website": "http://www.kcmsa.org/",
+              "address": {
+                "street": "6834 Pflumm Road",
+                "city": "Shawnee",
+                "state": "KS",
+                "zipcode": "66216"
+              },
+              "contact": {
+                "phone": "913-631-5947",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/MidWest-Sikh/116790631715061",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
         "name": "Kentucky",
         "abbreviation": "KY",
         "gurudwaras": [
+          {
+            "name": "Sikh Society of Kentucky - Louisville",
+            "info": {
+              "website": "http://www.louisvillegurdwara.org/",
+              "address": {
+                "street": "198 Thompson Avenue",
+                "city": "Louisville",
+                "state": "Kentucky",
+                "zipcode": "40206"
+              },
+              "contact": {
+                "phone": "502-409-7454",
+                "email": "louisvillekygurdwara@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/SikhSocietyOfKy/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Association of Bluegrass - Lexington",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "257 Swigert Avenue",
+                "city": "Lexington",
+                "state": "KY",
+                "zipcode": "40505"
+              },
+              "contact": {
+                "phone": "859-550-1457",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/sabglex/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
         "name": "Louisiana",
         "abbreviation": "LA",
         "gurudwaras": [
+          {
+            "name": "Gurdwara Sahib Shri Dashmesh Darbar	Lake Charles",
+            "info": {
+              "website": "http://dashmeshdarbarla.com/index.html",
+              "address": {
+                "street": "1803 Merganser Street",
+                "city": "Lake Charles",
+                "state": "LA",
+                "zipcode": "70615"
+              },
+              "contact": {
+                "phone": "337-602-6051",
+                "email": "lakecharlesgurudwarasahib@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/LAKE-CHARLES-GURUDWARA-SAHIB-SHRI-DASHMESH-DARBAR-153440768120932/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "The Sikh Society of South Inc. - New Orleans	",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "8433 Morrison Road",
+                "city": "New Orleans",
+                "state": "LA",
+                "zipcode": "70127"
+              },
+              "contact": {
+                "phone": "504-245-2541",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Sikh-Society-of-South-Inc/118972734783825",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurudwara Sahib of Northeast Louisiana",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "505 Otis Street",
+                "city": "West Monroe",
+                "state": "LA",
+                "zipcode": "71291"
+              },
+              "contact": {
+                "phone": "318-348-4169",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/GurdwaraSahibofNortheastLouisiana/?fref=ts",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
