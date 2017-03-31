@@ -3614,6 +3614,50 @@
         "name": "South Carolina",
         "abbreviation": "SC",
         "gurudwaras": [
+          {
+            "name": "Sikh Religious Society of South Carolina - Columbia",
+            "info": {
+              "website": "http://www.carolinasikhs.org/index.html",
+              "address": {
+                "street": "11419 Broad River Road",
+                "city": "Chapin",
+                "state": "SC",
+                "zipcode": "29036"
+              },
+              "contact": {
+                "phone": "917-415-0464",
+                "email": "gurdwaracolumbiaSC@gmail.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Nanak Darbar Gurdwara - Duncan",
+            "info": {
+              "website": "http://www.sikhsofupstatesc.com/",
+              "address": {
+                "street": "111 Harrison Road",
+                "city": "Duncan",
+                "state": "SC",
+                "zipcode": "29680"
+              },
+              "contact": {
+                "phone": "864-529-3897",
+                "email": "info@sikhsofupstatesc.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
@@ -3626,6 +3670,72 @@
         "name": "Tennessee",
         "abbreviation": "TN",
         "gurudwaras": [
+          {
+            "name": "Sikh Center of the Mid South - Memphis",
+            "info": {
+              "website": "http://sikhcenter.tripod.com",
+              "address": {
+                "street": "6263 Macon Rd",
+                "city": "Memphis",
+                "state": "TN",
+                "zipcode": "38134"
+              },
+              "contact": {
+                "phone": "901-246-1739",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Sikh-Center-of-the-Mid-South/666934356739525",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Midsouth Sikh Sabha - Cordova",
+            "info": {
+              "website": "http://www.midsouthsikhsabha.org",
+              "address": {
+                "street": "1755 Appling Road",
+                "city": "Cordova",
+                "state": "TN",
+                "zipcode": "38016"
+              },
+              "contact": {
+                "phone": "",
+                "email": "sdsriar@yahoo.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/MidSouth-Sikh-Sabha-Gurudwara-Sahib-119528824808754/?hc_ref=SEARCH&fref=nf",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "The Southeastern Sikh Religious Society - Nashville",
+            "info": {
+              "website": "http://www.nashvillegurdwara.org",
+              "address": {
+                "street": "7673 Sawyer Brown Rd",
+                "city": "Nashville",
+                "state": "TN",
+                "zipcode": "37221"
+              },
+              "contact": {
+                "phone": "615-578-8703",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/SouthEasternSikhReligiousSociety",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
