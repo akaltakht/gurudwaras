@@ -2521,6 +2521,226 @@
         "name": "New Jersey",
         "abbreviation": "NJ",
         "gurudwaras": [
+          {
+            "name": "Garden State Sikh Association - Bridgewater",
+            "info": {
+              "website": "http://www.gssa.us",
+              "address": {
+                "street": "977 Washington Valley Rd Basking Ridge",
+                "city": "Bridgewater",
+                "state": "NJ",
+                "zipcode": "07920"
+              },
+              "contact": {
+                "phone": "908-658-9805",
+                "email": "gssa.langar@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Garden-State-Sikh-Association-Bridgewater-Gurdwara-148612858514737/?hc_ref=SEARCH",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Sabha of New Jersey - Lawrenceville",
+            "info": {
+              "website": "http://www.sikhsabha.org",
+              "address": {
+                "street": "282 Bakers Basin Rd",
+                "city": "Lawrenceville",
+                "state": "NJ",
+                "zipcode": "08648"
+              },
+              "contact": {
+                "phone": "609-587-3131",
+                "email": "sikhsabhabod@yahoogroups.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/sikhsabha.org/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurudwara Singh Sabha - Carteret",
+            "info": {
+              "website": "http://www.thesinghsabha.org",
+              "address": {
+                "street": "941 Port Reading Ave",
+                "city": "Port Reading",
+                "state": "NJ",
+                "zipcode": "07064"
+              },
+              "contact": {
+                "phone": "732-541-4411",
+                "email": "singhsabhacarteret@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/thesinghsabha.org/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurudwara Dashmesh Darbar - Carteret",
+            "info": {
+              "website": "http://www.DashmeshDarbarNJ.org",
+              "address": {
+                "street": "800 Port Reading Ave Port",
+                "city": "Reading",
+                "state": "NJ",
+                "zipcode": "07064"
+              },
+              "contact": {
+                "phone": "732-541-6000",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sri Guru Singh Sabha - Glenrock",
+            "info": {
+              "website": "http://www.glenrockgurudwara.org",
+              "address": {
+                "street": "541 Prospect St",
+                "city": "Glen Rock",
+                "state": "NJ",
+                "zipcode": "07452"
+              },
+              "contact": {
+                "phone": "201-447-9891",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Glenrockgurudwara1",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Nanak Sikh Society of Delaware Valley - Pinehill",
+            "info": {
+              "website": "http://www.gnssdv.com",
+              "address": {
+                "street": "1110 Blackwood Clementon Rd",
+                "city": "Pine Hill",
+                "state": "NJ",
+                "zipcode": "08021"
+              },
+              "contact": {
+                "phone": "856-464-9835",
+                "email": "Info@gnssdv.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Sahib South Jersey Sikh Society - Vineland",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "2014 S Lincoln Ave",
+                "city": "Vineland",
+                "state": "NJ",
+                "zipcode": "08361"
+              },
+              "contact": {
+                "phone": "856-691-8400",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Sahib Central Jersey Sikh Association - Windsor",
+            "info": {
+              "website": "http://www.cjsanj.org",
+              "address": {
+                "street": "116 N Main St",
+                "city": "Windsor",
+                "state": "NJ",
+                "zipcode": "08561"
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurudwara Nanak Naam Jahaj - Jersey City",
+            "info": {
+              "website": "http://nnjgurudwara.com/",
+              "address": {
+                "street": "1080 West Side Ave",
+                "city": "Jersey City",
+                "state": "NJ",
+                "zipcode": "07306"
+              },
+              "contact": {
+                "phone": "201-432-1122",
+                "email": "contact@NNJGurudwara.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Nanak-Naam-Jahaj-Gurudwara-of-Jersey-City-NJ-620131541357068/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Khalsa Darbar - Burlington",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "1040 Old York Rd",
+                "city": "Burlington",
+                "state": "NJ",
+                "zipcode": "08016"
+              },
+              "contact": {
+                "phone": "609-386-1561",
+                "email": "info@khalsadarbar.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Gurdwara-Khalsa-Darbar-of-South-Jersey/147289821982566",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
@@ -2996,7 +3216,118 @@
       {
         "name": "Ohio",
         "abbreviation": "OH",
-        "gurudwaras": [
+        "gurudwaras": [{
+          "name": "Dayton Gurdwara - Beavercreek",
+          "info": {
+            "website": "http://daytongurdwara.org/",
+            "address": {
+              "street": "2522 Nutter Park Drive",
+              "city": "Beavercreek",
+              "state": "OH",
+              "zipcode": "45434"
+            },
+            "contact": {
+              "phone": "937-902-3715",
+              "email": "daytongurdwara@hotmail.com"
+            },
+            "social": {
+              "facebook": "https://www.facebook.com/Dayton-Gurdwara-Sikh-Center-of-Dayton-203268979775288/",
+              "instagram": "",
+              "twitter": "",
+              "google": ""
+            }
+          }
+        },
+          {
+            "name": "Guru Nanak Religious Society of Central Ohio",
+            "info": {
+              "website": "http://www.gnrsohio.org/",
+              "address": {
+                "street": "​3745 Business Park Dr",
+                "city": "Columbus",
+                "state": "OH",
+                "zipcode": "43204"
+              },
+              "contact": {
+                "phone": "614-279-2700",
+                "email": "admin@gnrsohio.org "
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/gnrsohio/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Gobind Singh Sikh Gurudwara - Bedford",
+            "info": {
+              "website": "http://www.clevelandgurudwara.org/",
+              "address": {
+                "street": "38 Tarbell Ave",
+                "city": "Bedford",
+                "state": "OH",
+                "zipcode": "44146"
+              },
+              "contact": {
+                "phone": "440-232-1702",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Bedford-Gurudwara/162081293841273?rf=129236233809014",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Nanak Foundation Richfield",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "4220 Broadview Rd",
+                "city": "Richfield",
+                "state": "OH",
+                "zipcode": "44286"
+              },
+              "contact": {
+                "phone": "330-659-3748",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Guru-Nanak-Foundation-Inc/115223235166923",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Nanak Society - West Chester",
+            "info": {
+              "website": "http://gurunanaksociety.org/",
+              "address": {
+                "street": "4394 Tylersville Road",
+                "city": "Hamilton",
+                "state": "OH",
+                "zipcode": "45011"
+              },
+              "contact": {
+                "phone": "513-860-0589",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
+
+
         ]
       },
       {
@@ -3131,6 +3462,140 @@
         "name": "Pennsylvania",
         "abbreviation": "PA",
         "gurudwaras": [
+          {
+            "name": "Erie Sikh Gurudwara - Erie",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "1144 W 8TH Street",
+                "city": "Erie",
+                "state": "PA",
+                "zipcode": "196510"
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "The Blue Mountain Gurdwara - Bethel",
+            "info": {
+              "website": "http://web.archive.org/web/20150720020636/http://www.bluemountaingurdwara.info/",
+              "address": {
+                "street": "362 Schubert Rd",
+                "city": "Bethel",
+                "state": "PA",
+                "zipcode": "19507"
+              },
+              "contact": {
+                "phone": "717-933-8223",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/search/str/blue%2Bmountain%2Bgurdwara/keywords_places/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Nanak Sikh Society Of Lehigh Valley - Nazareth",
+            "info": {
+              "website": "http://www.gurunanaksslv.com/",
+              "address": {
+                "street": "648, DANIEL RD",
+                "city": "Nazareth",
+                "state": "PA",
+                "zipcode": "18064"
+              },
+              "contact": {
+                "phone": "610-759-5085",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Guru-Nanak-Sikh-Society-Of-Lehigh-Valley/163826843635792",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Philadelphia Sikh Society - Millbourne",
+            "info": {
+              "website": "http://gphillyss.webs.com/",
+              "address": {
+                "street": "6706 Garden Court Rd",
+                "city": "Millbourne",
+                "state": "PA",
+                "zipcode": "19082"
+              },
+              "contact": {
+                "phone": "",
+                "email": "gphillyss@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/GPhillySS/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Pittsburgh Sikh Gurudwara - Monroeville",
+            "info": {
+              "website": "http://www.pittsburghsikh.org/",
+              "address": {
+                "street": "4407 McKenzie Dr",
+                "city": "Monroeville",
+                "state": "PA",
+                "zipcode": "15146"
+              },
+              "contact": {
+                "phone": "412-372-8890",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Sikh-Gurudwara-Pittsburgh/154849917942729",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Nanak Sikh Society - Upper Darby",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "310 S 69th St",
+                "city": "Upper Darby",
+                "state": "PA",
+                "zipcode": "19082"
+              },
+              "contact": {
+                "phone": "610-734-3455",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Guru-Nanak-Sikh-Society/105296332870131",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
+
+
         ]
       },
       {
@@ -3235,6 +3700,138 @@
         "name": "Virginia",
         "abbreviation": "VA",
         "gurudwaras": [
+          {
+            "name": "Guru Nanak Foundation of Tidewater - Chesapeake",
+            "info": {
+              "website": "http://www.vagurudwara.com/",
+              "address": {
+                "street": "780 Finck Ln",
+                "city": "Chesapeake",
+                "state": "VA",
+                "zipcode": "23320"
+              },
+              "contact": {
+                "phone": "757-548-8008",
+                "email": "vagurudwara@gmail.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Center of Virginia - Manassas",
+            "info": {
+              "website": "http://www.sikhcenterofvirginia.org/",
+              "address": {
+                "street": "8015 Buckhall Road",
+                "city": "Manassas",
+                "state": "VA",
+                "zipcode": "20111"
+              },
+              "contact": {
+                "phone": "703-368-1300",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/sikhcenterva",
+                "instagram": "",
+                "twitter": "https://twitter.com/scvgurdwara",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Foundation of Virginia - Fairfax Station",
+            "info": {
+              "website": "http://www.sfova.org/",
+              "address": {
+                "street": "7250 Ox Road",
+                "city": "Fairfax Station",
+                "state": "VA",
+                "zipcode": "22039"
+              },
+              "contact": {
+                "phone": "703-323-8849",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Sikh-Foundation-of-Virginia/115249515164835",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Singh Sabha Gurdwara - Fairfax",
+            "info": {
+              "website": "http://web.archive.org/web/20160304040029/http://ssgva.com/",
+              "address": {
+                "street": "12001 Braddock Rd.",
+                "city": "Fairfax",
+                "state": "VA",
+                "zipcode": "22030"
+              },
+              "contact": {
+                "phone": "703-278-8333",
+                "email": "webmaster@ssgva.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/ssgva/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Singh Sabha - Richmond",
+            "info": {
+              "website": "http://www.ricgurudwara.org/",
+              "address": {
+                "street": "8610 Hull Street Rd",
+                "city": "Richmond",
+                "state": "VA",
+                "zipcode": "23236"
+              },
+              "contact": {
+                "phone": "804-310-4567",
+                "email": "ssricva@gmail.com"
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Roanoke Gurudwara - Salem",
+            "info": {
+              "website": "http://roanokegurudwara.org/",
+              "address": {
+                "street": "2222 Wildwood Road",
+                "city": "Salem",
+                "state": "VA",
+                "zipcode": "24153"
+              },
+              "contact": {
+                "phone": "540-227-0762",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/RoanokeGurudwaraorg/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {

@@ -191,67 +191,15 @@
 
 #New Jersey
 -   Garden State Sikh Association - Bridgewater
-    http://www.gssa.us	
-    977 Washington Valley Rd Basking Ridge, NJ 07920
-    (908) 658-9805  
-    gssa.langar@gmail.com
-    https://www.facebook.com/Garden-State-Sikh-Association-Bridgewater-Gurdwara-148612858514737/?hc_ref=SEARCH
-    
-
--   Sikh Sabha of New Jersey	Lawrenceville	
-    http://www.sikhsabha.org	
-    282 Bakers Basin Rd Lawrenceville, NJ 08648
-    https://www.facebook.com/sikhsabha.org/
-    (609) 587-3131
-    sikhsabhabod@yahoogroups.com
-
-
--   Gurudwara Singh Sabha, Carteret	
-    http://www.thesinghsabha.org	
-    941 Port Reading Ave Port Reading, NJ 07064
-    https://www.facebook.com/thesinghsabha.org/
-    (732) 541-4411
-    singhsabhacarteret@gmail.com
-
+-   Sikh Sabha of New Jersey - Lawrenceville	
+-   Gurudwara Singh Sabha - Carteret	
 -   Gurudwara Dashmesh Darbar - Carteret	
-    http://www.DashmeshDarbarNJ.org	
-    800 Port Reading Ave Port Reading, NJ 07064
-    732-541-6000
-
--    Sri Guru Singh Sabha, Glenrock	
-    http://www.glenrockgurudwara.org	
-    541 Prospect St Glen Rock, NJ 07452
-    https://www.facebook.com/Glenrockgurudwara1/?hc_ref=SEARCH
-    (201) 447-9891
-
+-    Sri Guru Singh Sabha - Glenrock	
 -   Guru Nanak Sikh Society of Delaware Valley	Pinehill	
-    http://www.gnssdv.com	
-    1110 Blackwood Clementon Rd Pine Hill, NJ 08021
-    856-464-9835
-    Info@gnssdv.com
-
 -   Gurdwara Sahib South Jersey Sikh Society - Vineland		
-    2014 S Lincoln Ave Vineland, NJ 08361
-    856-691-8400
-
 -   Gurdwara Sahib Central Jersey Sikh Association - Windsor
-    http://www.cjsanj.org	
-    116 N Main St Windsor, NJ 08561
-
--   Gurudwara Nanak Naam Jahaj	Jersey City	
-    http://nnjgurudwara.com/	
-    1080 West Side Ave Jersey City, NJ 07306
-    201-432-1122
-    https://www.facebook.com/Nanak-Naam-Jahaj-Gurudwara-of-Jersey-City-NJ-620131541357068/
-    contact@NNJGurudwara.com
-
-
--   Gurdwara Khalsa Darbar	Burlington		
-    https://www.facebook.com/pages/Gurdwara-Khalsa-Darbar-of-South-Jersey/147289821982566
-    (609) 386-1561
-    1040 Old York Rd Burlington, NJ 08016
-    info@khalsadarbar.com
-    
+-   Gurudwara Nanak Naam Jahaj - Jersey City	
+-   Gurdwara Khalsa Darbar - Burlington		
     
 
 #New York
@@ -275,44 +223,10 @@
 
 #Ohio
 -   Dayton Gurdwara	Beavercreek	
-    http://daytongurdwara.org/
-    https://www.facebook.com/Dayton-Gurdwara-Sikh-Center-of-Dayton-203268979775288/
-    2522 Nutter Park Drive
-    Beavercreek, OH 45434
-    
-    (937) 902-3715
-
-    daytongurdwara@hotmail.com
-    
-
 -   Guru Nanak Religious Society of Central Ohio /Columbus Gurdwara	Columbus	
-    ​3745 Business Park Dr
-    Columbus, Ohio 43204 
-    (614) 279-2700
-    http://www.gnrsohio.org/
-    admin@gnrsohio.org 
-    https://www.facebook.com/gnrsohio/
-    
-
--   Guru Gobind Singh Sikh Gurudwara	Bedford
-    38 Tarbell Ave, Bedford, OH 44146
-    (440) 232-1702
-    https://www.facebook.com/pages/Bedford-Gurudwara/162081293841273?rf=129236233809014
-    http://www.clevelandgurudwara.org/
-    
-
+-   Guru Gobind Singh Sikh Gurudwara - Bedford
 -   Guru Nanak Foundation Richfield
-    4220 Broadview Rd
-    Richfield, Ohio 44286
-    (330) 659-3748
-    https://www.facebook.com/pages/Guru-Nanak-Foundation-Inc/115223235166923?fref=ts
-
 -   Guru Nanak Society - West Chester
-    4394 Tylersville Road
-    Hamilton, Ohio 45011
-    513-860-0589
-    http://gurunanaksociety.org/
-
 -   **Guru Ram Das Ashram	Columbus**
     92 East Northwood Avenue	Columbus	OH	43201
     (614) 299-5687
@@ -336,43 +250,12 @@
 
 #Pennsylvania
 
--   Erie Sikh Gurudwara	Erie, Pennsylvania		
-    1144 W 8TH Street, Erie, PA 196510
-
--   The Blue Mountain Gurdwara	Bethel	
-    http://web.archive.org/web/20150720020636/http://www.bluemountaingurdwara.info/	
-    362 Schubert Rd Bethel, PA 19507
-    717-933-8223
-    https://www.facebook.com/search/str/blue%2Bmountain%2Bgurdwara/keywords_places/
-
--   Guru Nanak Sikh Society Of Lehigh Valley	Nazareth	
-    http://www.gurunanaksslv.com/
-    610-759-5085
-    648, DANIEL RD, NAZARETH PA 18064
-    https://www.facebook.com/pages/Guru-Nanak-Sikh-Society-Of-Lehigh-Valley/163826843635792
-
+-   Erie Sikh Gurudwara	Erie - Pennsylvania		
+-   The Blue Mountain Gurdwara - Bethel	
+-   Guru Nanak Sikh Society Of Lehigh Valley - Nazareth	
 -   Philadelphia Sikh Society - Millbourne	
-    http://gphillyss.webs.com/	
-    6706 Garden Court Rd, Millbourne, PA 19082
-    gphillyss@gmail.com
-    https://www.facebook.com/GPhillySS/
-    
-
--   Pittsburgh Sikh Gurudwara	Monroeville	http://www.pittsburghsikh.org/
-    https://www.facebook.com/pages/Sikh-Gurudwara-Pittsburgh/154849917942729
-    (412) 372-8890
-	
-    4407 McKenzie Dr
-    Monroeville, Pennsylvania 15146
-
+-   Pittsburgh Sikh Gurudwara - Monroeville	
 -   Guru Nanak Sikh Society	Upper Darby
-    (610) 734-3455
-    https://www.facebook.com/pages/Guru-Nanak-Sikh-Society/105296332870131
-    	
-    310 S 69th St
-    Upper Darby, Pennsylvania 19082
-
-
 
 #South Carolina
 
@@ -384,6 +267,28 @@
         Chapin, SC 29036
         917-415-0464
         gurdwaracolumbiaSC@gmail.com
+        {
+          "name": "",
+          "info": {
+            "website": "",
+            "address": {
+              "street": "",
+              "city": "",
+              "state": "",
+              "zipcode": ""
+            },
+            "contact": {
+              "phone": "",
+              "email": ""
+            },
+            "social": {
+              "facebook": "",
+              "instagram": "",
+              "twitter": "",
+              "google": ""
+            }
+          }
+        }
 
 -   **Singh Sabha of South Carolina	Columbia** 
     	? No Physical location  
@@ -397,27 +302,114 @@
         111 Harrison Road, Duncan, SC 29680
         Phone: +1.8645293897
         E-mail: info@sikhsofupstatesc.com
+        {
+          "name": "",
+          "info": {
+            "website": "",
+            "address": {
+              "street": "",
+              "city": "",
+              "state": "",
+              "zipcode": ""
+            },
+            "contact": {
+              "phone": "",
+              "email": ""
+            },
+            "social": {
+              "facebook": "",
+              "instagram": "",
+              "twitter": "",
+              "google": ""
+            }
+          }
+        }
 
 
 #Tennessee
--    Sikh Center of the Mid South - Memphis
+-   Sikh Center of the Mid South - Memphis
     http://sikhcenter.tripod.com	
     6263 Macon Rd, Memphis, TN-38134 
     901-246-1739
     https://www.facebook.com/pages/Sikh-Center-of-the-Mid-South/666934356739525
+    {
+      "name": "",
+      "info": {
+        "website": "",
+        "address": {
+          "street": "",
+          "city": "",
+          "state": "",
+          "zipcode": ""
+        },
+        "contact": {
+          "phone": "",
+          "email": ""
+        },
+        "social": {
+          "facebook": "",
+          "instagram": "",
+          "twitter": "",
+          "google": ""
+        }
+      }
+    }
 
 -    Midsouth Sikh Sabha - Cordova
     http://www.midsouthsikhsabha.org
     Gurdwara Sahib  1755 Appling Road, Cordova, TN 38016
     sdsriar@yahoo.com
     https://www.facebook.com/MidSouth-Sikh-Sabha-Gurudwara-Sahib-119528824808754/?hc_ref=SEARCH&fref=nf
+    {
+      "name": "",
+      "info": {
+        "website": "",
+        "address": {
+          "street": "",
+          "city": "",
+          "state": "",
+          "zipcode": ""
+        },
+        "contact": {
+          "phone": "",
+          "email": ""
+        },
+        "social": {
+          "facebook": "",
+          "instagram": "",
+          "twitter": "",
+          "google": ""
+        }
+      }
+    }
 
 -    The Southeastern Sikh Religious Society - Nashville
     http://www.nashvillegurdwara.org
     Nashville Gurudwara, 7673 Sawyer Brown Rd, Nashville, TN 37221
     https://www.facebook.com/SouthEasternSikhReligiousSociety
     (615) 578-8703
-
+{
+  "name": "",
+  "info": {
+    "website": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zipcode": ""
+    },
+    "contact": {
+      "phone": "",
+      "email": ""
+    },
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "google": ""
+    }
+  }
+}
 #Texas
 
 -   **Gobind Dham	Laredo**
@@ -427,6 +419,28 @@
     (972) 496-3496
     1401 W Campbell Rd
     Garland, Texas 75044
+    {
+      "name": "",
+      "info": {
+        "website": "",
+        "address": {
+          "street": "",
+          "city": "",
+          "state": "",
+          "zipcode": ""
+        },
+        "contact": {
+          "phone": "",
+          "email": ""
+        },
+        "social": {
+          "facebook": "",
+          "instagram": "",
+          "twitter": "",
+          "google": ""
+        }
+      }
+    }
 
 -   Gurdwara Singh Sabha of North Texas	Richardson	
     http://www.gurdwararichardson.org/
@@ -435,7 +449,28 @@
     Richardson, Texas
     (972) 235-3388
     gssofnt@gmail.com
-
+{
+  "name": "",
+  "info": {
+    "website": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zipcode": ""
+    },
+    "contact": {
+      "phone": "",
+      "email": ""
+    },
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "google": ""
+    }
+  }
+}
 
  -  Gurudwara Sikh Sangat Euless	
  	http://sites.google.com/site/gurdwarasikhsangat/directions
@@ -444,7 +479,28 @@
     1400 West Euless Blvd.
     Euless, TX 76040-6910 
     https://www.facebook.com/pages/Gurudwara-Sikh-Sangat-of-Euless/326302174150163  
-    
+    {
+      "name": "",
+      "info": {
+        "website": "",
+        "address": {
+          "street": "",
+          "city": "",
+          "state": "",
+          "zipcode": ""
+        },
+        "contact": {
+          "phone": "",
+          "email": ""
+        },
+        "social": {
+          "facebook": "",
+          "instagram": "",
+          "twitter": "",
+          "google": ""
+        }
+      }
+    }
 
 -  Gurudwara Sikh Temple Of North Texas	Garland	
     http://www.gurdwaragarland.org/
@@ -452,21 +508,84 @@
     506 Gatewood Rd
     Garland, TX 75043
     (972) 240-5348
-
+{
+  "name": "",
+  "info": {
+    "website": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zipcode": ""
+    },
+    "contact": {
+      "phone": "",
+      "email": ""
+    },
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "google": ""
+    }
+  }
+}
 -   The Sikh Centre of the Gulf Coast Area	Houston	
     http://www.sikhcenterhouston.org/
     https://www.facebook.com/thesikhcenter
     8819 Prairie Drive
     Houston, TX 77064
     
-
+{
+  "name": "",
+  "info": {
+    "website": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zipcode": ""
+    },
+    "contact": {
+      "phone": "",
+      "email": ""
+    },
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "google": ""
+    }
+  }
+}
 -   Guru Ravidass Temple	Houston
     http://www.gururavidasstemplehouston.org/
     Shri Guru Ravidass Temple Houston
     10215 Brighton Ln. 
     Houston TX 77031
     Phone: 832 860 9401
-    
+    {
+      "name": "",
+      "info": {
+        "website": "",
+        "address": {
+          "street": "",
+          "city": "",
+          "state": "",
+          "zipcode": ""
+        },
+        "contact": {
+          "phone": "",
+          "email": ""
+        },
+        "social": {
+          "facebook": "",
+          "instagram": "",
+          "twitter": "",
+          "google": ""
+        }
+      }
+    }
 
 -   Gurudwara Sahib Of Houston	Houston	
     http://www.gurudwarasahibhouston.com/
@@ -474,13 +593,55 @@
     7902 Boone Rd
     Houston, Texas 77072
     Phone	(832) 541-4339
-
+{
+  "name": "",
+  "info": {
+    "website": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zipcode": ""
+    },
+    "contact": {
+      "phone": "",
+      "email": ""
+    },
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "google": ""
+    }
+  }
+}
 -   Gurudwara Nanaksar Houston	
     (713) 466-3380
     6834 Satsuma Dr
     Houston, Texas 77041
     http://gurdwarananaksar.com/english/houston_e.html
-
+{
+  "name": "",
+  "info": {
+    "website": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zipcode": ""
+    },
+    "contact": {
+      "phone": "",
+      "email": ""
+    },
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "google": ""
+    }
+  }
+}
 -   **Guru Ram Das Ashram	Austin**
 
 -   Singh Sabha Gurudwara	Austin	http://www.austingurdwara.org/home.php
@@ -495,7 +656,28 @@
     Irving, Texas
     (214) 289-8690
     sevadar.nishkam@gmail.com
-
+{
+  "name": "",
+  "info": {
+    "website": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zipcode": ""
+    },
+    "contact": {
+      "phone": "",
+      "email": ""
+    },
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "google": ""
+    }
+  }
+}
 -   Austin Gurudwara Sahib	Austin	
     http://www.austingurdwarasahib.com/
     webmaster@austingurdwarasahib.com
@@ -504,7 +686,28 @@
     5104 Avispa Way
     Austin, Texas
     webmaster@austingurdwarasahib.com
-
+{
+  "name": "",
+  "info": {
+    "website": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zipcode": ""
+    },
+    "contact": {
+      "phone": "",
+      "email": ""
+    },
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "google": ""
+    }
+  }
+}
 -   **Sri Nankana Sahib Foundation - Houston**
     
 
@@ -513,7 +716,28 @@
     San Antonio, TX 78240
     http://www.sikhcentersa.org/
     https://www.facebook.com/SikhCenterOfSanAntonio/?ref=br_rs
-
+{
+  "name": "",
+  "info": {
+    "website": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zipcode": ""
+    },
+    "contact": {
+      "phone": "",
+      "email": ""
+    },
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "google": ""
+    }
+  }
+}
 -   **Sikh Spirit Foundation	San Antonio**
     http://www.sikhspiritfoundation.org/index.php
     ideas@sikhspiritfoundation.org
@@ -526,35 +750,10 @@
 
 #Virginia
 
--   Guru Nanak Foundation of Tidewater	Chesapeake
-    http://www.vagurudwara.com/
-    780 Finck Ln, Chesapeake, VA 23320
-    757.548.8008
-    vagurudwara@gmail.com
-
+-   Guru Nanak Foundation of Tidewater - Chesapeake
 -   Sikh Center of Virginia	Manassas
-    8015 Buckhall Road, Manassas, VA 20111
-    703-368-1300
-    http://www.sikhcenterofvirginia.org/
-    https://www.facebook.com/sikhcenterva
-    https://twitter.com/scvgurdwara
-
-
 -  Sikh Foundation of Virginia - Fairfax Station
-   http://www.sfova.org/
-   7250 Ox Road
-   Fairfax Station VA 22039
-   703-323-8849
-   https://www.facebook.com/pages/Sikh-Foundation-of-Virginia/115249515164835
-
-
--   Singh Sabha Gurdwara	Fairfax
-    http://web.archive.org/web/20160304040029/http://ssgva.com/
-    webmaster@ssgva.com
-    12001 Braddock Rd. Fairfax, VA 22030 
-    (703) 278-8333
-    https://www.facebook.com/ssgva/
-
+-   Singh Sabha Gurdwara - Fairfax
 -   **Richmond Gurdwara	Richmond**
     http://web.archive.org/web/20160322034545/http://www.richmondgurdwara.org/
     4500 Marty Boulevard
@@ -563,21 +762,8 @@
     23234
     (804) 271 1771
 
--   Gurdwara Singh Sabha	Richmond
-    http://www.ricgurudwara.org/
-    8610 Hull Street Rd, Richmond, VA 23236
-    ssricva@gmail.com
-    Tel: 804 - 310 - 4567
-    ssricva@gmail.com
-    
-    
--   Roanoke Gurudwara	Salem
-    http://roanokegurudwara.org/
-    2222 Wildwood Road, Salem VA 24153
-    (540) 227-0762.
-    https://www.facebook.com/RoanokeGurudwaraorg/
-
-
+-   Gurdwara Singh Sabha - Richmond
+-   Roanoke Gurudwara - Salem
 
 #Washington
 
