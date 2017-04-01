@@ -5,7 +5,7 @@
 ### Inspiration
     https://www.worldgurudwaras.com/ not being open source, and there is no data for the same purpose.
 
-###Tasks
+### Tasks
     Coverting the list here https://en.wikipedia.org/wiki/List_of_gurdwaras_in_the_United_States into JSON format
 
 
@@ -25,7 +25,7 @@ You can learn a bit more here how to create a pull request -
 ---
 
 
-###Resources
+### Resources
 - List of States copied from : https://gist.github.com/mshafrir/2646763
 - Country code standard like this http://www.worldatlas.com/aatlas/ctycodes.htm
 
@@ -36,7 +36,7 @@ list of gurdwaras on facebook
 Also Not sure why all websites are having copyrights as most of data is public information and there is no content to be copyrighted !!  
 - To be read https://www.sitepoint.com/what-it-means-to-copyright-a-website/
 
-#PROJECT-IDEAS:
+# PROJECT-IDEAS:
 - Mailing List
 - Images posting.
 - Internet Location services - Autocheckin
