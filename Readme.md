@@ -1,6 +1,6 @@
-##Adding list of gurdwaras per state.
+## Adding list of gurdwaras per state.
 
-###This is work in progress. Please do not use it as such.
+### This is work in progress. Please do not use it as such.
 
 ### Inspiration
     https://www.worldgurudwaras.com/ not being open source, and there is no data for the same purpose.
