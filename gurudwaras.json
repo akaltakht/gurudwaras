@@ -3216,28 +3216,29 @@
       {
         "name": "Ohio",
         "abbreviation": "OH",
-        "gurudwaras": [{
-          "name": "Dayton Gurdwara - Beavercreek",
-          "info": {
-            "website": "http://daytongurdwara.org/",
-            "address": {
-              "street": "2522 Nutter Park Drive",
-              "city": "Beavercreek",
-              "state": "OH",
-              "zipcode": "45434"
-            },
-            "contact": {
-              "phone": "937-902-3715",
-              "email": "daytongurdwara@hotmail.com"
-            },
-            "social": {
-              "facebook": "https://www.facebook.com/Dayton-Gurdwara-Sikh-Center-of-Dayton-203268979775288/",
-              "instagram": "",
-              "twitter": "",
-              "google": ""
+        "gurudwaras": [
+          {
+            "name": "Dayton Gurdwara - Beavercreek",
+            "info": {
+              "website": "http://daytongurdwara.org/",
+              "address": {
+                "street": "2522 Nutter Park Drive",
+                "city": "Beavercreek",
+                "state": "OH",
+                "zipcode": "45434"
+              },
+              "contact": {
+                "phone": "937-902-3715",
+                "email": "daytongurdwara@hotmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Dayton-Gurdwara-Sikh-Center-of-Dayton-203268979775288/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
             }
-          }
-        },
+          },
           {
             "name": "Guru Nanak Religious Society of Central Ohio",
             "info": {
@@ -3326,8 +3327,6 @@
               }
             }
           }
-
-
         ]
       },
       {
@@ -3594,8 +3593,6 @@
               }
             }
           }
-
-
         ]
       },
       {
@@ -3742,6 +3739,270 @@
         "name": "Texas",
         "abbreviation": "TX",
         "gurudwaras": [
+          {
+            "name": "Gurdwara Akaljot Garland",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "1401 W Campbell Rd",
+                "city": "Garland",
+                "state": "TX",
+                "zipcode": "75044"
+              },
+              "contact": {
+                "phone": "972-496-3496",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Akaljot-Gurdwara/126565240732164",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurdwara Singh Sabha of North Texas Richardson",
+            "info": {
+              "website": "http://www.gurdwararichardson.org/",
+              "address": {
+                "street": "1201 Abrams Rd",
+                "city": "Richardson",
+                "state": "TX",
+                "zipcode": ""
+              },
+              "contact": {
+                "phone": "972-235-3388",
+                "email": "gssofnt@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/gssofnt",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurudwara Sikh Sangat Euless",
+            "info": {
+              "website": "http://sites.google.com/site/gurdwarasikhsangat/directions",
+              "address": {
+                "street": "1400 West Euless Blvd.",
+                "city": "Euless",
+                "state": "TX",
+                "zipcode": "76040"
+              },
+              "contact": {
+                "phone": "817-267-7664",
+                "email": "DFWSikhSangat@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Gurudwara-Sikh-Sangat-of-Euless/326302174150163",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurudwara Sikh Temple Of North Texas - Garland",
+            "info": {
+              "website": " http://www.gurdwaragarland.org/",
+              "address": {
+                "street": "506 Gatewood Rd",
+                "city": "Garland",
+                "state": "TX",
+                "zipcode": "75043"
+              },
+              "contact": {
+                "phone": "972-240-5348",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/SikhTempleGarland",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "The Sikh Centre of the Gulf Coast Area - Houston",
+            "info": {
+              "website": "http://www.sikhcenterhouston.org/",
+              "address": {
+                "street": "8819 Prairie Drive",
+                "city": "Houston",
+                "state": "TX",
+                "zipcode": "77064"
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/thesikhcenter",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Guru Ravidass Temple - Houston",
+            "info": {
+              "website": "http://www.gururavidasstemplehouston.org/",
+              "address": {
+                "street": "10215 Brighton Ln.",
+                "city": "Houston",
+                "state": "TX",
+                "zipcode": "77031"
+              },
+              "contact": {
+                "phone": "832-860-9401",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurudwara Sahib Of Houston - Houston",
+            "info": {
+              "website": "",
+              "address": {
+                "street": "7902 Boone Rd",
+                "city": "Houston",
+                "state": "TX",
+                "zipcode": "77072"
+              },
+              "contact": {
+                "phone": "832-541-4339",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/pages/Shri-Guru-Ravidass-Temple/236869619810862",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Gurudwara Nanaksar - Houston",
+            "info": {
+              "website": "http://gurdwarananaksar.com/english/houston_e.html",
+              "address": {
+                "street": "6834 Satsuma Dr",
+                "city": "Houston",
+                "state": "TX",
+                "zipcode": "77041"
+              },
+              "contact": {
+                "phone": "713-466-3380",
+                "email": ""
+              },
+              "social": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Singh Sabha Gurudwara - Austin",
+            "info": {
+              "website": "http://www.austingurdwara.org/home.php",
+              "address": {
+                "street": "10625 Ranch Road 620 N",
+                "city": "Austin",
+                "state": "TX",
+                "zipcode": "78726"
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/austingurdwara",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Study Circle DFW - Irving",
+            "info": {
+              "website": "http://irvinggurdwara.org/index.html",
+              "address": {
+                "street": "834 N Nursery Rd",
+                "city": "Irving",
+                "state": "TX",
+                "zipcode": ""
+              },
+              "contact": {
+                "phone": "214-289-8690",
+                "email": "sevadar.nishkam@gmail.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/Irvinggurdwara/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Austin Gurudwara Sahib - Austin",
+            "info": {
+              "website": "http://www.austingurdwarasahib.com/",
+              "address": {
+                "street": "5104 Avispa Way",
+                "city": "Austin",
+                "state": "TX",
+                "zipcode": ""
+              },
+              "contact": {
+                "phone": "512-263-9551",
+                "email": "webmaster@austingurdwarasahib.com"
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/AustinGurdwaraSahib/",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          },
+          {
+            "name": "Sikh Center of San Antonio - San Antonio",
+            "info": {
+              "website": "http://www.sikhcentersa.org/",
+              "address": {
+                "street": "6011 Hollyhock Road",
+                "city": "San Antonio",
+                "state": "TX",
+                "zipcode": "78240"
+              },
+              "contact": {
+                "phone": "",
+                "email": ""
+              },
+              "social": {
+                "facebook": "https://www.facebook.com/SikhCenterOfSanAntonio",
+                "instagram": "",
+                "twitter": "",
+                "google": ""
+              }
+            }
+          }
         ]
       },
       {
