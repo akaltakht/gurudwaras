@@ -9,7 +9,7 @@
     Coverting the list here https://en.wikipedia.org/wiki/List_of_gurdwaras_in_the_United_States into JSON format
 
 
-#Contribute
+# Contribute
 
 **Good resource to how to contribute:** 
     https://opensource.guide/
